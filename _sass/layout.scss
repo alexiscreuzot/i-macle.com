@@ -164,6 +164,17 @@ header {
   }
 }
 
+#benefits {
+  ul {
+    list-style: none;
+    padding-left: 3rem;
+  }
+  li::before {
+    content: "✅";
+    padding-right: 1rem;
+  }
+}
+
 .course {
 
   margin: 1rem 0;
