@@ -16,6 +16,9 @@ email_address                             : contact@monoqle.fr
 sass:
   style: :compressed # You might prefer to minify using :compressed
 
+
+baseurl: "" # the subpath of your site, e.g. /blog
+destination: docs
 # Exclude these files from your production _site
 exclude:
   - LICENSE
@@ -23,11 +26,3 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
-# Markdown rendering
-markdown: kramdown
