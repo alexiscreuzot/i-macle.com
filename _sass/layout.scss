@@ -136,7 +136,7 @@ a {
 
   & .button {
     float:right;
-    margin: 12px;
+    margin: 18px 0 20px;
   }
 }
 
@@ -199,6 +199,8 @@ header {
     color:#333;
   }
   .more-icon {
+    font-weight: 800;
+    margin:3px 10px 0 0;
     font-family: $subtitle-font;
     float: right;
     color: $accent-color;
@@ -237,7 +239,11 @@ header {
 
   color: adjust-hue($accent-color, 180deg);
   padding-top: 4rem;
-  height: 280px;
+  height: 250px;
+  padding: 0;
+  display: flex;
+    align-items: center;
+    justify-content: center;
 
   & .slide {
     display: none;
@@ -290,9 +296,6 @@ footer {
   h1 {
     font-size: 2rem;
   }
-  header .front {
-    height: 420px;
-  }
   h2 {
     font-size: 1.8rem;
   }
@@ -300,23 +303,20 @@ footer {
   h3 {
     font-size: 1.3rem;
   }
-
-  #main span.price {
-    display: block;
-    float:none;
-  }
-
   p, li {
     font-size: 1.1rem;
   }
 
-  ul, #main ul.pricing {
-    padding: 1rem;
-    max-width: 100%;
+  .section {
+    padding: 1rem 0;
   }
-  header .amg {
+
+  header {
+
+  & .front {
     height: 250px;
   }
+}
 
 }
 
