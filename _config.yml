@@ -23,6 +23,5 @@ destination: docs
 exclude:
   - LICENSE
   - README.md
-  - CNAME
   - Gemfile
   - Gemfile.lock
