@@ -1,0 +1,28 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@font-face {
+    font-family: 'Adam-Bold';
+    src: url(assets/fonts/Adam-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Adam-Medium';
+    src: url(assets/fonts/Adam-Medium.ttf) format('truetype');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('assets/fonts/icofont/icofont.css');
+
+$logo-font: 'Adam-Medium';
+$title-font: 'Adam-Bold';
+$subtitle-font: 'DM Serif Display';
+
+$accent-color: #356c99;
+$body-color: lighten($accent-color, 80%);
+
+@import 
+    "base",
+    "buttons",
+    "layout",
+    "slider"
