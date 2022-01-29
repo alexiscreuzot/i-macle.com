@@ -13,8 +13,8 @@
 }
 
 .text{
-  padding: 2em 2rem 0;
-  font-size: 1rem;
+  padding: 1.5em .5rem 0 1.5rem;
+  font-size: 0.9rem;
   font-weight: 200;
   color: #666;
 }
@@ -33,17 +33,17 @@
   display:flex;
   justify-content:center;
 
-  &.natali {
-    background:no-repeat center/cover url("./assets/images/natali.jpg");
+  &.lupita {
+    background:no-repeat center/cover url("./assets/images/lupita.jpg");
   }
-  &.patrick {
-    background:no-repeat center/cover url("./assets/images/enrique.jpg");
+  &.aurelien {
+    background:no-repeat center/cover url("./assets/images/aurelien.jpg");
   }
-  &.edel {
-    background:no-repeat center/cover url("./assets/images/edel.jpg");
+  &.diana {
+    background:no-repeat center/cover url("./assets/images/diana.jpg");
   }
-  &.pamela {
-    background:no-repeat center/cover url("./assets/images/pamela.jpg");
+  &.alvaro {
+    background:no-repeat center/cover url("./assets/images/alvaro.jpg");
   }
 }
 
@@ -52,7 +52,7 @@
   border-radius: 0 0 10px 10px;
   position:relative;
   text-align: center;
-  margin-top: -20px;
+  margin-top: 0px;
 }
 
 .quote{

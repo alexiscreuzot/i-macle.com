@@ -1,8 +1,8 @@
-$anim-duration: 15s;
+#slideshow {
 
-.slider {
+ 
 
-}
+  $anim-duration: 15s;
 
 .slide1,.slide2,.slide3,.slide4 {
   position: absolute;
@@ -72,3 +72,7 @@ $anim-duration: 15s;
   80% { opacity: 1}
   100% { opacity: 0}
 }
+
+
+}
+
