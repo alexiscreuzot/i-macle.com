@@ -33,299 +33,69 @@ url("./fonts/icofont.woff") format("woff");
   -webkit-font-smoothing: antialiased;
 }
 
-.icofont-abc:before
+.icofont-arrow-down:before
 {
-  content: "\eacc";
+  content: "\ea5b";
 }
 
-.icofont-atom:before
+.icofont-arrow-left:before
 {
-  content: "\eacd";
+  content: "\ea5c";
 }
 
-.icofont-award:before
+.icofont-arrow-right:before
 {
-  content: "\eace";
+  content: "\ea5d";
 }
 
-.icofont-bell-alt:before
+.icofont-arrow-up:before
 {
-  content: "\eacf";
+  content: "\ea5e";
 }
 
-.icofont-black-board:before
+.icofont-rounded-right:before
 {
-  content: "\ead0";
+  content: "\eaa0";
 }
 
-.icofont-book-alt:before
+.icofont-rounded-up:before
 {
-  content: "\ead1";
+  content: "\eaa1";
 }
 
-.icofont-book:before
+.icofont-rounded-down:before
 {
-  content: "\ead2";
+  content: "\ea99";
 }
 
-.icofont-brainstorming:before
+.icofont-rounded-left:before
 {
-  content: "\ead3";
+  content: "\ea9d";
 }
 
-.icofont-certificate-alt-1:before
+.icofont-hand-up:before
 {
-  content: "\ead4";
+  content: "\ea8d";
 }
 
-.icofont-certificate-alt-2:before
+.icofont-hand-right:before
 {
-  content: "\ead5";
+  content: "\ea8c";
 }
 
-.icofont-certificate:before
+.icofont-hand-left:before
 {
-  content: "\ead6";
+  content: "\ea8b";
 }
 
-.icofont-education:before
+.icofont-hand-down:before
 {
-  content: "\ead7";
-}
-
-.icofont-electron:before
-{
-  content: "\ead8";
-}
-
-.icofont-fountain-pen:before
-{
-  content: "\ead9";
-}
-
-.icofont-globe-alt:before
-{
-  content: "\eada";
-}
-
-.icofont-graduate-alt:before
-{
-  content: "\eadb";
-}
-
-.icofont-graduate:before
-{
-  content: "\eadc";
-}
-
-.icofont-group-students:before
-{
-  content: "\eadd";
-}
-
-.icofont-hat-alt:before
-{
-  content: "\eade";
-}
-
-.icofont-hat:before
-{
-  content: "\eadf";
-}
-
-.icofont-instrument:before
-{
-  content: "\eae0";
-}
-
-.icofont-lamp-light:before
-{
-  content: "\eae1";
-}
-
-.icofont-medal:before
-{
-  content: "\eae2";
-}
-
-.icofont-microscope-alt:before
-{
-  content: "\eae3";
-}
-
-.icofont-microscope:before
-{
-  content: "\eae4";
-}
-
-.icofont-paper:before
-{
-  content: "\eae5";
-}
-
-.icofont-pen-alt-4:before
-{
-  content: "\eae6";
-}
-
-.icofont-pen-nib:before
-{
-  content: "\eae7";
-}
-
-.icofont-pencil-alt-5:before
-{
-  content: "\eae8";
-}
-
-.icofont-quill-pen:before
-{
-  content: "\eae9";
-}
-
-.icofont-read-book-alt:before
-{
-  content: "\eaea";
-}
-
-.icofont-read-book:before
-{
-  content: "\eaeb";
-}
-
-.icofont-school-bag:before
-{
-  content: "\eaec";
-}
-
-.icofont-school-bus:before
-{
-  content: "\eaed";
-}
-
-.icofont-student-alt:before
-{
-  content: "\eaee";
-}
-
-.icofont-student:before
-{
-  content: "\eaef";
-}
-
-.icofont-teacher:before
-{
-  content: "\eaf0";
-}
-
-.icofont-test-bulb:before
-{
-  content: "\eaf1";
-}
-
-.icofont-test-tube-alt:before
-{
-  content: "\eaf2";
-}
-
-.icofont-university:before
-{
-  content: "\eaf3";
-}
-
-.icofont-5-star-hotel:before
-{
-  content: "\ee41";
-}
-
-.icofont-air-ticket:before
-{
-  content: "\ee42";
-}
-
-.icofont-beach-bed:before
-{
-  content: "\ee43";
-}
-
-.icofont-beach:before
-{
-  content: "\ee44";
-}
-
-.icofont-camping-vest:before
-{
-  content: "\ee45";
-}
-
-.icofont-direction-sign:before
-{
-  content: "\ee46";
-}
-
-.icofont-hill-side:before
-{
-  content: "\ee47";
-}
-
-.icofont-hill:before
-{
-  content: "\ee48";
-}
-
-.icofont-hotel:before
-{
-  content: "\ee49";
-}
-
-.icofont-island-alt:before
-{
-  content: "\ee4a";
-}
-
-.icofont-island:before
-{
-  content: "\ee4b";
-}
-
-.icofont-sandals-female:before
-{
-  content: "\ee4c";
-}
-
-.icofont-sandals-male:before
-{
-  content: "\ee4d";
-}
-
-.icofont-travelling:before
-{
-  content: "\ee4e";
+  content: "\ea7e";
 }
 
 .icofont-bank-alt:before
 {
   content: "\e961";
-}
-
-.icofont-bank:before
-{
-  content: "\e962";
-}
-
-.icofont-barcode:before
-{
-  content: "\e963";
-}
-
-.icofont-bill-alt:before
-{
-  content: "\e964";
-}
-
-.icofont-billboard:before
-{
-  content: "\e965";
 }
 
 .icofont-briefcase-1:before
@@ -348,199 +118,9 @@ url("./fonts/icofont.woff") format("woff");
   content: "\e969";
 }
 
-.icofont-chair:before
-{
-  content: "\e96a";
-}
-
-.icofont-coins:before
-{
-  content: "\e96b";
-}
-
-.icofont-company:before
-{
-  content: "\e96c";
-}
-
-.icofont-contact-add:before
-{
-  content: "\e96d";
-}
-
-.icofont-files-stack:before
-{
-  content: "\e96e";
-}
-
-.icofont-handshake-deal:before
-{
-  content: "\e96f";
-}
-
-.icofont-id-card:before
-{
-  content: "\e970";
-}
-
 .icofont-meeting-add:before
 {
   content: "\e971";
-}
-
-.icofont-money-bag:before
-{
-  content: "\e972";
-}
-
-.icofont-pie-chart:before
-{
-  content: "\e973";
-}
-
-.icofont-presentation-alt:before
-{
-  content: "\e974";
-}
-
-.icofont-presentation:before
-{
-  content: "\e975";
-}
-
-.icofont-stamp:before
-{
-  content: "\e976";
-}
-
-.icofont-stock-mobile:before
-{
-  content: "\e977";
-}
-
-.icofont-android-nexus:before
-{
-  content: "\ea29";
-}
-
-.icofont-android-tablet:before
-{
-  content: "\ea2a";
-}
-
-.icofont-apple-watch:before
-{
-  content: "\ea2b";
-}
-
-.icofont-drawing-tablet:before
-{
-  content: "\ea2c";
-}
-
-.icofont-earphone:before
-{
-  content: "\ea2d";
-}
-
-.icofont-flash-drive:before
-{
-  content: "\ea2e";
-}
-
-.icofont-game-console:before
-{
-  content: "\ea2f";
-}
-
-.icofont-game-controller:before
-{
-  content: "\ea30";
-}
-
-.icofont-game-pad:before
-{
-  content: "\ea31";
-}
-
-.icofont-game:before
-{
-  content: "\ea32";
-}
-
-.icofont-headphone-alt-1:before
-{
-  content: "\ea33";
-}
-
-.icofont-headphone-alt-2:before
-{
-  content: "\ea34";
-}
-
-.icofont-headphone-alt-3:before
-{
-  content: "\ea35";
-}
-
-.icofont-headphone-alt:before
-{
-  content: "\ea36";
-}
-
-.icofont-headphone:before
-{
-  content: "\ea37";
-}
-
-.icofont-htc-one:before
-{
-  content: "\ea38";
-}
-
-.icofont-imac:before
-{
-  content: "\ea39";
-}
-
-.icofont-ipad:before
-{
-  content: "\ea3a";
-}
-
-.icofont-iphone:before
-{
-  content: "\ea3b";
-}
-
-.icofont-ipod-nano:before
-{
-  content: "\ea3c";
-}
-
-.icofont-ipod-touch:before
-{
-  content: "\ea3d";
-}
-
-.icofont-keyboard-alt:before
-{
-  content: "\ea3e";
-}
-
-.icofont-keyboard-wireless:before
-{
-  content: "\ea3f";
-}
-
-.icofont-keyboard:before
-{
-  content: "\ea40";
-}
-
-.icofont-laptop-alt:before
-{
-  content: "\ea41";
 }
 
 .icofont-laptop:before
@@ -548,124 +128,99 @@ url("./fonts/icofont.woff") format("woff");
   content: "\ea42";
 }
 
-.icofont-macbook:before
+.icofont-laptop-alt:before
 {
-  content: "\ea43";
+  content: "\ea41";
 }
 
-.icofont-magic-mouse:before
+.icofont-certificate:before
 {
-  content: "\ea44";
+  content: "\ead6";
 }
 
-.icofont-micro-chip:before
+.icofont-certificate-alt-2:before
 {
-  content: "\ea45";
+  content: "\ead5";
 }
 
-.icofont-microphone-alt:before
+.icofont-globe-alt:before
 {
-  content: "\ea46";
+  content: "\eada";
 }
 
-.icofont-microphone:before
+.icofont-group-students:before
 {
-  content: "\ea47";
+  content: "\eadd";
 }
 
-.icofont-monitor:before
+.icofont-hat-alt:before
 {
-  content: "\ea48";
+  content: "\eade";
 }
 
-.icofont-mouse:before
+.icofont-hat:before
 {
-  content: "\ea49";
+  content: "\eadf";
 }
 
-.icofont-mp3-player:before
+.icofont-instrument:before
 {
-  content: "\ea4a";
+  content: "\eae0";
 }
 
-.icofont-nintendo:before
+.icofont-medal:before
 {
-  content: "\ea4b";
+  content: "\eae2";
 }
 
-.icofont-playstation-alt:before
+.icofont-microscope-alt:before
 {
-  content: "\ea4c";
+  content: "\eae3";
 }
 
-.icofont-psvita:before
+.icofont-student-alt:before
 {
-  content: "\ea4d";
+  content: "\eaee";
 }
 
-.icofont-radio-mic:before
+.icofont-student:before
 {
-  content: "\ea4e";
+  content: "\eaef";
 }
 
-.icofont-radio:before
+.icofont-teacher:before
 {
-  content: "\ea4f";
+  content: "\eaf0";
 }
 
-.icofont-refrigerator:before
+.icofont-test-tube-alt:before
 {
-  content: "\ea50";
+  content: "\eaf2";
 }
 
-.icofont-samsung-galaxy:before
+.icofont-university:before
 {
-  content: "\ea51";
+  content: "\eaf3";
 }
 
-.icofont-surface-tablet:before
+.icofont-brainstorming:before
 {
-  content: "\ea52";
+  content: "\ead3";
 }
 
-.icofont-ui-head-phone:before
+.icofont-book:before
 {
-  content: "\ea53";
+  content: "\ead2";
 }
 
-.icofont-ui-keyboard:before
+.icofont-certificate-alt-1:before
 {
-  content: "\ea54";
+  content: "\ead4";
 }
 
-.icofont-washing-machine:before
+.icofont-dart:before
 {
-  content: "\ea55";
-}
-
-.icofont-wifi-router:before
-{
-  content: "\ea56";
-}
-
-.icofont-wii-u:before
-{
-  content: "\ea57";
-}
-
-.icofont-windows-lumia:before
-{
-  content: "\ea58";
-}
-
-.icofont-wireless-mouse:before
-{
-  content: "\ea59";
-}
-
-.icofont-xbox-360:before
-{
-  content: "\ea5a";
+  content: "\e808";
 }
 
 .icofont-xs

@@ -19,6 +19,7 @@ $title-font: 'Adam-Bold';
 $subtitle-font: 'DM Serif Display';
 
 $accent-color: #356c99;
+$complement-color: adjust-hue($accent-color, 180deg);
 $body-color: lighten($accent-color, 80%);
 
 @import 

@@ -167,7 +167,7 @@ header {
 
 
 #slideshow {
-  background-color: lighten(adjust-hue($accent-color, 180deg), 52%);
+  background-color: lighten($complement-color, 52%);
   padding-top: 4rem;
   height: 250px;
   padding: 0;
@@ -224,9 +224,7 @@ header {
       color:#fefefe;
     }
     .more-icon {
-      font-weight: 800;
-      margin:3px 0 0 0;
-      font-family: $subtitle-font;
+      margin:4px 0 0 0;
       float: right;
       color: lighten($accent-color, 52%);
       text-align: right;
