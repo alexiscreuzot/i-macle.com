@@ -1,6 +1,8 @@
 
 #prices {
 
+
+
     /* Create three columns of equal width */
   .columns {
     float: left;
@@ -36,6 +38,7 @@
     color: white;
     margin: 0;
     font-weight: bold;
+    
   }
 
   .price .header.premium {
@@ -56,6 +59,7 @@
     font-size: 20px;
     color: #111;
     font-weight: bold;
+    font-family: $subtitle-font;
   }
 
   /* The "Sign Up" button */
