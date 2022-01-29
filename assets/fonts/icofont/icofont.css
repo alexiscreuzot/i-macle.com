@@ -418,6 +418,256 @@ url("./fonts/icofont.woff") format("woff");
   content: "\e977";
 }
 
+.icofont-android-nexus:before
+{
+  content: "\ea29";
+}
+
+.icofont-android-tablet:before
+{
+  content: "\ea2a";
+}
+
+.icofont-apple-watch:before
+{
+  content: "\ea2b";
+}
+
+.icofont-drawing-tablet:before
+{
+  content: "\ea2c";
+}
+
+.icofont-earphone:before
+{
+  content: "\ea2d";
+}
+
+.icofont-flash-drive:before
+{
+  content: "\ea2e";
+}
+
+.icofont-game-console:before
+{
+  content: "\ea2f";
+}
+
+.icofont-game-controller:before
+{
+  content: "\ea30";
+}
+
+.icofont-game-pad:before
+{
+  content: "\ea31";
+}
+
+.icofont-game:before
+{
+  content: "\ea32";
+}
+
+.icofont-headphone-alt-1:before
+{
+  content: "\ea33";
+}
+
+.icofont-headphone-alt-2:before
+{
+  content: "\ea34";
+}
+
+.icofont-headphone-alt-3:before
+{
+  content: "\ea35";
+}
+
+.icofont-headphone-alt:before
+{
+  content: "\ea36";
+}
+
+.icofont-headphone:before
+{
+  content: "\ea37";
+}
+
+.icofont-htc-one:before
+{
+  content: "\ea38";
+}
+
+.icofont-imac:before
+{
+  content: "\ea39";
+}
+
+.icofont-ipad:before
+{
+  content: "\ea3a";
+}
+
+.icofont-iphone:before
+{
+  content: "\ea3b";
+}
+
+.icofont-ipod-nano:before
+{
+  content: "\ea3c";
+}
+
+.icofont-ipod-touch:before
+{
+  content: "\ea3d";
+}
+
+.icofont-keyboard-alt:before
+{
+  content: "\ea3e";
+}
+
+.icofont-keyboard-wireless:before
+{
+  content: "\ea3f";
+}
+
+.icofont-keyboard:before
+{
+  content: "\ea40";
+}
+
+.icofont-laptop-alt:before
+{
+  content: "\ea41";
+}
+
+.icofont-laptop:before
+{
+  content: "\ea42";
+}
+
+.icofont-macbook:before
+{
+  content: "\ea43";
+}
+
+.icofont-magic-mouse:before
+{
+  content: "\ea44";
+}
+
+.icofont-micro-chip:before
+{
+  content: "\ea45";
+}
+
+.icofont-microphone-alt:before
+{
+  content: "\ea46";
+}
+
+.icofont-microphone:before
+{
+  content: "\ea47";
+}
+
+.icofont-monitor:before
+{
+  content: "\ea48";
+}
+
+.icofont-mouse:before
+{
+  content: "\ea49";
+}
+
+.icofont-mp3-player:before
+{
+  content: "\ea4a";
+}
+
+.icofont-nintendo:before
+{
+  content: "\ea4b";
+}
+
+.icofont-playstation-alt:before
+{
+  content: "\ea4c";
+}
+
+.icofont-psvita:before
+{
+  content: "\ea4d";
+}
+
+.icofont-radio-mic:before
+{
+  content: "\ea4e";
+}
+
+.icofont-radio:before
+{
+  content: "\ea4f";
+}
+
+.icofont-refrigerator:before
+{
+  content: "\ea50";
+}
+
+.icofont-samsung-galaxy:before
+{
+  content: "\ea51";
+}
+
+.icofont-surface-tablet:before
+{
+  content: "\ea52";
+}
+
+.icofont-ui-head-phone:before
+{
+  content: "\ea53";
+}
+
+.icofont-ui-keyboard:before
+{
+  content: "\ea54";
+}
+
+.icofont-washing-machine:before
+{
+  content: "\ea55";
+}
+
+.icofont-wifi-router:before
+{
+  content: "\ea56";
+}
+
+.icofont-wii-u:before
+{
+  content: "\ea57";
+}
+
+.icofont-windows-lumia:before
+{
+  content: "\ea58";
+}
+
+.icofont-wireless-mouse:before
+{
+  content: "\ea59";
+}
+
+.icofont-xbox-360:before
+{
+  content: "\ea5a";
+}
+
 .icofont-xs
 {
   font-size: .5em;

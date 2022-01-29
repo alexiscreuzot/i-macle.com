@@ -36,7 +36,7 @@ h2 {
   font-family: $subtitle-font, serif;
   font-size: 2.2rem;
   line-height: 1.5;
-  padding: 3rem 0 1.5rem;
+  padding: 2rem 0 1rem;
 
   &.tagline {
     font-size: 1.5rem;
@@ -57,7 +57,6 @@ h3 {
 
 ul {
   list-style-type: disc;
-  padding-top: 0.5rem;
   padding-left: 4rem;
 }
 
@@ -96,20 +95,8 @@ a {
 }
 
 .section {
-  padding: 2rem 0;
-
-  &::before {
-    content: "";
-    display: block;
-    width: 6.25rem;
-    margin: 0 auto;
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-  }
+  padding: 3rem 0;
 }
-
 
 #banner {
 
@@ -117,7 +104,7 @@ a {
   position:fixed;
   width:100%;
   height : 70px;
-  background: darken($body-color, 8%);
+  background: lighten($accent-color, 52%);
 
   & img {
     float:left;
@@ -141,7 +128,7 @@ a {
 }
 
 header {
-  padding: 2rem 0;
+  padding: 2rem 0 4rem;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
@@ -149,9 +136,23 @@ header {
   z-index: 20;
   text-align: center;
 
+
   & .title{
-    padding: 4rem 0 6rem;
+    padding: 2rem 0 3rem;    
+
+    .name {
+    line-height: 3.8rem;
+    font-weight: bold;
+    span {
+      margin-right: -20px;
+      text-transform: uppercase;
+      font-size: 1.5rem;
+      letter-spacing: 17px;
+    }
+    margin-bottom: 2rem;
   }
+  }
+
 
   & .front {
     width: auto;
@@ -164,6 +165,22 @@ header {
   }
 }
 
+
+#slideshow {
+  background-color: lighten(adjust-hue($accent-color, 180deg), 52%);
+  padding-top: 4rem;
+  height: 250px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  & .slide {
+    display: none;
+    padding: 2rem;    
+  }
+}
+
 #benefits {
   ul {
     list-style: none;
@@ -171,99 +188,90 @@ header {
   }
   li::before {
     content: "✓";
-    color: $accent-color;
+    color: adjust-hue($accent-color, 320deg);
     padding-right: 1rem;
   }
 }
 
 
 #courses {
-  ul {
-    list-style: none;
-    padding-left: 1rem;
-  }
-  li::before {
-    content: "✓";
-    color: $accent-color;
-    padding-right: 1rem;
-  }
-}
 
-.course {
+  transition: all .5s;
+  background-color: lighten($accent-color, 52%);
 
-  margin: 1rem 0;
+  .course {
 
-  .abstract {
-    background: darken($body-color, 5%);
-    display: inline-block;
-    width: 100%;
-    padding: 0 1rem;
-    font-size: 35px;
-    font-weight: 200;
-    cursor: pointer;
-    transition: all .1s;
-    &:hover, &.show {
-      background: darken($body-color, 8%);
+    margin: 1rem 0;
+
+    .abstract {
+      border-radius: 8px;
+      background: darken($accent-color, 10%);
+      display: inline-block;
+      width: 100%;
+      padding: 0 1rem;
+      font-size: 35px;
+      font-weight: 200;
+      cursor: pointer;
+
+      &:hover {
+        background: $accent-color;
+      }
     }
-  }
 
-  .name p {
-    float: left;
-    font-weight: bold;
-    color:#333;
-  }
-  .more-icon {
-    font-weight: 800;
-    margin:3px 0 0 0;
-    font-family: $subtitle-font;
-    float: right;
-    color: $accent-color;
-    text-align: right;
-    transition: all .3s;
-    transform: rotate(0deg);
-    &.open {
-      transform: rotate(90deg);
+    .name p {
+      float: left;
+      font-weight: bold;
+      color:#fefefe;
     }
-  }
+    .more-icon {
+      font-weight: 800;
+      margin:3px 0 0 0;
+      font-family: $subtitle-font;
+      float: right;
+      color: lighten($accent-color, 52%);
+      text-align: right;
+      transition: all .3s;
+      transform: rotate(0deg);
+      &.open {
+        transform: rotate(90deg);
+      }
+    }
 
-  .more {
-    margin-top:-6px;
-    background: darken($body-color, 2%);
-    background-repeat: none;
-    background-origin: center;
-    background-attachment: fixed;
-    font-weight: 200;
-    max-height: 0;
-    overflow-y: hidden;
-    transition: all 300ms cubic-bezier(0.540, 0.010, 0.020, 0.995); /* custom */
+    .more {
+      margin: -2px 8px 0;
+      background: darken($body-color, 2%);
+      background-repeat: none;
+      background-origin: center;
+      background-attachment: fixed;
+      font-weight: 200;
+      max-height: 0;
+      overflow-y: hidden;
+      transition: all 300ms cubic-bezier(0.540, 0.010, 0.020, 0.995); /* custom */
 
     &.show {
       max-height: 1000px;
       display: block;
     }
 
-    p{
-      padding: 1rem;
+    p {
+      padding: 0 2rem 1.5rem;
     }
+
+    span {
+        font-family: $subtitle-font;
+        padding: 2rem 0;
+        color: #111;
+        display: block;
+        font-size: 1.4rem;
+        font-weight: bold;
+      }
+
   }
 
 }
 
-#slideshow {
-
-  color: adjust-hue($accent-color, 180deg);
-  padding-top: 4rem;
-  height: 250px;
-  padding: 0;
-  display: flex;
-    align-items: center;
-    justify-content: center;
-
-  & .slide {
-    display: none;
-    padding: 2rem;    
-  }
 }
+
 
 
 #contact {
@@ -274,16 +282,19 @@ header {
 
 
 #quote {
+  background-color: lighten($accent-color, 52%);
+
   // font-family: $subtitle-font, serif;
-  margin: 6rem 0;
+  margin: 6rem 0 0;
   & .container {
     text-align: center;
     padding: 2rem;
   }
+
   &:before, &:after{
     display: block;
     content: "";
-    border-top: 0.1rem solid #888;
+    border-top: 1px solid $accent-color;
     width: 5rem;
     bottom:0;
     position: relative;
@@ -327,10 +338,10 @@ footer {
 
   header {
 
-  & .front {
-    height: 250px;
+    & .front {
+      height: 250px;
+    }
   }
-}
 
 }
 
