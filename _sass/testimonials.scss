@@ -1,6 +1,10 @@
 
 #testimonials {
 
+padding: 0 0 6rem;
+  clear: both;
+
+
 .testimonial-card {
   float: left;
   width: 25%;
@@ -64,7 +68,7 @@
   font-size: 400%;
   float: right;
   opacity: .1;
-  transform: rotate(10deg) translate(-10px, -10px);
+  transform: rotate(10deg) translate(-15px, -10px);
   color:$accent-color;
   font-family: $subtitle-font;
 }

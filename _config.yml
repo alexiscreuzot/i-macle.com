@@ -1,12 +1,7 @@
 #page title
-page_title                                : iMacle
-
-# Information About Yourself
-your_name                                 : Monoqle                              
-your_link                                 : http://monoqle.fr                    
-your_city                                 : Rennes                                
-email_address                             : contact@monoqle.fr
-
+title: iMacle
+description: Instituto Metodo Accional y Comunicativo en Lenguas Extranjeras
+keywords: cursos, en linea, lenguas, idomas
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###

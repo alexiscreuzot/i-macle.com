@@ -6,9 +6,9 @@
     function showNextQuote() {
         ++quoteIndex;
         quotes.eq(quoteIndex % quotes.length)
-            .fadeIn(2000)
+            .fadeIn(1000)
             .delay(2000)
-            .fadeOut(2000, showNextQuote);
+            .fadeOut(1000, showNextQuote);
     }
 
     showNextQuote();
