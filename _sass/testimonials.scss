@@ -12,6 +12,7 @@ padding: 0 0 6rem;
 }
 
 .content {
+  transition: 500ms all;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,.15);
 
@@ -64,11 +65,11 @@ padding: 0 0 6rem;
   margin-top: 0px;
 }
 
-.quote{
+.quote {
   font-size: 400%;
   float: right;
   opacity: .1;
-  transform: rotate(10deg) translate(-15px, -10px);
+  transform: rotate(10deg) translate(-20px, -10px);
   color:$accent-color;
   font-family: $subtitle-font;
 }
