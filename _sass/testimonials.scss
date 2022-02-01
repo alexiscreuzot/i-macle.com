@@ -57,7 +57,7 @@ padding: 0 0 6rem;
 }
 
 .footer{
-  background: lighten($complement-color, 50%);
+  background: $complement-light;
   border-radius: 0 0 10px 10px;
   position:relative;
   text-align: center;

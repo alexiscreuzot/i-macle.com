@@ -20,9 +20,12 @@ $logo-font: 'Adam-Medium';
 $title-font: 'Adam-Bold';
 $subtitle-font: 'DM Serif Display';
 
-$accent-color: #356c99;
+$accent-color: #357cB9;
+$accent-light: lighten($accent-color, 44%);
 $complement-color: adjust-hue($accent-color, 180deg);
+$complement-light:lighten($complement-color, 44%);
 $body-color: lighten($accent-color, 80%);
+$green-color: #259983;
 
 @import 
     "base",

@@ -89,7 +89,7 @@ a {
   position:fixed;
   width:100%;
   height : 70px;
-  background: lighten($accent-color, 52%);
+  background: $accent-light;
 
   & img {
     float:left;
@@ -162,7 +162,7 @@ header {
 
 
 #slideshow {
-  background-color: lighten($complement-color, 52%);
+  background-color: $complement-light;
   padding-top: 4rem;
   height: 250px;
   padding: 0;
@@ -183,13 +183,10 @@ header {
   }
   li::before {
     content: "✓";
-    color: adjust-hue($accent-color, 320deg);
+    color: $green-color;
     padding-right: 1rem;
   }
 }
-
-
-
 
 
 #contact {
@@ -200,7 +197,7 @@ header {
 
 
 #quote {
-  background-color: lighten($accent-color, 52%);
+  background-color: $accent-light;
 
   // font-family: $subtitle-font, serif;
   padding: 2rem 0 4rem;
@@ -292,7 +289,7 @@ footer {
 }
 
 .curve .shape-fill {
-  fill: lighten($accent-color, 52%);
+  fill: $accent-light;
 }
 
 

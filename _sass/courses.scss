@@ -2,7 +2,7 @@
 #courses {
 
   transition: all 500ms;
-  background-color: lighten($accent-color, 52%);
+  background-color: $accent-light;
 
   .course {
 
@@ -31,7 +31,7 @@
     .more-icon {
       margin:4px 0 0 0;
       float: right;
-      color: lighten($accent-color, 52%);
+      color: $accent-light;
       text-align: right;
       transition: all 300ms;
       transform: rotate(0deg);

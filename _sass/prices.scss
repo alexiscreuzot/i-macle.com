@@ -42,7 +42,7 @@
   }
 
   .price .header.premium {
-      background-color: adjust-hue($accent-color, 320deg);
+      background-color: $green-color;
     }
 
   /* List items */
@@ -55,7 +55,7 @@
 
   /* Grey list item */
   .price .grey {
-    background-color: lighten($complement-color, 52%);
+    background-color: $complement-light;
     font-size: 20px;
     color: #111;
     font-weight: bold;
@@ -64,7 +64,7 @@
 
   /* The "Sign Up" button */
   .button {
-    background-color: adjust-hue($accent-color, 320deg);
+    background-color: $green-color;
     border: none;
     color: white;
     padding: 10px 25px;
@@ -72,7 +72,7 @@
     text-decoration: none;
     font-size: 18px;
     &:hover {
-      background-color: lighten(adjust-hue($accent-color, 320deg), 5%);
+      background-color: lighten($green-color, 5%);
     }
   }
 
