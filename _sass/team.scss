@@ -42,13 +42,16 @@
     }
 
     .image {
-      display: inline-block;
-      background: url("assets/images/carolina.jpg") no-repeat;
-      background-size: contain;
-      background-position: bottom;
+      &.carolina {
+        background: url("assets/images/carolina.webp") no-repeat;
+        background-size: contain;
+        background-position: bottom;
+      }
+      
       max-width: 30%;
       flex: 2;
       margin: 20px 10px 0 0; 
+      
     }
     
   }
