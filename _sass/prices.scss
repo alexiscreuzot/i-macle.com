@@ -65,12 +65,7 @@
   /* The "Sign Up" button */
   .button {
     background-color: $green-color;
-    border: none;
-    color: white;
-    padding: 10px 25px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 18px;
+    padding: 12px 24px 11px;
     &:hover {
       background-color: lighten($green-color, 5%);
     }
