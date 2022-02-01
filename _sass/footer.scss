@@ -1,0 +1,59 @@
+#footer {
+
+  padding: 4rem 0 2rem;
+
+  .copyrights {
+    text-align: center;
+  }
+
+  nav {
+    display: flex;
+    flex-flow: row wrap;
+
+    h5 {
+      font-family: $subtitle-font;
+      font-size: 1.4rem;
+    }
+
+    .copyrights {
+      float: right;
+      width: 15%;
+      position: relative;
+      p {
+        font-size: 1rem;
+        color: #111;
+        display: block;
+        padding-top: 0;
+      }
+    }
+
+    .column {
+      float: left;
+      width: 25%;
+      padding: 20px;
+
+      ul {
+        padding: 5px 0;
+        list-style-type: none;
+        li {
+          padding: 8px 0;
+          margin: 0;
+          font-size: 1rem;
+          line-height: 1.2rem;
+        }
+
+        a {
+          color: #111;
+        }
+
+      }
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  #footer nav .column {
+      width: 100%;
+      text-align: center;
+    }
+}

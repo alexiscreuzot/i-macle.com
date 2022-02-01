@@ -1,0 +1,12 @@
+
+#benefits {
+  ul {
+    list-style: none;
+    padding-left: 1rem;
+  }
+  li::before {
+    content: "✓";
+    color: $green-color;
+    padding-right: 1rem;
+  }
+}

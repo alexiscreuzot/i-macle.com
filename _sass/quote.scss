@@ -1,0 +1,22 @@
+
+#quote {
+  background-color: $accent-light;
+
+  // font-family: $subtitle-font, serif;
+  padding: 2rem 0 4rem;
+  & .container {
+    text-align: center;
+    padding: 2rem;
+  }
+
+  &:before, &:after {
+    display: block;
+    content: "";
+    border-top: 1px solid $accent-color;
+    width: 5rem;
+    bottom:0;
+    position: relative;
+    margin: 0 auto;
+  }
+
+}

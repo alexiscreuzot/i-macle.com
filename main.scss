@@ -14,6 +14,7 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat&display=swap');
 @import url('assets/fonts/icofont/icofont.css');
 
 $logo-font: 'Adam-Medium';
@@ -28,11 +29,15 @@ $body-color: lighten($accent-color, 80%);
 $green-color: #259983;
 
 @import 
-    "base",
-    "buttons",
-    "layout",
+    "_reset",
+    "_base",
+    "banner",
+    "header",
     "slideshow",
+    "benefits",
     "courses",
-    "team",
     "prices",
-    "testimonials"
+    "testimonials",
+    "team",
+    "quote",
+    "footer"
