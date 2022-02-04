@@ -1,91 +1,94 @@
 
 #testimonials {
 
-padding: 0 0 6rem;
+  padding: 2rem 0 6rem;
   clear: both;
 
 
-.testimonial-card {
-  float: left;
-  width: 25%;
-  padding: 10px;
-}
-
-.content {
-  transition: 500ms all;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0,0,0,.15);
-
-  &:hover {
-  border-radius: 10px;
-  box-shadow: 0 6px 15px rgba(0,0,0,.2);
-}
-}
-
-.text{
-  padding: 1.5em .5rem 0 1.5rem;
-  font-size: 0.9rem;
-  font-weight: 200;
-  color: #666;
-}
-
-.image {
-  background-color:#ddd;
-  height: 90px;
-  width: 90px;
-  border-radius: 50%;
-  border: 3px solid white;
-  
-  position: absolute;
-  top: -50%;
-  left: 50%;
-  transform: translateX(-50%);
-  display:flex;
-  justify-content:center;
-
-  &.lupita {
-    background:no-repeat center/cover url("./assets/images/lupita.webp");
-  }
-  &.aurelien {
-    background:no-repeat center/cover url("./assets/images/aurelien.webp");
-  }
-  &.diana {
-    background:no-repeat center/cover url("./assets/images/diana.webp");
-  }
-  &.alvaro {
-    background:no-repeat center/cover url("./assets/images/alvaro.webp");
-  }
-}
-
-.footer{
-  background: $complement-light;
-  border-radius: 0 0 10px 10px;
-  position:relative;
-  text-align: center;
-  margin-top: 0px;
-}
-
-.quote {
-  font-size: 400%;
-  float: right;
-  opacity: .1;
-  transform: rotate(10deg) translate(-20px, -10px);
-  color:$accent-color;
-  font-family: $subtitle-font;
-}
-
-.person{
-  color:#111;
-  position: relative;
-  font-size:1.2rem;
-  font-weight: 600;
-  padding: 44px 0 20px;
-}
-
-@media only screen and (max-width: 600px) {
   .testimonial-card {
-    width: 100%;
+    float: left;
+    width: 25%;
+    padding: 10px;
+
+
+    .content {
+      transition: 500ms all;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,.15);
+
+      &:hover {
+        border-radius: 10px;
+        box-shadow: 0 6px 15px rgba(0,0,0,.2);
+      }
+    }
+
+    .text{
+      padding: 1.5em .5rem 0 1.5rem;
+      font-size: 0.9rem;
+      font-weight: 200;
+      color: #666;
+    }
+
+    .image {
+      background-color:#ddd;
+      height: 90px;
+      width: 90px;
+      border-radius: 50%;
+      border: 3px solid white;
+
+      position: absolute;
+      top: -50%;
+      left: 50%;
+      transform: translateX(-50%);
+      display:flex;
+      justify-content:center;
+
+      &.lupita {
+        background:no-repeat center/cover url("./assets/images/lupita.webp");
+      }
+      &.aurelien {
+        background:no-repeat center/cover url("./assets/images/aurelien.webp");
+      }
+      &.diana {
+        background:no-repeat center/cover url("./assets/images/diana.webp");
+      }
+      &.alvaro {
+        background:no-repeat center/cover url("./assets/images/alvaro.webp");
+      }
+    }
+
+    .footer{
+      background: $complement-light;
+      border-radius: 0 0 10px 10px;
+      position:relative;
+      text-align: center;
+      margin-top: 0px;
+    }
+
+    .quote {
+      font-size: 400%;
+      width:50px;
+      float: right;
+      opacity: .1;
+      transform: rotate(10deg) translate(-10px, -10px);
+      color:$accent-color;
+      font-family: $subtitle-font;
+    }
+
+    .person{
+      color:#111;
+      position: relative;
+      font-size:1.2rem;
+      font-weight: 600;
+      padding: 44px 0 20px;
+    }
+
   }
-}
+
+  @media only screen and (max-width: 800px) {
+    .testimonial-card {
+      width: 100%;
+    }
+  }
 
 }

@@ -2,22 +2,26 @@
 #prices {
 
 
-
-    /* Create three columns of equal width */
-  .columns {
-    float: left;
-    width: 33.3%;
-    padding: 20px;
+  .columns-wrapper {
+    width: 600px;
+    margin: 0 auto;
   }
 
+    /* Create three columns of equal width */
+    .columns {
+      float: left;
+      width: 300px;
+      padding: 12px;
+    }
+
     ul li:first-child {    
-        border-top-right-radius: 10px;
-        border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      border-top-left-radius: 10px;
     }
 
     ul li:last-child { 
-        border-bottom-left-radius: 10px;
-        border-bottom-right-radius: 10px;
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
     }
 
   /* Style the list */
@@ -30,10 +34,10 @@
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,20,.15);
 
-   &:hover {
-    border-radius: 10px;
-    box-shadow: 0 6px 15px rgba(0,0,20,.2);
-  }
+    &:hover {
+      border-radius: 10px;
+      box-shadow: 0 6px 15px rgba(0,0,20,.2);
+    }
   }
 
   /* Pricing header */
@@ -45,8 +49,8 @@
   }
 
   .price .header.premium {
-      background-color: $green-color;
-    }
+    background-color: $green-color;
+  }
 
   /* List items */
   .price li {
@@ -86,8 +90,13 @@
   /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
   @media only screen and (max-width: 600px) {
-    .columns {
+
+    .columns-wrapper {
       width: 100%;
+      .columns {
+        width: 100%;
+      }
     }
+    
   }
 }

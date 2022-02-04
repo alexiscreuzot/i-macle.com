@@ -1,0 +1,108 @@
+#story {
+
+  padding: 2rem 0;
+  background-color: $accent-light;
+  p {
+    font-size: 1.1rem;
+  }
+
+  .more {
+    
+    display: none;
+
+    &.show {
+      display: block;
+    }
+  }
+
+  a.toggle-more {
+    font-family: $subtitle-font;
+    cursor: pointer;
+  }
+
+  a.toggle-less {
+    font-family: $subtitle-font;
+    cursor: pointer;
+    display: none;
+  }
+
+  .card {
+
+    margin: 20px 0;
+    padding: 0 10px;
+
+    .content {
+      flex-flow: row;
+      display: flex;
+      background: white;
+      border-radius: 10px;
+
+      .description {
+        display: inline-block;
+        flex: 1;
+        padding: 10px 32px 32px 32px;
+
+        h2{
+          padding: 1rem 0 0.2rem ;
+          color:$accent-color
+        }
+
+        p {
+
+          font-size: 1rem;
+
+          &.title, &.studies {
+            font-family: $subtitle-font;
+            padding: 0;
+            margin: 0;
+            font-weight: bold;
+            color: #111;
+          }
+        }
+      }
+
+      .image {
+        max-width: 30%;
+        flex: 2;
+        margin: 20px 10px 0 0; 
+
+        &.carolina {
+          background: url("assets/images/carolina.webp") no-repeat;
+          background-size: contain;
+          background-position: bottom;
+        }
+      }
+    }
+
+    &.secondary .content {
+      flex-flow: row-reverse;
+
+      h2{
+        font-size: 1.6rem;
+      }
+
+      .image {
+        display: none;
+        max-width: 20%;
+        margin: 20px 0 0 20px; 
+      }
+    }
+  }
+
+  @media only screen and (max-width: 800px) {
+    .card {
+      .content {
+      display: block;
+      .description {
+        padding-bottom: 0;
+      }
+      .image {
+        height: 240px;
+        margin: 0 auto; 
+        max-width: 100%;
+        width: 100%;
+      }
+    }
+  }
+  }
+}

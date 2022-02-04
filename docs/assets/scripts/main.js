@@ -10,10 +10,7 @@
             .delay(2000)
             .fadeOut(1000, showNextQuote);
     }
-
     showNextQuote();
-
-
 
     $(".course .abstract").click(function() {
         $(this).toggleClass("show");
@@ -23,5 +20,21 @@
         moreDiv.toggleClass("show");
     });
 
-
 })();
+
+
+
+function toggleMore() {
+    $("#story .more").toggleClass("show");
+    $("#story .dots").hide();
+    $("#story a.toggle-more").hide();
+    $("#story a.toggle-less").show();
+}
+
+function toggleLess() {
+    $("#story .more").toggleClass("show");
+    $("#story .dots").show();
+    $("#story a.toggle-more").show();
+    $("#story a.toggle-less").hide();
+}
+
