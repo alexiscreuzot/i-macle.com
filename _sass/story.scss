@@ -44,13 +44,21 @@
 
         h2{
           padding: 1rem 0 0.2rem ;
-          color:$accent-color
+          color:$accent-color;
+        }
+
+        .catch {
+          background-color: lighten($complement-light, 5%);
+          padding: 12px;
+          border-radius: 10px;
+          color: #111;
         }
 
         p {
 
           font-size: 1rem;
 
+          
           &.title, &.studies {
             font-family: $subtitle-font;
             padding: 0;
@@ -58,6 +66,10 @@
             font-weight: bold;
             color: #111;
           }
+          &.title {
+            color:$complement-color
+          }
+
         }
       }
 
