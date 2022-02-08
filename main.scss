@@ -17,9 +17,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat&display=swap');
 @import url('assets/fonts/icofont/icofont.css');
 
-$logo-font: 'Adam-Medium';
-$title-font: 'Adam-Bold';
-$subtitle-font: 'DM Serif Display';
+$body-font : 'Montserrat', sans-serif;
+$logo-font: 'Adam-Medium', sans-serif;
+$title-font: 'Adam-Bold', sans-serif;
+$subtitle-font: 'DM Serif Display', serif;
 
 $accent-color: #357cB9;
 $accent-light: lighten($accent-color, 44%);
@@ -38,7 +39,7 @@ $green-color: #259983;
     "courses",
     "prices",
     "testimonials",
-    "story",
+    "mission",
     "team",
     "quote",
     "footer", 

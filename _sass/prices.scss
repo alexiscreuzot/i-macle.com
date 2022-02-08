@@ -1,17 +1,16 @@
 
 #prices {
 
-
   .columns-wrapper {
-    width: 600px;
+    width: 700px;
     margin: 0 auto;
   }
 
     /* Create three columns of equal width */
     .columns {
       float: left;
-      width: 300px;
-      padding: 12px;
+      width: 350px;
+      padding: 20px;
     }
 
     ul li:first-child {    
@@ -81,7 +80,6 @@
   /* The "Sign Up" button */
   .button {
     background-color: $green-color;
-    padding: 12px 24px 11px;
     &:hover {
       background-color: lighten($green-color, 5%);
     }
@@ -89,7 +87,7 @@
 
   /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 800px) {
 
     .columns-wrapper {
       width: 100%;

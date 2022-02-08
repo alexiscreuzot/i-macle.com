@@ -4,7 +4,7 @@
   background-color: $accent-light;
 
   p {
-    padding: 80px 0 10px;
+    padding: 4rem 0 2rem;
     font-size: 1rem;
   }
 
@@ -15,6 +15,7 @@
 
     .content {
       position: relative;
+      margin: 0 0 2rem;
       .image {
         position: absolute;
         bottom: -14px;
@@ -30,20 +31,25 @@
         h2 {
           color: $accent-color;
           font-size: 1.5rem;
-          padding: 20px 0 0;
+          padding: 1rem 0 0;
         }
         
         p {
           font-size: 0.9rem;
           padding: 0 20px 24px 0;
 
-          &.title, &.studies {
+          &.studies {
             font-size: 1rem;
             font-family: $subtitle-font;
             padding: 0;
             margin: 0;
             font-weight: bold;
             color: #111;
+          }
+
+          &.story {
+            padding: 0.5rem 2rem 1rem 0;
+            margin: 0;
           }
         }
       }
@@ -62,8 +68,8 @@
 
         .description {
           margin-left: 0px;
-        margin-bottom: 20px;
-        padding: 0 0 100px 20px;
+          margin-bottom: 20px;
+          padding: 0 0 120px 20px;
         }
         
       }
