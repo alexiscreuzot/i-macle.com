@@ -17,10 +17,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat&display=swap');
 @import url('assets/fonts/icofont/icofont.css');
 
-$body-font : 'Montserrat', sans-serif;
+$body-font : 'Trebuchet MS', sans-serif;
 $logo-font: 'Adam-Medium', sans-serif;
 $title-font: 'Adam-Bold', sans-serif;
-$subtitle-font: 'DM Serif Display', serif;
+$subtitle-font: 'Garamond', serif;
 
 $accent-color: #357cB9;
 $accent-light: lighten($accent-color, 44%);
@@ -28,6 +28,7 @@ $complement-color: adjust-hue($accent-color, 180deg);
 $complement-light:lighten($complement-color, 44%);
 $body-color: lighten($accent-color, 80%);
 $green-color: #259983;
+
 
 @import 
     "_reset",

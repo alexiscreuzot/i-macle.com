@@ -23,18 +23,18 @@
 })();
 
 
-
 function toggleMore() {
-    $("#story .more").toggleClass("show");
-    $("#story .dots").hide();
-    $("#story a.toggle-more").hide();
-    $("#story a.toggle-less").show();
+    console.log("test")
+    $("#mission .more").toggleClass("show");
+    $("#mission .dots").hide();
+    $("#mission a.toggle-more").hide();
+    $("#mission a.toggle-less").show();
 }
 
 function toggleLess() {
-    $("#story .more").toggleClass("show");
-    $("#story .dots").show();
-    $("#story a.toggle-more").show();
-    $("#story a.toggle-less").hide();
+    $("#mission .more").toggleClass("show");
+    $("#mission .dots").show();
+    $("#mission a.toggle-more").show();
+    $("#mission a.toggle-less").hide();
 }
 

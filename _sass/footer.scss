@@ -13,6 +13,7 @@
     h5 {
       font-family: $subtitle-font;
       font-size: 1.4rem;
+      font-weight: bold;
     }
 
     .copyrights {
@@ -21,7 +22,7 @@
       position: relative;
       p {
         font-size: 1rem;
-        color: #111;
+        color: $accent-color;
         display: block;
         padding-top: 0;
       }
@@ -43,7 +44,7 @@
         }
 
         a {
-          color: #111;
+          color: #667;
         }
 
       }
