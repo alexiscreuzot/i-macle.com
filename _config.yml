@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 destination: docs
 # Exclude these files from your production _site
 exclude:
+  - resources
   - LICENSE
   - README.md
   - Gemfile
