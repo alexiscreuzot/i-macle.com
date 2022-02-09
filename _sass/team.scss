@@ -55,6 +55,14 @@
       }
       
     }
+    
+  }
+
+  .button {
+    background-color: lighten($complement-color, 3%);
+    &:hover {
+      background-color: darken($complement-color, 5%);
+    }
   }
 
   @media only screen and (max-width: 800px) {

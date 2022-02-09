@@ -106,14 +106,17 @@ a {
   border-radius: 360px;
   display: inline-block;
   padding: 8px 24px 7px;
-  background-color: darken($accent-color, 8%);
+  background-color: lighten($green-color, 5%);
   text-decoration: none;
   text-transform:uppercase;
   font-weight: 800;
   font-size:0.9rem;
+
+  box-shadow: 0 4px 6px rgba(0,0,0,.2);
+
   &:hover {
     color: white;
-    background-color: lighten($accent-color, 8%);
+    background-color: darken($green-color, 5%);
   }
 }
 

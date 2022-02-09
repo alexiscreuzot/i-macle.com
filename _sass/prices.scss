@@ -41,14 +41,10 @@
 
   /* Pricing header */
   .price .header {
-    background-color: $accent-color;
+    background-color: darken($accent-color, 10%);
     color: white;
     margin: 0;
     font-weight: bold;
-  }
-
-  .price .header.premium {
-    background-color: $green-color;
   }
 
   /* List items */
@@ -75,14 +71,6 @@
     color: #111;
     font-weight: bold;
     font-family: $subtitle-font;
-  }
-
-  /* The "Sign Up" button */
-  .button {
-    background-color: $green-color;
-    &:hover {
-      background-color: lighten($green-color, 5%);
-    }
   }
 
   /* Change the width of the three columns to 100%
