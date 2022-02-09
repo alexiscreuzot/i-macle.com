@@ -1,12 +1,45 @@
 
 #benefits {
-  ul {
-    list-style: none;
-    padding-left: 1rem;
+
+  padding: 2rem 0 0;
+
+  .content{
+
+    flex-flow: row;
+    display: flex;
+
+    .image {
+        max-width: 30%;
+        flex: 1;
+        margin: 20px 10px 0 0; 
+
+        &.student {
+          background: url("assets/images/student2.webp") no-repeat;
+          background-size: contain;
+          background-position: bottom;
+        }
+      }
+
+      ul {
+        flex: 2;
+        list-style: none;
+        padding-left: 1rem;
+        padding-bottom: 4rem;
+      }
+      li::before {
+        content: "✓";
+        color: $green-color;
+        padding-right: 1rem;
+      }
   }
-  li::before {
-    content: "✓";
-    color: $green-color;
-    padding-right: 1rem;
+
+ @media only screen and (max-width: 800px) {
+    .content {
+
+        .image {
+          display: none;
+        }
+      }
   }
+  
 }
