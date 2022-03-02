@@ -5,11 +5,10 @@
     const instance = ackeeTracker.create('https://ackee-qsnz.onrender.com').record('5512170c-57cd-4cc4-bb59-b704ac436c89', undefined, (recordId) => {
         console.log(`Created new record with id '${ recordId }'`)
     })
-    instance.action('2f6c2595-a8df-4383-a3ba-799b53fb7dd1', { key: 'Click', value: 1 });
     
     $("a#subscribe").click(function(){
         console.log("subscribe");
-        instance.action('2f6c2595-a8df-4383-a3ba-799b53fb7dd1', { key: 'Click', value: 1 });
+        ackeeTracker.action('2f6c2595-a8df-4383-a3ba-799b53fb7dd1', { key: 'Click', value: 1 });
     });
     $("a#academic").click(function(){
         console.log("academic");
