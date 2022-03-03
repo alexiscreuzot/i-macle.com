@@ -2,7 +2,9 @@
 
     // Analytics
 
-    var instance = ackeeTracker.create('https://ackee-qsnz.onrender.com').record('5512170c-57cd-4cc4-bb59-b704ac436c89', undefined, (recordId) => {
+    var instance = ackeeTracker.create('https://ackee-qsnz.onrender.com')
+
+    instance.record('5512170c-57cd-4cc4-bb59-b704ac436c89', undefined, (recordId) => {
         console.log(`Created new record with id '${ recordId }'`)
     })
 
