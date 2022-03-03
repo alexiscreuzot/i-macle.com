@@ -6,32 +6,33 @@
         console.log(`Created new record with id '${ recordId }'`)
     })
 
-    document.querySelector('#subscribe').addEventListener('click', () => {
+    document.querySelector('#subscribe').onclick = () => {
         console.log("subscribe");
-        instance.action('2f6c2595-a8df-4383-a3ba-799b53fb7dd1', {
-            key: 'click',
-            value: 1
-        })
-    })
-    document.querySelector('#academic').addEventListener('click', () => {
+            instance.action('2f6c2595-a8df-4383-a3ba-799b53fb7dd1', {
+                key: 'click',
+                value: 1
+            })
+        }
+
+     document.querySelector('#academic').onclick = () => {
         instance.action('c9d11d68-06a1-490b-b08b-cfb7cb0978c0', {
             key: 'click',
             value: 1
         })
-    })
-    document.querySelector('#converse').addEventListener('click', () => {
+    }
+    document.querySelector('#converse').onclick = () => {
         instance.action('f5cba383-de08-4811-b55e-e790e8a38dc3', {
             key: 'click',
             value: 1
         })
-    })
-    document.querySelector('#apply').addEventListener('click', () => {
+    }
+    document.querySelector('#apply').onclick = () => {
         instance.action('dfea01c5-a6b5-44c7-abaa-c3579e144598', {
             key: 'click',
             value: 1
         })
-    })
-    
+    }
+
     // UI
 
     var quotes = $(".slide");
