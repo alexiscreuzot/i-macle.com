@@ -2,15 +2,15 @@
 #prices {
 
   .columns-wrapper {
-    width: 700px;
+    width: 900px;
     margin: 0 auto;
   }
 
     /* Create three columns of equal width */
     .columns {
       float: left;
-      width: 350px;
-      padding: 20px;
+      width: 300px;
+      padding: 12px;
     }
 
     ul li:first-child {    

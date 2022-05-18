@@ -62,13 +62,18 @@
         font-size: 1.1rem;
       }
 
+      ul {
+        margin-top: 0; 
+        padding-top: 0;
+      }
+
       li {
         font-size: 1.1rem;
       }
 
       span {
         font-family: $subtitle-font;
-        padding: 2rem 0;
+        padding: 2rem 0 2rem;
         color: #111;
         display: block;
         font-size: 1.4rem;
