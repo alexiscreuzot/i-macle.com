@@ -1,6 +1,6 @@
 (function() {
 
-    // Analytics
+    /* Analytics
 
     var instance = ackeeTracker.create('https://ackee-qsnz.onrender.com')
 
@@ -34,6 +34,7 @@
             value: 1
         })
     }
+    */
 
     // UI
 
