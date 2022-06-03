@@ -50,7 +50,7 @@
     }
     showNextQuote();
 
-    $(".course .abstract").click(function() {
+    $(".abstract").click(function() {
         $(this).toggleClass("show");
         $(this).children(".more-icon").toggleClass("open");
         var moreDiv  = $(this).next();
@@ -62,7 +62,6 @@
 
 
 function toggleMore() {
-    console.log("test")
     $("#mission .more").toggleClass("show");
     $("#mission .dots").hide();
     $("#mission a.toggle-more").hide();
