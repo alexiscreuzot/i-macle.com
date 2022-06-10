@@ -24,13 +24,17 @@
     }
 
     .more-icon {
-      margin:18px 0 0 0;
+      font-family: sans-serif;
+      margin:7px 0 0 0;
+      font-size: 28px;
+      font-weight: 100;
       float: right;
       text-align: right;
       transition: all 300ms;
       transform: rotate(0deg);
+      color: $accent-color;
       &.open {
-        transform: rotate(90deg);
+        transform: rotate(45deg);
       }
     }
 
