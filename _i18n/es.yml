@@ -1,0 +1,88 @@
+global:
+  spanish: Español
+  english: Ingles
+  french: Frances
+  subtitle: Método Accional y Comunicativo<br/>en Lenguas Extranjeras
+
+benefits:
+  title: Beneficios de nuestro Instituto
+  items:
+    - Aprenderás a hablar de forma fluida en situaciones reales con el método orientado a la acción.
+    - Grupos dinámicos de 5 a 8 alumnos. 
+    - Aprenderás a comunicarte de manera efectiva para desenvolverte en la vida real.
+    - Tendrás asesoría para orientar tus estudios.
+    - Tenemos muchos horarios disponibles a escoger.
+    - Profesores altamente capacitados.
+    - Método de enseñanza acorde al Marco común europeo. 
+    - Aprenderás también cultura y costumbres. 
+
+courses:
+  title: Clases en línea
+  subtitle: Nuestros cursos estan diseñados para adolescentes y adultos.
+  footnote: Si tienes dificultades para aprender un idioma te daremos la orientación que necesitas para organizar tu forma de estudio.
+  items:
+    - 
+      title: Cursos académicos
+      content: 
+        "<span>Niveles desde principiente hasta avanzado (A1-C1)</span>
+          Los cursos académicos son lo que estás buscando para aprender a hablar de manera fluida y natural en el idioma que elijas: inglés, francés, español o alemán. Tenemos cursos desde el nivel principiante hasta avanzado (A1-C1). Si no conoces el nivel que tienes del idioma que deseas aprender, te enviamos un examen de ubicación gratuito.
+          <ul>
+           <li>100% acompañado de un profesor durante 3 horas a la semana.</li> 
+           <li>Tendrás 1 evaluación por unidad de comprensión y expresión escrita y de comprensión y expresión oral.</li>
+           <li>Hablarás bastante en cada clase para desarrollar una buena pronunciación con estructuras gramaticales correctas e incrementar tu vocabulario.</li>
+           <li>Escucharás audios con conversaciones, verás videos y leerás artículos en clase.</li>
+           <li>Recibirás un reporte de progreso al final de cada unidad con tus resultados, avances y retroalimentación.
+           </li>
+           <li>Acompañamiento especial en expresión escrita y en pronunciación. </li>
+           <li>Adquirirás nuevas competencias y desarrollarás el pensamiento crítico.</li>
+           <li>Llevarás un método actualizado con ejercicios virtuales.</li>
+           <li>Dominarás el idioma que elijas como un experto.</li>"
+    - 
+      title: Cursos de conversación
+      content: 
+        "<span>English the American Way</span>
+        Para estudiantes de nivel intermedio (B1) que deseen aprender expresiones que se usan en Norteamérica y conocer a 
+        fondo su estilo de vida. Este curso implica adentrarse en la cultura para perfeccionar el inglés americano y por 
+        fin hablar como un nativo.
+
+        <span>Fortalece tus conocimientos</span>
+        Para estudiantes cursando un nivel (A2), intermedio (B1) y avanzado (B2) que deseen expresar su opinión, debatir 
+        y fomentar su cultura general siguiendo temas actuales del mundo que les rodea. Te ayuda además a ampliar 
+        tu vocabulario, a perfeccionar tu pronunciación y tener mayor fluidez. Este curso es de gran ayuda para 
+        los estudiantes que deseen aprobar una certificación en el idioma que elijas: inglés, francés, español o alemán."
+    - 
+      title: Cursos para niños 6 a 12 años
+      content: 
+        "<span>Aprender inglés o francés es mucho más fácil cuando empiezas a temprana edad.</span>
+
+        Si tus hijos comienzan ahora se volverán expertos para: 
+
+        <ul>
+          <li>Comunicarse con personas de todo el mundo.</li>
+          <li>Acceder a programas y becas en las mejores universidades del mundo a través de algún intercambio o inscribiéndose ellos mismos.</li>
+          <li>Acceder al mercado laboral internacional, lo que los llevará a tener un <li>salario bastante alto.</li>
+          <li>Crear su propia empresa o negocio y promoverlo a través del mundo.</li>
+        </ul>
+        </p>
+        <p> 
+        <span>Desde muy pequeños se olvidaran de las barreras del idioma. No se darán cuenta que están aprendiendo porque aprenderán divirtiéndose.</span> 
+        <ul>
+           <li>100% acompañado de un profesor durante 3 horas a la semana.</li>
+        <li>A través de una plataforma interactiva tu hijo desarrollará una buena pronunciación con ejercicios de audio, juegos y canciones.</li>
+        <li>Aprenderá a través de cuentos y videos sobre el mundo que lo rodea.</li>
+        <li>Recibirá un reporte de progreso al final de cada unidad con sus resultados, avances y retroalimentación.</li>
+        <li>Tendrá acompañamiento especial en expresión escrita y en pronunciación.</li> 
+        <li>Adquirirá nuevas competencias.</li>
+        <li>Llevará en clase un método digital con ejercicios virtuales más un libro y un cuaderno de ejercicios que se le mandarán sin costo alguno.</li>
+        </ul>"
+
+slideshow:
+  items:
+    - Conviértete en la persona bilingüe que tanto deseas
+    - Estudia en otro país para ser más competitivo
+    - Gana un mejor salario en tu país o en el extranjero
+    - Viaja sin problemas
+    - Aprende un idioma solo por gusto o para conocer gente nueva
+    - Sé parte de una organización internacional
+    - Enseña a otros estudiantes
+

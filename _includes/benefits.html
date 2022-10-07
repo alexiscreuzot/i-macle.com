@@ -1,19 +1,14 @@
 <div id="benefits" class="section">
   <div class="container">
-    <h2><i class="icofont-university"></i>&nbsp;&nbsp;Beneficios de nuestro Instituto</h2>
+    <h2><i class="icofont-university"></i>&nbsp;&nbsp;{% t benefits.title %}</h2>
 
     <div class="content">
       
     <div class="image student"></div>
     <ul>
-      <li>Aprenderás a hablar de forma fluida en situaciones reales con el método orientado a la acción.</li>
-      <li>Grupos dinámicos de 5 a 8 alumnos. </li>
-      <li>Aprenderás a comunicarte de manera efectiva para desenvolverte en la vida real. </li>
-      <li>Tendrás asesoría para orientar tus estudios.</li>
-      <li>Tenemos muchos horarios disponibles a escoger.</li>
-      <li>Profesores altamente capacitados. </li>
-      <li>Método de enseñanza acorde al Marco común europeo. </li>
-      <li>Aprenderás también cultura y costumbres. </li>
+      {% for item in site.translations[site.lang].benefits.items %}
+       <li>{{ item }}</li>
+      {% endfor %}
     </ul>
 
     </div>

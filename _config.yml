@@ -14,10 +14,14 @@ keywords: cursos en línea, online courses, lenguas extranjeras, escuela de idio
 ### Jekyll Configuration. No need to touch this. ###
 ####################################################
 
+plugins:
+  - jekyll-multiple-languages-plugin
+languages: ["es", "en"]
+exclude_from_localizations: ["assets", "docs", "resources", "LICENSE", "README"]
+
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :compressed # You might prefer to minify using :compressed
-
 
 baseurl: "" # the subpath of your site, e.g. /blog
 destination: docs

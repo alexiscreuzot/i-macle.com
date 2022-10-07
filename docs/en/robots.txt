@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://i-macle.com/sitemap.txt
