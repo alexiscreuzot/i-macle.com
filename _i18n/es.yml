@@ -3,6 +3,11 @@ global:
   english: Ingles
   french: Frances
   subtitle: Método Accional y Comunicativo<br/>en Lenguas Extranjeras
+  read_more: Leer más
+  read_less: Leer menos
+
+banner:
+  register: Inscribirse
 
 benefits:
   title: Beneficios de nuestro Instituto
@@ -76,6 +81,97 @@ courses:
         <li>Llevará en clase un método digital con ejercicios virtuales más un libro y un cuaderno de ejercicios que se le mandarán sin costo alguno.</li>
         </ul>"
 
+faq:
+  title: FAQ
+  subtitle: Si tienes dudas, acláralas con nuestras preguntas frecuentes
+  items:
+    -
+      q: ¿Qué es Macle?
+      a: Macle es un instituto 100% online dedicado a la enseñanza de idiomas (inglés, francés, español y alemán). 
+         Contamos con un coordinador académico, dirección y finanzas. <br/>
+         En nuestro instituto aprenderás idiomas siguiendo métodos reconocidos a nivel mundial y podrás prepararte para obtener una certificación.
+    -
+      q: ¿Cómo puedo inscribirme a un curso?
+      a: "Para inscribirte sin costo ve a la parte “planes” haz click en el botón verde “me inscribo” del curso que deseas (curso académico, curso de conversación, cursos para niños 6 - 12 años).<br/>
+          Este botón verde “me inscribo” te llevará a un formulario. Allí debes llenar tus datos de contacto, escoger el idioma y el nivel que deseas estudiar. También deberás escoger un HORARIO.<br/><br/>
+        Una vez que termines de llenar el formulario y lo mandes, nosotros te contactaremos vía mail o vía telefónica para darte la fecha de inicio de tu curso y los métodos de pago. 
+        Si deseas obtener el 20% de descuento haciendo pagos trimestrales solo tienes que mencionarlo cuando te contactemos."
+    -
+      q: ¿Los profesores son nativos?
+      a: Contamos con profesores nativos y no nativos, todos certificados en el idioma que imparten. Todos nuestros profesores, tanto nativos como no nativos pasan por un proceso de selección con varios filtros. 
+         Además cuentan con estudios superiores y experiencia en la enseñanza de idiomas.
+    -
+      q: ¿Debo comprar material?
+      a: "No. Te proporcionamos el material que necesitas para aprender: libro, cuaderno de ejercicios y audios para practicar. Esto es sin costo alguno."
+    -
+      q: ¿Cómo son las clases?
+      a: "En clase de inglés, francés, español o alemán usamos documentos como videos, textos, audios de conversaciones, juegos interactivos, flashcards y actividades especiales para la expresión oral continua y en interacción (conversación).<br/><br/>
+
+          Los profesores siguen las secuencias del libro para realizar una evaluación. Cada secuencia (unidad didáctica) puede durar de 4 a 6 clases, dependiendo del nivel y del idioma. Este es un ejemplo de una secuencia en inglés nivel principiante:
+
+          <h3>DESCUBRIMIENTO</h3> 
+          <ul>
+            <li>SNAPSHOT (listen and practice)</li>
+            <li>CONVERSATION (listen and practice) </li>
+            <li>GRAMMAR FOCUS 1 ← Pair work/ Group work </li>
+          </ul>
+
+          <h3>PRÁCTICA + PRODUCCIÓN</h3> 
+          <ul>
+            <li>LISTENING</li>
+            <li>SPEAKING (discuss) </li>
+          </ul>
+
+          <h3>SISTEMATIZACIÓN</h3> 
+          <ul>
+            <li>CONVERSATION - listen and practice </li>
+            <li>GRAMMAR FOCUS 2  ← Pair work/ Group work.</li>
+            <li>PRONUNCIATION - SPEAKING</li>
+          </ul>
+
+          <h3>PRÁCTICA + COMPRENSIÓN ESCRITA</h3> 
+          <ul>
+            <li>LISTENING </li>
+            <li>WORD POWER (vocabulario) </li>
+            <li>Recapitular, resolver dudas </li>
+            <li>READING - SPEAKING (discuss)</li>
+          </ul>"
+    -
+      q: ¿Qué material usan para dar las clases?
+      a: En las clases de inglés contamos con la plataforma de Cambridge, la cual le ha dado excelentes resultados a millones de estudiantes alrededor del mundo.<br/><br/>
+          En francés seguimos los métodos de Maison de Langues, editorial reconocida a nivel mundial, la cual ha ganado varios premios por sus métodos de enseñanza. 
+          En español seguimos los manuales digitales de Campus difusión que nos dan acceso a la enseñanza del Instituto Cervantes, institución pública creada en España en 1991 para promover universalmente la enseñanza, el estudio y el uso del español y contribuir a la difusión de las culturas hispánicas en el exterior.<br/>
+        En alemán seguimos los métodos de Hueber, los cuales han sido utilizados desde hace muchos años y han formado a millones de alumnos quienes han obtenido muy buenos resultados.
+    -
+      q: ¿Entregan alguna constancia de estudio?
+      a: Si. Te otorgamos un control de progreso con retroalimentación en formato PDF al finalizar cada unidad y un diploma al finalizar cada nivel.
+    -
+      q: ¿Podré obtener una certificación al finalizar un nivel?
+      a: No somos aplicadores de exámenes para obtener certificaciones pero te preparamos para las certificaciones de manera gratuita.<br/>
+        En inglés te preparamos para obtener una certificación de Cambridge. Estas certificaciones no expiran así que al obtener una, la obtendrás de por vida.<br/>
+        En francés te preparamos para obtener el DELF y el DALF que son los diplomas oficiales que acreditan tu nivel de dominio del idioma francés, los cuales son otorgados por France Éducation International por parte del Ministerio Francés de Educación Nacional.<br/><br/>
+        En español te preparamos para obtener el DELE que otorga el Instituto Cervantes, por parte del Ministerio de Educación, Cultura y Deporte de España.<br/>
+        En alemán te preparamos para pasar un examen de Goethe-Institut, institución cultural de la República Federal de Alemania, dedicada a la difusión de la lengua y la cultura alemana en el mundo. Ofrece exámenes para conseguir acreditar tu nivel de alemán a través de los certificados de alemán (Goethe-Zertifikat) de todos los niveles del Marco Común Europeo. 
+
+mission:
+  title: Nuestra misión
+  short: "En nuestra institución cada profesor tiene la misma misión:  llevar a cabo sus clases bajo el enfoque orientado a la acción o enfoque accional."
+  long: "<b>“El alumno debe ser capaz de realizar una acción.” </b>
+        <br/><br/>
+        El alumno tiene pequeñas tareas en clase, misiones y desafíos sobre situaciones de la vida diaria. Tal como sucede cuando se vive en el extranjero. De esta forma el alumno poco a poco desarrolla la capacidad para analizar, descifrar y aplicar nuevos conocimientos en su entorno social. 
+        Por otro lado, trabajamos con secuencias pedagógicas para que el alumno recuerde en cada clase lo que vio la clase anterior. Cada tema se relaciona con el siguiente: la repetición es la base para reforzar y sistematizar los conocimientos ya adquiridos. <br/><br/>
+        Además los alumnos improvisan diálogos sobre su vida, entablan conversaciones y actúan un papel social (rol play) con sus compañeros para desenvolverse en situaciones de la vida real. Esto es primordial ya que el alumno es miembro de una sociedad y debe poder comunicarse, actuar e interactuar con los demás miembros de su entorno.
+        Nuestro propósito es que aprendas a hablar, escribir, escuchar y leer en el idioma que elijas para trabajar, viajar, vivir en el extranjero y/o por placer. <br/><br/>
+        Habla una lengua extranjera para descubrir el mundo y entenderlo. Conoce nuevas personas viajando o en tu país. Trabaja con empresas internacionales y forma parte de nuevas comunidades reales o virtuales."
+  director:
+    name: Carolina Ojeda
+    title: Directora Académica
+    studies: Maestría en Educación y Formación, DALF, PRO FLE, TKT
+    story: 
+      catch: "Aprender un idioma fue la mejor decisión de mi vida. Descubrí la cultura francesa, viajé a través de toda Europa,  probé comidas inigualables y además recibí un salario en euros lo que me permitió quedarme varios años en Francia. Conocí a nuevas personas de distintas culturas, incluso a mi esposo. Adopté una nueva visión para mi vida: darle la misma oportunidad a los alumnos de este instituto."
+      content: "Inicié mi carrera en el año 2013 dando clases de francés en universidades públicas y privadas en México. Con mis conocimientos en francés decidí postularme para obtener una beca como asistente de español lengua extranjera en Francia. Más adelante, estudié la Maestría en Métiers de l'enseignement et de la formation (Educación y formación) en Montpellier. <br/><br/>
+              Esto me ha permitido traer a México la experiencia y los conocimientos de la metodología del Consejo de Europa para la enseñanza de lenguas extranjeras. Así mismo, impartir clases a todo tipo de público me ha permitido mejorar mis habilidades para dirigir el instituto. "
+
 slideshow:
   items:
     - Conviértete en la persona bilingüe que tanto deseas
@@ -86,3 +182,50 @@ slideshow:
     - Sé parte de una organización internacional
     - Enseña a otros estudiantes
 
+team:
+  title: Algunos de Nuestros Profesores
+  footnote: ¿Tienes una licenciatura, maestría o doctorado en lenguas extranjeras o carrera afín? ¿Tienes 4 años o más de experiencia impartiendo clases de idiomas?
+  apply: Postular
+  teachers:
+    -
+      name: Cecilia Carvallo
+      image: team_p4
+      studies: Doctorado en Letras Modernas
+      story: "Profesora de español. Cecilia dio clases de español en un colegio antes de terminar su doctorado y comenzar a impartir clases de 
+      lingüística en una universidad muy importante en México. Además ha impartido clases de español para extranjeros 
+      vía remota. Todos sus alumnos han estado muy satisfechos con su trabajo y han llevado con ella la preparación para 
+      obtener la certificación DELE.  Cecilia nos cuenta que dar clases es su pasión y que enseñar la cultura y los 
+      matices de la lengua española permite adquirir rápidamente mucho vocabulario y expresiones muy útiles entre los 
+      hispanohablantes."
+    -
+      name: Paul Henri Eche
+      image: team_p3
+      studies: Diplomado en Traducción español francés, PRO FLE
+      story: "Profesor de francés nativo e intérprete, lleva más de 20 años viviendo en México y dando clases. 
+      Habla perfectamente español e inglés. Aprenderás la lengua francesa con su buen humor y dinamismo. 
+      Te explicará el origen de muchas palabras y expresiones, es un apasionado de la literatura. 
+      También es experto en historia y cultura. Ha viajado alrededor del mundo y le encanta aprender nuevos idiomas 
+      como el japonés. Además, sus dibujos en el pizarrón virtual te sorprenderán."
+    -
+      name: Arturo Silva
+      image: team_p2
+      studies: Maestría en Enseñanza del inglés como lengua extranjera, TKT
+      story: "Profesor de inglés. Dedicado 100% a la enseñanza, comenzó su carrera en el 2012. 
+      Durante sus clases utiliza técnicas para socializar en grupo ya que se ha adaptado a trabajar en línea. 
+      Le encanta enseñar inglés con temas actuales como artículos y videos para discutir en grupo sobre la 
+      vida de hoy en día. Le gusta poner canciones en sus clases para explicar estructuras gramaticales. 
+      Además te explicará la cultura y las diferencias del estilo de vida inglés y americano ya que vivió 
+      algunos años en Estados Unidos y  en Inglaterra."
+    -
+      name: Emmanuel Morales
+      image: team_p1
+      studies: Estudios en enseñanza de idiomas e Ingeniería en Electrónica 
+      story: "Profesor de inglés y  alemán con 18 años de experiencia. 
+      Emanuel cuenta con certificaciones en ambos idiomas en nivel C1. 
+      Vivió en Alemania varios años donde estudió para aprender Alemán y actualmente estudia un doctorado en Inglaterra. 
+      Trabajó como asistente de traducción en la embajada de Alemania y ha impartido clases de inglés y alemán en 
+      diferentes institutos y universidades.  Es el profesor ideal para aprender idiomas desde nivel principiante 
+      hasta avanzado en un ambiente relajado pero estudioso. Incluso para asesorarte si estás estudiando una ingeniería." 
+
+testimonials:
+  title: Lo que dicen de nosotros

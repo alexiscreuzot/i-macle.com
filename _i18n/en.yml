@@ -1,16 +1,231 @@
 global:
   spanish: Spanish
   english: English
-  french: French
+  french: Frances
+  subtitle: Action and communicative method <br/> in foreign languages
+  read_more: Read more
+  read_less: Read less
+
+banner:
+  register: register
 
 benefits:
-  title: Benefits of our institute
+  title: Benefits of our Institute
   items:
-    - You will learn to speak fluently in real situations with the action-oriented method.
+    - You will learn to speak fluidly in real situations with the action -oriented method.
     - Dynamic groups of 5 to 8 students.
-    - You will learn to communicate effectively to function in real life.
+    - You will learn to communicate effectively to develop in real life.
     - You will have advice to guide your studies.
-    - We have many available schedules to choose from.
+    - We have many schedules available to choose from.
     - Highly trained teachers.
-    - Teaching method according to the Common European Framework.
+    - Teaching method according to the common European framework.
     - You will also learn culture and customs.
+
+courses:
+  title: Online classes
+  subtitle: Our courses are designed for teenagers and adults.
+  footnote: If you have difficulty learning a language we will give you the orientation you need to organize your way of study.
+  items:
+    -
+      title: Academic Courses
+      content:
+        "<pan> levels from the premium to advanced (A1-C1) </s
+          Academic courses are what you are looking for to learn to speak fluently and naturally in the language you choose: English, French, Spanish or German. We have courses from the beginner level to advanced (A1-C1). If you don't know the level you have of the language you want to learn, we send you a free location exam.
+          <ul>
+           <li> 100% accompanied by a teacher for 3 hours a week. </li>
+           <li> You will have 1 evaluation per unit of written understanding and expression and oral understanding and expression. </li>
+           <li> You will talk a lot in each class to develop a good pronunciation with correct grammatical structures and increase your vocabulary. </li>
+           <li> You will listen to audios with conversations, see videos and read items in class. </li>
+           <li> You will receive a progress report at the end of each unit with your results, advances and feedback.
+           </li>
+           <li> Special accompaniment in written expression and pronunciation. </li>
+           <li> You will acquire new skills and develop critical thinking. </li>
+           <li> You will carry an updated method with virtual exercises. </li>
+           <li> You will dominate the language you choose as an expert. </li> "
+    -
+      title: Conversation courses
+      content:
+        "<span> English the American way </s
+        For intermediate level students (B1) who wish to learn expressions used in North America and meet
+        Background your lifestyle. This course implies entering the culture to improve American English and
+        End speak like a native.
+
+        <span> strengthens your knowledge </s
+        For students, studying a level (A2), intermediate (B1) and advanced (B2) who wish to express their opinion, discuss
+        and foster their general culture following current issues of the world around them. It also helps you expand
+        Your vocabulary, to perfect your pronunciation and have greater fluidity. This course is of great help to
+        Students who wish to approve a certification in the language you choose: English, French, Spanish or German. "
+    -
+      title: Children courses 6 to 12 years
+      content:
+        "<pan> learning English or French is much easier when you start at an early age.
+
+        If your children start now they will become experts to:
+
+        <ul>
+          <li> Contact people around the world. </li>
+          <li> Access programs and scholarships in the best universities in the world through some exchange or registering themselves. </li>
+          <li> Access to the international labor market, which will lead them to have a fairly high <li> salary. </li>
+          <li> Create your own company or business and promote it through the world. </li>
+        </ul>
+        </p>
+        <p>
+        <Span> will forget the barriers of the language. They will not realize that they are learning because they will learn having fun.
+        <ul>
+           <li> 100% accompanied by a teacher for 3 hours a week. </li>
+        <li> Through an interactive platform your child will develop a good pronunciation with audio exercises, games and songs. </li>
+        <li> You will learn through stories and videos about the world around it. </li>
+        <li> You will receive a progress report at the end of each unit with its results, advances and feedback. </li>
+        <li> You will have special accompaniment in written expression and pronunciation. </li>
+        <li> will acquire new competitions. </li>
+        <li> It will carry in class a digital method with virtual exercises plus a book and an exercise notebook that will be sent at no cost. </li>
+        </ul> "
+
+faq:
+  title: FAQ
+  subtitle: If you have doubts, click them with our frequent questions
+  items:
+    -
+      q: What is Macle?
+      a: "Macle is a 100% online institute dedicated to language teaching (English, French, Spanish and German).
+         We have an academic coordinator, direction and finance. <br/>
+         In our institute you will learn languages following recognized methods worldwide and you can prepare to obtain a certification."
+    -
+      q: ¿Cómo puedo inscribirme a un curso?
+      a: "Para inscribirte sin costo ve a la parte “planes” haz click en el botón verde “me inscribo” del curso que deseas (curso académico, curso de conversación, cursos para niños 6 - 12 años).<br/>
+          Este botón verde “me inscribo” te llevará a un formulario. Allí debes llenar tus datos de contacto, escoger el idioma y el nivel que deseas estudiar. También deberás escoger un HORARIO.<br/><br/>
+        Una vez que termines de llenar el formulario y lo mandes, nosotros te contactaremos vía mail o vía telefónica para darte la fecha de inicio de tu curso y los métodos de pago. 
+        Si deseas obtener el 20% de descuento haciendo pagos trimestrales solo tienes que mencionarlo cuando te contactemos."
+    -
+      q: Are teachers native?
+      a: We have native and non -native professors, all certified in the language they teach. All our teachers, both native and non -native go through a selection process with several filters.
+         They also have higher studies and experience in language teaching.
+    -
+      q: Should I buy material?
+      a: "No. We provide you with the material you need to learn: book, exercise and audios notebook to practice. This is at no cost."
+    -
+      q: How are classes?
+      a: "In English, French, Spanish or German class we use documents such as videos, texts, conversations audios, interactive games, flashcards and special activities for continuous oral expression and interaction (conversation). <br/> <Br/Br/ >
+
+          Teachers follow the book sequences to perform an evaluation. Each sequence (didactic unit) can last 4 to 6 classes, depending on the level and language. This is an example of an English level sequence:
+
+          <H3> Discovery </ h3>
+          <ul>
+            <li> Snapshot (listen and practice) </li>
+            <li> Conversation (listen and practice) </li>
+            <li> Grammar Focus 1 ← Pair Work/ Group Work </li>
+          </ul>
+
+          <H3> PRACTICE + PRODUCTION </H3>
+          <ul>
+            <li> listening </li>
+            <li> Speaking (Discuss) </li>
+          </ul>
+
+          <h3> Systematization </ h3>
+          <ul>
+            <li> Conversation - listen and practice </li>
+            <li> Grammar Focus 2 ← Pair Work/ Group Work. </li>
+            <li> Pronunciation - Speaking </li>
+          </ul>
+
+          <H3> Practice + Written understanding </ h3>
+          <ul>
+            <li> listening </li>
+            <li> Word Power (Vocabulary) </li>
+            <li> Recapitulate, solve doubts </li>
+            <li> Reading - Speaking (Discuss) </li>
+          </ul> "
+    -
+      q: What material do you use to teach?
+      a: In the English classes we have the Cambridge platform, which has given excellent results to millions of students around the world. <br/> <br/>
+          In French we follow the methods of Maison by Langues, a worldwide recognized editorial, which has won several awards for their teaching methods.
+          In Spanish we follow the digital manuals of Campus Diffusion that give us access to the teaching of the Cervantes Institute, a public institution created in Spain in 1991 to universally promote the teaching, study and use of Spanish and contribute to the dissemination of Hispanic cultures in The exterior. <br/>
+        In German we follow the egg methods, which have been used for many years and have trained millions of students who have obtained very good results.
+    -
+      q: Do you deliver any constancy of study?
+      a: We give you a progress control with feedback in PDF format at the end of each unit and a diploma at the end of each level.
+    -
+      q: Can I obtain a certification at the end of a level?
+      a: We are not exam applicators to obtain certifications but we prepare you for free certifications. <br/>
+        In English we prepare you to obtain a Cambridge certification. These certifications do not expire that by obtaining one, you will get it for life. <br/>
+        In French we prepare you to obtain the DELF and Dalf that are the official diplomas that accredit your level of mastery of the French language, which are granted by France Éduction International by the French Ministry of National Education. <br/> <Br/Br/ >
+        In Spanish we prepare you to obtain the DELE granted by the Cervantes Institute, by the Ministry of Education, Culture and Sports of Spain. <br/>
+        In German we prepare you to pass a Goethe-Institut exam, a cultural institution of the Federal Republic of Germany, dedicated to the dissemination of German language and culture in the world. It offers exams to prove your German level through German certificates (Goethe-Zertifikat) of all levels of the common European framework.
+
+mission:
+  title: Nuestra misión
+  short: "En nuestra institución cada profesor tiene la misma misión:  llevar a cabo sus clases bajo el enfoque orientado a la acción o enfoque accional."
+  long: "<b>“El alumno debe ser capaz de realizar una acción.” </b>
+        <br/><br/>
+        El alumno tiene pequeñas tareas en clase, misiones y desafíos sobre situaciones de la vida diaria. Tal como sucede cuando se vive en el extranjero. De esta forma el alumno poco a poco desarrolla la capacidad para analizar, descifrar y aplicar nuevos conocimientos en su entorno social. 
+        Por otro lado, trabajamos con secuencias pedagógicas para que el alumno recuerde en cada clase lo que vio la clase anterior. Cada tema se relaciona con el siguiente: la repetición es la base para reforzar y sistematizar los conocimientos ya adquiridos. <br/><br/>
+        Además los alumnos improvisan diálogos sobre su vida, entablan conversaciones y actúan un papel social (rol play) con sus compañeros para desenvolverse en situaciones de la vida real. Esto es primordial ya que el alumno es miembro de una sociedad y debe poder comunicarse, actuar e interactuar con los demás miembros de su entorno.
+        Nuestro propósito es que aprendas a hablar, escribir, escuchar y leer en el idioma que elijas para trabajar, viajar, vivir en el extranjero y/o por placer. <br/><br/>
+        Habla una lengua extranjera para descubrir el mundo y entenderlo. Conoce nuevas personas viajando o en tu país. Trabaja con empresas internacionales y forma parte de nuevas comunidades reales o virtuales."
+  director:
+    name: Carolina Ojeda
+    title: Academic Director
+    studies: Master in Education and Training, Dalf, Pro Fle, TKT
+    story:
+      catch: "Learning a language was the best decision of my life. I discovered French culture, I traveled throughout Europe, I tried unparalleled meals and I also received a salary in euros which allowed me to stay several years in France. I met new people From different cultures, even my husband. I adopted a new vision for my life: give the same opportunity to the students of this institute. "
+      content: "I started my career in 2013 by teaching French in public and private universities in Mexico. With my knowledge in French I decided to apply for a scholarship as a Spanish language assistant in France. of l'Emplannement et de la formation (education and training) in Montpellier. <br/> <br/>
+              This has allowed me to bring to Mexico the experience and knowledge of the Methodology of the Council of Europe for the teaching of foreign languages. Likewise, teaching all kinds of audiences has allowed me to improve my skills to direct the institute. "
+
+slideshow:
+  items:
+    - Become the bilingual person you want so much
+    - Study in another country to be more competitive
+    - Win a better salary in your country or abroad
+    - Travel without problems
+    - Learn a language just for pleasure or to meet new people
+    - Be part of an international organization
+    - Teach other students
+
+team:
+  title: Some of our teachers
+  footnote: Do you have a degree, mastery or doctorate in foreign languages ​​or related career? Do you have 4 years or more experience teaching language classes?
+  apply: postulate
+  teachers:
+    -
+      name: Cecilia Carvallo
+      image: team_p4
+      studies: Doctorate in modern letters
+      story: "Spanish teacher. Cecilia gave Spanish classes at a school before finishing her doctorate and starting teaching classes
+      Linguistics at a very important university in Mexico. He has also taught Spanish classes for foreigners
+      Remote via All their students have been very satisfied with their work and have taken with it the preparation for
+      Obtain the DELE certification. Cecilia tells us that teaching is her passion and that teaching culture and
+      nuances of the Spanish language allows to quickly acquire a lot of vocabulary and very useful expressions among the
+      Spanish speakers."
+    -
+      name: Paul Henri Eche
+      image: team_p3
+      studies: Diploma in Spanish French Translation, Pro Fle
+      story: "Native French professor and interpreter, has been living in Mexico for more than 20 years and teaching.
+      He speaks perfectly Spanish and English. You will learn the French language with its good humor and dynamism.
+      He will explain the origin of many words and expressions, he is passionate about literature.
+      He is also an expert in history and culture. He has traveled around the world and loves to learn new languages
+      Like the Japanese. In addition, his drawings on the virtual board will surprise you. "
+    -
+      name: Arturo Silva
+      image: team_p2
+      studies: Master in Teaching English as Foreign Language, TKT
+      story: "English professor. Dedicated 100% to teaching, began his career in 2012.
+      During his classes he uses techniques to socialize in group since he has adapted to work online.
+      He loves to teach English with current topics such as articles and videos to discuss in groups about the
+      today's life. He likes to put songs in his classes to explain grammatical structures.
+      It will also explain the culture and differences of English and American lifestyle since it lived
+      some years in the United States and England. "
+    -
+      name: Emmanuel Morales
+      image: team_p1
+      studies: studies in Language Teaching and Electronics Engineering
+      story: "Professor of English and German with 18 years of experience.
+      Emanuel has certifications in both languages ​​at level C1.
+      He lived in Germany several years where he studied to learn German and currently studies a doctorate in England.
+      He worked as a translation assistant at the German embassy and has taught English and German classes in
+      different institutes and universities. He is the ideal teacher to learn languages ​​from beginner level
+      Even advanced in a relaxed but studious environment. Even to advise if you are studying an engineering. "
+
+testimonials:
+  title: what they say about us"
