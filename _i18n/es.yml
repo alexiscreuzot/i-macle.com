@@ -1,4 +1,13 @@
 global:
+  title: iMacle, Escuela de idiomas en línea
+  description: "Clases online para adolescentes y adultos impartidas por profesores certificados. 
+  Más de 10 años de experiencia.
+  Grupos dinámicos de 5 a 8 alumnos.
+  Método de enseñanza acorde al Marco Común Europeo.
+  Aprende a comunicarte de manera efectiva para desenvolverte en la vida real.
+  Muchos horarios disponibles a escoger.
+  Costos accesibles."
+  keywords: cursos en línea, online courses, lenguas extranjeras, escuela de idiomas
   spanish: Español
   english: Ingles
   french: Frances
@@ -29,23 +38,26 @@ courses:
     - 
       title: Cursos académicos
       content: 
-        "<span>Niveles desde principiente hasta avanzado (A1-C1)</span>
+        "<p> 
+        <span>Niveles desde principiente hasta avanzado (A1-C1)</span>
           Los cursos académicos son lo que estás buscando para aprender a hablar de manera fluida y natural en el idioma que elijas: inglés, francés, español o alemán. Tenemos cursos desde el nivel principiante hasta avanzado (A1-C1). Si no conoces el nivel que tienes del idioma que deseas aprender, te enviamos un examen de ubicación gratuito.
-          <ul>
-           <li>100% acompañado de un profesor durante 3 horas a la semana.</li> 
-           <li>Tendrás 1 evaluación por unidad de comprensión y expresión escrita y de comprensión y expresión oral.</li>
-           <li>Hablarás bastante en cada clase para desarrollar una buena pronunciación con estructuras gramaticales correctas e incrementar tu vocabulario.</li>
-           <li>Escucharás audios con conversaciones, verás videos y leerás artículos en clase.</li>
-           <li>Recibirás un reporte de progreso al final de cada unidad con tus resultados, avances y retroalimentación.
-           </li>
-           <li>Acompañamiento especial en expresión escrita y en pronunciación. </li>
-           <li>Adquirirás nuevas competencias y desarrollarás el pensamiento crítico.</li>
-           <li>Llevarás un método actualizado con ejercicios virtuales.</li>
-           <li>Dominarás el idioma que elijas como un experto.</li>"
+           <br/><br/>
+           • 100% acompañado de un profesor durante 3 horas a la semana.<br/> 
+           • Tendrás 1 evaluación por unidad de comprensión y expresión escrita y de comprensión y expresión oral.<br/>
+           • Hablarás bastante en cada clase para desarrollar una buena pronunciación con estructuras gramaticales correctas e incrementar tu vocabulario.<br/>
+           • Escucharás audios con conversaciones, verás videos y leerás artículos en clase.<br/>
+           • Recibirás un reporte de progreso al final de cada unidad con tus resultados, avances y retroalimentación.
+           <br/>
+           • Acompañamiento especial en expresión escrita y en pronunciación. <br/>
+           • Adquirirás nuevas competencias y desarrollarás el pensamiento crítico.<br/>
+           • Llevarás un método actualizado con ejercicios virtuales.<br/>
+           • Dominarás el idioma que elijas como un experto.<br/>
+          </p>"
     - 
       title: Cursos de conversación
       content: 
-        "<span>English the American Way</span>
+        "<p>
+        <span>English the American Way</span>
         Para estudiantes de nivel intermedio (B1) que deseen aprender expresiones que se usan en Norteamérica y conocer a 
         fondo su estilo de vida. Este curso implica adentrarse en la cultura para perfeccionar el inglés americano y por 
         fin hablar como un nativo.
@@ -54,32 +66,30 @@ courses:
         Para estudiantes cursando un nivel (A2), intermedio (B1) y avanzado (B2) que deseen expresar su opinión, debatir 
         y fomentar su cultura general siguiendo temas actuales del mundo que les rodea. Te ayuda además a ampliar 
         tu vocabulario, a perfeccionar tu pronunciación y tener mayor fluidez. Este curso es de gran ayuda para 
-        los estudiantes que deseen aprobar una certificación en el idioma que elijas: inglés, francés, español o alemán."
+        los estudiantes que deseen aprobar una certificación en el idioma que elijas: inglés, francés, español o alemán.
+        </p>"
     - 
       title: Cursos para niños 6 a 12 años
       content: 
-        "<span>Aprender inglés o francés es mucho más fácil cuando empiezas a temprana edad.</span>
+        "<p>
+        <span>Aprender inglés o francés es mucho más fácil cuando empiezas a temprana edad.</span>
 
-        Si tus hijos comienzan ahora se volverán expertos para: 
+        Si tus hijos comienzan ahora se volverán expertos para: <br/><br/>
 
-        <ul>
-          <li>Comunicarse con personas de todo el mundo.</li>
-          <li>Acceder a programas y becas en las mejores universidades del mundo a través de algún intercambio o inscribiéndose ellos mismos.</li>
-          <li>Acceder al mercado laboral internacional, lo que los llevará a tener un <li>salario bastante alto.</li>
-          <li>Crear su propia empresa o negocio y promoverlo a través del mundo.</li>
-        </ul>
-        </p>
-        <p> 
+          • Comunicarse con personas de todo el mundo.<br/>
+          • Acceder a programas y becas en las mejores universidades del mundo a través de algún intercambio o inscribiéndose ellos mismos.<br/>
+          • Acceder al mercado laboral internacional, lo que los llevará a tener un salario bastante alto.<br/>
+          • Crear su propia empresa o negocio y promoverlo a través del mundo.<br/>
+
         <span>Desde muy pequeños se olvidaran de las barreras del idioma. No se darán cuenta que están aprendiendo porque aprenderán divirtiéndose.</span> 
-        <ul>
-           <li>100% acompañado de un profesor durante 3 horas a la semana.</li>
-        <li>A través de una plataforma interactiva tu hijo desarrollará una buena pronunciación con ejercicios de audio, juegos y canciones.</li>
-        <li>Aprenderá a través de cuentos y videos sobre el mundo que lo rodea.</li>
-        <li>Recibirá un reporte de progreso al final de cada unidad con sus resultados, avances y retroalimentación.</li>
-        <li>Tendrá acompañamiento especial en expresión escrita y en pronunciación.</li> 
-        <li>Adquirirá nuevas competencias.</li>
-        <li>Llevará en clase un método digital con ejercicios virtuales más un libro y un cuaderno de ejercicios que se le mandarán sin costo alguno.</li>
-        </ul>"
+          • 100% acompañado de un profesor durante 3 horas a la semana.<br/>
+          • A través de una plataforma interactiva tu hijo desarrollará una buena pronunciación con ejercicios de audio, juegos y canciones.<br/>
+          • Aprenderá a través de cuentos y videos sobre el mundo que lo rodea.<br/>
+          • Recibirá un reporte de progreso al final de cada unidad con sus resultados, avances y retroalimentación.<br/>
+          • Tendrá acompañamiento especial en expresión escrita y en pronunciación.<br/> 
+          • Adquirirá nuevas competencias.<br/>
+          • Llevará en clase un método digital con ejercicios virtuales más un libro y un cuaderno de ejercicios que se le mandarán sin costo alguno.<br/>
+        </p>"
 
 faq:
   title: FAQ
@@ -109,33 +119,33 @@ faq:
 
           Los profesores siguen las secuencias del libro para realizar una evaluación. Cada secuencia (unidad didáctica) puede durar de 4 a 6 clases, dependiendo del nivel y del idioma. Este es un ejemplo de una secuencia en inglés nivel principiante:
 
-          <h3>DESCUBRIMIENTO</h3> 
-          <ul>
-            <li>SNAPSHOT (listen and practice)</li>
-            <li>CONVERSATION (listen and practice) </li>
-            <li>GRAMMAR FOCUS 1 ← Pair work/ Group work </li>
-          </ul>
+          <span>DESCUBRIMIENTO</span> 
+          
+            • SNAPSHOT (listen and practice)<br/>
+            • CONVERSATION (listen and practice) <br/>
+            • GRAMMAR FOCUS 1 ← Pair work/ Group work <br/>
+          
 
-          <h3>PRÁCTICA + PRODUCCIÓN</h3> 
-          <ul>
-            <li>LISTENING</li>
-            <li>SPEAKING (discuss) </li>
-          </ul>
+          <span>PRÁCTICA + PRODUCCIÓN</span> 
+          
+            • LISTENING<br/>
+            • SPEAKING (discuss) <br/>
+          
 
-          <h3>SISTEMATIZACIÓN</h3> 
-          <ul>
-            <li>CONVERSATION - listen and practice </li>
-            <li>GRAMMAR FOCUS 2  ← Pair work/ Group work.</li>
-            <li>PRONUNCIATION - SPEAKING</li>
-          </ul>
+          <span>SISTEMATIZACIÓN</span> 
+          
+            • CONVERSATION - listen and practice <br/>
+            • GRAMMAR FOCUS 2  ← Pair work/ Group work.<br/>
+            • PRONUNCIATION - SPEAKING<br/>
+          
 
-          <h3>PRÁCTICA + COMPRENSIÓN ESCRITA</h3> 
-          <ul>
-            <li>LISTENING </li>
-            <li>WORD POWER (vocabulario) </li>
-            <li>Recapitular, resolver dudas </li>
-            <li>READING - SPEAKING (discuss)</li>
-          </ul>"
+          <span>PRÁCTICA + COMPRENSIÓN ESCRITA</span> 
+          
+            • LISTENING <br/>
+            • WORD POWER (vocabulario) <br/>
+            • Recapitular, resolver dudas <br/>
+            • READING - SPEAKING (discuss)<br/>
+          "
     -
       q: ¿Qué material usan para dar las clases?
       a: En las clases de inglés contamos con la plataforma de Cambridge, la cual le ha dado excelentes resultados a millones de estudiantes alrededor del mundo.<br/><br/>
@@ -171,6 +181,37 @@ mission:
       catch: "Aprender un idioma fue la mejor decisión de mi vida. Descubrí la cultura francesa, viajé a través de toda Europa,  probé comidas inigualables y además recibí un salario en euros lo que me permitió quedarme varios años en Francia. Conocí a nuevas personas de distintas culturas, incluso a mi esposo. Adopté una nueva visión para mi vida: darle la misma oportunidad a los alumnos de este instituto."
       content: "Inicié mi carrera en el año 2013 dando clases de francés en universidades públicas y privadas en México. Con mis conocimientos en francés decidí postularme para obtener una beca como asistente de español lengua extranjera en Francia. Más adelante, estudié la Maestría en Métiers de l'enseignement et de la formation (Educación y formación) en Montpellier. <br/><br/>
               Esto me ha permitido traer a México la experiencia y los conocimientos de la metodología del Consejo de Europa para la enseñanza de lenguas extranjeras. Así mismo, impartir clases a todo tipo de público me ha permitido mejorar mis habilidades para dirigir el instituto. "
+
+prices:
+  title: Planes
+  plans:
+    -
+      name: Cursos Académicos
+      price: MXN 580 / mes
+      languages: [es, en, fr, de]
+      students: 6 a 8 alumnos
+      hours: 1,5 horas / semana
+      teacher: Profesor en vivo
+      link: https://forms.gle/o2do1nqECnVC5kt38
+    -
+      name: Cursos de Conversación
+      price: MXN 580 / mes
+      languages: [es, en, fr, de]
+      students: 5 a 7 alumnos
+      hours: 6 horas / mes
+      teacher: Profesor en vivo
+      link: https://forms.gle/ykbV1cZgSu6NJ3gq9
+    -
+      name: Cursos para niños
+      price: MXN 580 / mes
+      languages: [en, fr]
+      students: 6 a 8 alumnos
+      hours: 1,5 horas / semana
+      teacher: Profesor en vivo
+      link: https://forms.gle/AMvUFEifrRK4j6UM8
+  footnote: "<b>Para más información y dudas contáctanos a través de nuestras redes sociales.</b><br/>
+          Si no conoces tu nivel en el idioma que deseas aprender te mandamos un examen de ubicación.<br/>
+          Si tienes compañeros con intereses en común, arma tu grupo."
 
 slideshow:
   items:

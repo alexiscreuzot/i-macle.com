@@ -1,8 +1,8 @@
 <head>
 	<meta charset="utf-8" />
-	<title>{{ site.title }}</title>
-	<meta name="description" content="{{ site.description }}">
-	<meta name="keywords" content="{{ site.keywords }}" />
+	<title>{% t global.description %}</title>
+	<meta name="description" content="{% t global.description %}">
+	<meta name="keywords" content="{% t global.keywords %}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta property="og:title" content="{{ site.title }}">
 	<meta property="og:description" content="{{ site.description }}">
@@ -10,6 +10,7 @@
 	<meta property="og:url" content="https://i-macle.com/index.html">
 	<link rel="icon" type="image/x-icon" href="{{ "/assets/images/favicon.ico" | prepend: site.baseurl_root }}"/>
 	<link rel="stylesheet" href="{{ "/main.css" | prepend: site.baseurl_root }}"/>
+
 	<!-- Meta Pixel Code -->
 	<script>
 	!function(f,b,e,v,n,t,s)

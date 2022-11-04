@@ -120,6 +120,29 @@ a {
   }
 }
 
+.flag {
+
+    &.es {  
+      background: url("./assets/images/es.webp");
+    }
+    &.en {
+      background: url("./assets/images/en.webp");
+    }
+    &.fr {
+      background: url("./assets/images/fr.webp");
+    }
+    &.de {
+      background: url("./assets/images/de.webp");
+    }
+
+    background-repeat: no-repeat;
+    background-position: center; 
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-size: cover !important;
+  }
+
 @media (max-width: 600px) {
   h1 {
     font-size: 2rem;

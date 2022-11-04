@@ -2,11 +2,12 @@
   <div class="container">
     <nav>
       <div class="column">
-        <h5 class="title">Cursos</h5>
+        <h5 class="title">{% t courses.title %}</h5>
         <ul>
-          <li><a href="#courses">Cursos académicos</a></li>
-          <li><a href="#courses">Cursos de conversación</a></li>
-          <li><a href="#prices">Planes</a></li>
+          {% for item in site.translations[site.lang].courses.items %}
+          <li><a href="#courses">{{ item["title"] }}</a></li>
+          {% endfor %}
+          <li><a href="#prices">{% t prices.title %}</a></li>
         </ul>
       </div>
       <div class="column">
