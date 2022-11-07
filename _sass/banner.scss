@@ -107,16 +107,16 @@
       text-align: left;
       padding:10px 0;
       margin: 0; 
-      border-radius:0px;
+      border-radius:6px;
     }
 
-    li ul li:first-child {
-     border-radius:6px 6px 0 0;
-    }
+    // li ul li:first-child {
+    //  border-radius:6px 6px 0 0;
+    // }
 
-    li ul li:last-child {
-      border-radius:0 0 6px 6px;
-    }
+    // li ul li:last-child {
+    //   border-radius:0 0 6px 6px;
+    // }
 
     li ul li:hover {
       background-color:#EEE;

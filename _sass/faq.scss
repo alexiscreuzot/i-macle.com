@@ -8,11 +8,11 @@
     margin: 4px 0;
     border-bottom: 1px solid #ccc;
 
+
     .abstract {
       display: inline-block;
       width: 100%;
       padding: 0 1rem;
-      font-weight: 200;
       cursor: pointer;
       transition: all 500ms;
     }
@@ -20,7 +20,8 @@
     .name p {
       font-size: 18px;
       float: left;
-      font-weight: 400;
+      font-weight: 600;
+      color: $accent-color;
     }
 
     .more-icon {
