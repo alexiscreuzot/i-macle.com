@@ -1,4 +1,5 @@
 global:
+  lang: Español
   title: iMacle, Escuela de idiomas en línea
   description: "Clases online para adolescentes y adultos impartidas por profesores certificados. 
   Más de 10 años de experiencia.
@@ -14,6 +15,8 @@ global:
   subtitle: Método Accional y Comunicativo<br/>en Lenguas Extranjeras
   read_more: Leer más
   read_less: Leer menos
+  about: A Propósito
+  social: Redes sociales
 
 banner:
   register: Inscribirse
@@ -212,6 +215,9 @@ prices:
   footnote: "<b>Para más información y dudas contáctanos a través de nuestras redes sociales.</b><br/>
           Si no conoces tu nivel en el idioma que deseas aprender te mandamos un examen de ubicación.<br/>
           Si tienes compañeros con intereses en común, arma tu grupo."
+
+quote:
+  content: “La gente fracasa en llevarse bien porque se temen; se temen porque no se conocen; no se conocen porque no se han comunicado”
 
 slideshow:
   items:

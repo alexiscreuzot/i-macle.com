@@ -23,10 +23,10 @@ $title-font: 'Adam-Bold', sans-serif;
 $subtitle-font: 'Garamond', serif;
 
 $accent-color: #357cB9;
-$accent-light: lighten($accent-color, 44%);
-$complement-color: adjust-hue($accent-color, 180deg);
-$complement-light:lighten($complement-color, 44%);
-$body-color: lighten($accent-color, 80%);
+$accent-light: lighten($accent-color, 40%);
+$complement-color: adjust-hue($accent-color, 160deg);
+$complement-light:lighten($complement-color, 40%);
+$body-color: #FDFDFD;
 $green-color: #259983;
 
 

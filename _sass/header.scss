@@ -8,6 +8,10 @@
   z-index: 20;
   text-align: center;
 
+  & .button {
+    margin: auto;
+  }
+
   & .title{
     padding: 2rem 0 3rem;    
 

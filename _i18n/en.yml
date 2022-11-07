@@ -1,4 +1,5 @@
 global:
+  lang: English
   title: Imacle, Language School online 
   description: "Online classes for adolescents and adults taught by certified teachers. 
    More than 10 years of experience. 
@@ -6,7 +7,7 @@ global:
    Teaching method according to the common European framework. 
    Learn to communicate effectively to develop in real life. 
    Many schedules available to choose. 
-   Accessible costs. " 
+   Accessible costs." 
   keywords: online courses, online courses, foreign languages, language school
   spanish: Spanish
   english: English
@@ -14,6 +15,8 @@ global:
   subtitle: Action and communicative method <br/> in foreign languages
   read_more: Read more
   read_less: Read less
+  about: About
+  social: Social
 
 banner:
   register: register
@@ -98,12 +101,6 @@ faq:
          We have an academic coordinator, direction and finance. <br/>
          In our institute you will learn languages following recognized methods worldwide and you can prepare to obtain a certification."
     -
-      q: ¿Cómo puedo inscribirme a un curso?
-      a: "Para inscribirte sin costo ve a la parte “planes” haz click en el botón verde “me inscribo” del curso que deseas (curso académico, curso de conversación, cursos para niños 6 - 12 años).<br/>
-          Este botón verde “me inscribo” te llevará a un formulario. Allí debes llenar tus datos de contacto, escoger el idioma y el nivel que deseas estudiar. También deberás escoger un HORARIO.<br/><br/>
-        Una vez que termines de llenar el formulario y lo mandes, nosotros te contactaremos vía mail o vía telefónica para darte la fecha de inicio de tu curso y los métodos de pago. 
-        Si deseas obtener el 20% de descuento haciendo pagos trimestrales solo tienes que mencionarlo cuando te contactemos."
-    -
       q: Are teachers native?
       a: We have native and non -native professors, all certified in the language they teach. All our teachers, both native and non -native go through a selection process with several filters.
          They also have higher studies and experience in language teaching.
@@ -150,15 +147,15 @@ faq:
         In German we prepare you to pass a Goethe-Institut exam, a cultural institution of the Federal Republic of Germany, dedicated to the dissemination of German language and culture in the world. It offers exams to prove your German level through German certificates (Goethe-Zertifikat) of all levels of the common European framework.
 
 mission:
-  title: Nuestra misión
-  short: "En nuestra institución cada profesor tiene la misma misión:  llevar a cabo sus clases bajo el enfoque orientado a la acción o enfoque accional."
-  long: "<b>“El alumno debe ser capaz de realizar una acción.” </b>
-        <br/><br/>
-        El alumno tiene pequeñas tareas en clase, misiones y desafíos sobre situaciones de la vida diaria. Tal como sucede cuando se vive en el extranjero. De esta forma el alumno poco a poco desarrolla la capacidad para analizar, descifrar y aplicar nuevos conocimientos en su entorno social. 
-        Por otro lado, trabajamos con secuencias pedagógicas para que el alumno recuerde en cada clase lo que vio la clase anterior. Cada tema se relaciona con el siguiente: la repetición es la base para reforzar y sistematizar los conocimientos ya adquiridos. <br/><br/>
-        Además los alumnos improvisan diálogos sobre su vida, entablan conversaciones y actúan un papel social (rol play) con sus compañeros para desenvolverse en situaciones de la vida real. Esto es primordial ya que el alumno es miembro de una sociedad y debe poder comunicarse, actuar e interactuar con los demás miembros de su entorno.
-        Nuestro propósito es que aprendas a hablar, escribir, escuchar y leer en el idioma que elijas para trabajar, viajar, vivir en el extranjero y/o por placer. <br/><br/>
-        Habla una lengua extranjera para descubrir el mundo y entenderlo. Conoce nuevas personas viajando o en tu país. Trabaja con empresas internacionales y forma parte de nuevas comunidades reales o virtuales."
+  title: Our mission
+  short: "In our institution, each teacher has the same mission: carry out their classes under the action -oriented approach or action."
+  long: "<b>The student must be able to perform an action. </b>
+        <br/> <br/>
+        The student has small tasks in class, missions and challenges about daily life situations. As it happens when you live abroad. In this way, the student gradually develops the ability to analyze, decipher and apply new knowledge in their social environment.
+        On the other hand, we work with pedagogical sequences so that the student remembers in each class what the previous class saw. Each topic is related to the following: repetition is the basis for strengthening and systematizing the knowledge already acquired. <br/> <br/>
+        In addition, students improvise dialogues about their life, have conversations and act a social role (play play) with their classmates to function in real -life situations. This is essential since the student is a member of a society and must be able to communicate, act and interact with the other members of their environment.
+        Our purpose is that you learn to speak, write, listen and read in the language you choose to work, travel, live abroad and/or for pleasure. <br/> <br/>
+        He speaks a foreign language to discover the world and understand it. Meet new people traveling or in your country. It works with international companies and is part of new real or virtual communities. "
   director:
     name: Carolina Ojeda
     title: Academic Director
@@ -199,7 +196,8 @@ prices:
            If you don't know your level in the language you want to learn, we send you a location exam. <br/> 
            If you have colleagues with interest in common, put together your group."
 
-
+quote:
+  content: “People fail to get along because they fear each other; they fear each other because they don't know each other; they don't know each other because they have not communicated with each other.”
 
 slideshow:
   items:
@@ -213,8 +211,8 @@ slideshow:
 
 team:
   title: Some of our teachers
-  footnote: Do you have a degree, mastery or doctorate in foreign languages ​​or related career? Do you have 4 years or more experience teaching language classes?
-  apply: postulate
+  footnote: Do you have a degree, mastery or doctorate in foreign languages ​​or related career?<br/>Do you have 4 years or more experience teaching language classes?
+  apply: Apply
   teachers:
     -
       name: Cecilia Carvallo
@@ -257,4 +255,4 @@ team:
       Even advanced in a relaxed but studious environment. Even to advise if you are studying an engineering. "
 
 testimonials:
-  title: what they say about us
+  title: What they say about us

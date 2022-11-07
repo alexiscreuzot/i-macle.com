@@ -57,9 +57,9 @@
   }
 
   .button {
-    background-color: lighten($complement-color, 3%);
+    background-color: lighten($accent-color, 3%);
     &:hover {
-      background-color: darken($complement-color, 5%);
+      background-color: darken($accent-color, 5%);
     }
   }
 
