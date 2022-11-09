@@ -4,15 +4,17 @@
       
       <div class="column left">
 
-        <h1>{% t global.baseline %} </h1>
+        <h1>{% t header.baseline %} </h1>
 
         <ul>
-        <li>Classes 100% Online</li>
-        <li>Small groups</li>
-        <li>Native teachers</li>
+          {% for item in site.translations[site.lang].header.items %}
+          <li>{{ item }}</li>
+          {% endfor %}
         </ul>
         <div style="clear:both;"></div>
-        <a id="subscribe" class="button" href="#prices">{% t banner.register %} <i class="icofont-rounded-right"></i></a>
+         {% if site.translations[site.lang].header.register %}
+        <a id="subscribe" class="button" href="#prices">{% t header.register %} <i class="icofont-rounded-right"></i></a>
+         {% endif %}
       </div>
       
       <div class="column right">

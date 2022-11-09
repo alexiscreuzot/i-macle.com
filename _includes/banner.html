@@ -6,20 +6,14 @@
     <div id="nav">
       <div class="languages">
         <ul>
-          <li><i class="flag {{ site.lang }}"></i><span class="selected">{% t global.lang %}</span>
+          <li><i class="icofont-globe"></i><span class="selected">{% t global.lang %} <i class="icofont-rounded-down"></i></span>
             <ul>
-              {% if site.lang != "es" %}
                 {% capture link_es %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
                 <li><a href="{{ link_es }}"><i class="flag es"></i><span>Español</span></a></li>
-              {% endif %}
-              {% if site.lang != "en" %}
                 {% capture link_en %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
                 <li><a href="{{ link_en }}"><i class="flag en"></i><span>English</span></a></li>
-              {% endif %}
-              <!-- {% if site.lang != "fr" %}
                 {% capture link_fr %}{{ site.baseurl_root }}/fr{{ page.url}}{% endcapture %}
                 <li><a href="{{ link_fr }}"><i class="flag fr"></i><span>Français</span></a></li>
-              {% endif %} -->
             </ul>
           </li>
         </ul>

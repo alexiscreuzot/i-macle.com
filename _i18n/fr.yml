@@ -1,2 +1,21 @@
-global:
-  lang: Français
+{
+  "global": {
+    "lang": "Français",
+    "title": "Imacle, école de langues en ligne",
+    "description": "Cours en ligne pour les adolescents et les adultes enseignés par des enseignants certifiés. Plus de 10 ans d'expérience. Groupes dynamiques de 5 à 8 étudiants. Méthode d'enseignement selon le cadre européen commun. Apprenez à communiquer efficacement pour se développer dans la vraie vie. De nombreux horaires disponibles. Coûts accessibles.",
+    "keywords": "cours en ligne, cours en ligne, langues étrangères, école de langue",
+    "spanish": "Espagnol",
+    "english": "Anglais",
+    "french": "Français",
+    "subtitle": "",
+    "read_more": "Lire plus",
+    "read_less": "Lire moins",
+    "about": "À Propos",
+    "social": "Réseaux Sociaux"
+  },
+   "header": {
+    "baseline": "Bientôt disponible",
+    "register": "Start learning",
+    "items": []
+  }
+}

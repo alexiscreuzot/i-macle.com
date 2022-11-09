@@ -1,6 +1,7 @@
 <div id="footer">
   <div class="container">
     <nav>
+      {% if site.translations[site.lang].courses %}
       <div class="column">
         <h5 class="title">{% t courses.title %}</h5>
         <ul>
@@ -10,6 +11,8 @@
           <li><a href="#prices">{% t prices.title %}</a></li>
         </ul>
       </div>
+      {% endif %}
+      {% if site.translations[site.lang].benefits %}
       <div class="column">
         <h5 class="title">{% t global.about %}</h5>
         <ul>
@@ -19,17 +22,18 @@
           <li><a href="#team">{% t team.title %}</a></li>
         </ul>
       </div>
-      <div class="column">
+      {% endif %}
+      <div class="column social">
         <h5 class="title">{% t global.social %}</h5>
-        <ul style="">
+        <ul>
           <li><a href="https://facebook.com/instituto.macle" target=_blank>
-            <img src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" width="32" height="32">
+            <img src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" width="28" height="28">
           </a></li>
           <li><a href="https://twitter.com/institutoMacle" target=_blank>
-            <img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" width="32" height="32">
+            <img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" width="28" height="28">
           </a></li>
           <li><a href="https://instagram.com/instituto.macle" target=_blank>
-            <a href="https://cdnlogo.com/logo/instagram-flat_472.html"><img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" width="32" height="32"></a>
+            <a href="https://cdnlogo.com/logo/instagram-flat_472.html"><img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" width="28" height="28"></a>
           </a></li>
         </ul>
       </div>
