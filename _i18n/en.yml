@@ -1,6 +1,7 @@
 global:
   lang: English
   title: Imacle, Language School online 
+  baseline: We Create Multi-lingual People 
   description: "Online classes for adolescents and adults taught by certified teachers. 
    More than 10 years of experience. 
    Dynamic groups of 5 to 8 students. 
@@ -19,7 +20,7 @@ global:
   social: Social
 
 banner:
-  register: register
+  register: Start Learning
 
 benefits:
   title: Benefits of our Institute

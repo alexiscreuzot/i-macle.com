@@ -2,7 +2,7 @@
 
   background-color: $complement-light;
   padding-top: 4rem;
-  height: 250px;
+  height: 200px;
   padding: 0;
   display: flex;
   align-items: center;
@@ -11,6 +11,12 @@
   & .slide {
     display: none;
     padding: 2rem;    
+  }
+
+  @media only screen and (max-width: 800px) {
+    h2 {
+      font-size: 1.5rem;
+    }
   }
 
 }
