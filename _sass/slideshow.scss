@@ -1,12 +1,19 @@
 #slideshow {
 
-  background-color: $complement-light;
+  background: $accent-color;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom right, $accent-color, $complement-color);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom right, $accent-color, $complement-color); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   padding-top: 4rem;
   height: 200px;
   padding: 0;
   display: flex;
   align-items: center;
   justify-content: center;
+
+  h2 {
+    color: #fff;
+  }
 
   & .slide {
     display: none;

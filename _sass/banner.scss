@@ -136,10 +136,7 @@
     }
 
     li ul li:hover {
-      background-color:$complement-light;;
-      span {
-        // color: $accent-color;
-      }
+      background-color:$accent-light;
     }
   }
 }

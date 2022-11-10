@@ -101,13 +101,16 @@ a {
 }
 
 .button {
+
+  background: $complement-color;  /* fallback for old browsers */
+      
   transition: 0.3s;
   font-family: sans-serif;
   color: white;
   border-radius: 360px;
   display: inline-block;
   padding: 8px 24px 7px;
-  background-color: lighten($green-color, 5%);
+  
   text-decoration: none;
   text-transform:uppercase;
   font-weight: 800;
@@ -117,7 +120,7 @@ a {
 
   &:hover {
     color: white;
-    background-color: darken($green-color, 5%);
+    background: $accent-color; 
   }
 }
 

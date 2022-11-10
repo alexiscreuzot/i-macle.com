@@ -51,11 +51,12 @@
 
         color:#667;
         .catch {
-          background-color: lighten($complement-light, 5%);
+          background: $accent-color;  /* fallback for old browsers */
+          background: -webkit-linear-gradient(to bottom right, $accent-color, $complement-color);  /* Chrome 10-25, Safari 5.1-6 */
+          background: linear-gradient(to bottom right, $accent-color, $complement-color);
           padding: 12px;
           border-radius: 10px;
-          color: #333;
-          font-weight: 600;
+          color: RGBA(255,255,255,0.9);
         }
 
         p {

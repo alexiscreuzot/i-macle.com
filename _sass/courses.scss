@@ -6,11 +6,15 @@
 
   .course {
 
-    margin: 1rem 0;
+    margin: 1.5rem 0;
 
     .abstract {
-      border-radius: 8px;
-      background: darken($accent-color, 10%);
+
+      background: $accent-color;  /* fallback for old browsers */
+      // background: -webkit-linear-gradient(to bottom, darken($accent-color, 10%), $accent-color);  /* Chrome 10-25, Safari 5.1-6 */
+      // background: linear-gradient(to bottom, darken($accent-color, 10%), $accent-color);
+
+      border-radius: 12px;
       display: inline-block;
       width: 100%;
       padding: 0 1rem;
@@ -19,14 +23,14 @@
       cursor: pointer;
       transition: all 500ms;
       &:hover {
-        background: $accent-color;
+        background: $complement-color;
       }
     }
 
     .name p {
       float: left;
       font-weight: bold;
-      color:#fefefe;
+      color:rgba(255,255,255,0.9);
     }
     .more-icon {
       margin:4px 0 0 0;
@@ -41,9 +45,10 @@
     }
 
     .more {
+
       border-radius: 4px;
-      margin: -2px 8px 0;
-      background: darken($body-color, 2%);
+      margin: -15px 0 0;
+      background: $accent-color;
       background-repeat: none;
       background-origin: center;
       background-attachment: fixed;
@@ -60,6 +65,7 @@
       p {
         padding: 0 2rem 1.5rem;
         font-size: 1.1rem;
+        color:rgba(255,255,255,0.7);
       }
 
       ul {
@@ -73,8 +79,8 @@
 
       span {
         font-family: $subtitle-font;
-        padding: 2rem 0 2rem;
-        color: #111;
+        padding: 1rem 0;
+        color:rgba(255,255,255,0.9);
         display: block;
         font-size: 1.4rem;
         font-weight: bold;

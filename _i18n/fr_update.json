@@ -1,0 +1,200 @@
+{
+    "global": {
+        "lang": "Français",
+        "title": "Imacle, école de langues en ligne",
+        "description": "Cours en ligne pour les adolescents et les adultes enseignés par des enseignants certifiés. Plus de 10 ans d'expérience. Groupes dynamiques de 5 à 8 étudiants. Méthode d'enseignement selon le cadre européen commun. Apprenez à communiquer efficacement pour se développer dans la vraie vie. De nombreux horaires disponibles. Coûts accessibles.",
+        "keywords": "cours en ligne, cours en ligne, langues étrangères, école de langue",
+        "spanish": "Espagnol",
+        "english": "Anglais",
+        "french": "Français",
+        "subtitle": "Méthode actionnelle et communicative<br/> en langues étrangères",
+        "read_more": "Lire plus",
+        "read_less": "Lire moins",
+        "about": "À Propos",
+        "social": "Réseaux Sociaux"
+    },
+    "header": {
+        "baseline": "Nous Créons des Personnes Multilingues",
+        "register": "S&#39;inscrire",
+        "items": [
+            "Cours 100% en ligne",
+            "Petits groupes",
+            "Professeurs hautement qualifiés"
+        ]
+    },
+    "benefits": {
+        "title": "Pourquoi l&#39;Institut Macle est-il parfait pour moi ?",
+        "items": [
+            "Vous apprendrez à parler couramment pour fonctionner dans des situations réelles.",
+            "Vous apprendrez une communication efficace.",
+            "Vous aurez des conseils pour orienter vos études.",
+            "Méthode d&#39;enseignement selon le Cadre européen commun.",
+            "Vous apprendrez également la culture et les coutumes."
+        ]
+    },
+    "courses": {
+        "title": "Classes en ligne",
+        "subtitle": "Selon votre âge, vous suivrez une méthode conçue pour vous.",
+        "footnote": "Si vous avez des difficultés à apprendre une langue, nous vous donnerons les conseils nécessaires pour organiser votre façon d&#39;étudier.",
+        "items": [
+          {
+            "title": "Cursos académicos",
+            "content": "<p>  <span>Clases para adolescentes y adultos desde principiante hasta avanzado (A1-C2).</span>\nLos cursos académicos son lo que estás buscando para aprender a hablar de manera fluida y natural en el idioma que elijas: inglés, francés, español o alemán. Si no conoces el nivel que tienes del idioma que deseas aprender, te enviamos un examen de ubicación gratuito. <br/><br/> • 6 a 8 alumnos. <br/>  • Inmersión total con audios, conversaciones, videos y lecturas.<br/> • Expresión oral en cada clase para desarrollar una buena pronunciación e incrementar tu vocabulario.<br/> • Llevarás una secuencia de aprendizaje. • Recibirás un reporte de progreso al final de cada evaluación con tus resultados, avances y retroalimentación.<br/> • Tendrás acompañamiento especial en expresión escrita y gramática. <br/> • Aprenderás con juegos, dinámicas y ejercicios virtuales.<br/> • Entrega de constancia al finalizar el curso.<br/> • Dominarás el idioma que elijas como un experto.<br/> </p>"
+          },
+          {
+            "title": "Cursos de conversación",
+            "content": "<p> <span>Fortalece tus conocimientos</span> Sesiones de conversación para adolescentes y adultos con un nivel principiante (A2), intermedio (B1) o avanzado (B2) que deseen expresar su opinión, debatir  y fomentar su cultura general siguiendo temas recientes sobre el mundo entero. Sesiones para: inglés, francés, español y alemán. <br/><br/> • 5 a 7 alumnos.<br/>  • 100% acompañado de un profesor.<br/>  • Te confrontarás a temas de acuerdo a tu nivel (tecnología, arte, trabajo, educación, ciencias, entretenimiento, historia, entre otros).<br/>   • Ampliarás tu vocabulario, perfeccionarás tu pronunciación y desarrollarás mayor fluidez. <br/>  • En cada clase analizarás un artículo, video o podcast y responderás a algunas preguntas de comprensión oral o comprensión escrita para posteriormente comentar y debatir con tus compañeros. <br/>  • Tendrás un test para evaluar tu progreso en expresión oral continua y expresión oral en interacción. <br/>  • Podrás aprobar una certificación más fácilmente acelerando tu nivel. <br/>  </p>"
+          },
+          {
+            "title": "Cursos para niños 6 a 12 años",
+            "content": "<p> <span>Aprender inglés o francés es mucho más fácil cuando empiezas a temprana edad.</span>\nSi tus hijos comienzan ahora se volverán expertos para: <br/><br/>\n• Comunicarse con personas de todo el mundo.<br/> • Acceder a programas y becas en las mejores universidades del mundo a través de un intercambio o inscribiéndose directamente.<br/> • Acceder al mercado laboral internacional, lo que los llevará a tener un salario bastante alto.<br/> • Crear su propia empresa o negocio y promoverlo a través del mundo.<br/>\n<span> No se darán cuenta que están aprendiendo porque aprenderán divirtiéndose.</span>  • 6 a 8 alumnos.<br/> • 100% acompañado de un profesor.<br/> • A través de una plataforma interactiva tu hijo desarrollará una buena pronunciación con ejercicios de audio, juegos y canciones.<br/> • Aprenderá a través de cuentos y videos sobre el mundo que lo rodea.<br/> • Aprenderá algunos temas de geografía, historia y ciencias en el idioma que elija, de acuerdo a su nivel de educación escolar. <br/>  • Recibirá un reporte de progreso al final de cada unidad con sus resultados, avances y retroalimentación.<br/> • Adquirirá nuevas competencias.<br/> • Llevará en clase un método digital con ejercicios virtuales más un libro y un cuaderno de ejercicios que se le mandarán sin costo alguno.<br/> • Entrega de constancia al finalizar el curso.<br/> </p>"
+          }
+        ]
+    },
+    "faq": {
+        "title": "FAQ",
+        "subtitle": "Si vous avez des doutes, clarifiez-les avec notre foire aux questions",
+        "items": [
+      {
+        "q": "¿Qué es Macle?",
+        "a": "Macle es un instituto latinoamericano 100% en línea dedicado a la enseñanza de idiomas (inglés, francés, español). Contamos con un coordinador académico, dirección y finanzas. Nos encontramos en la Ciudad  de México y somos uno de los pocos institutos que usan la metodología europea para impartir sus clases.<br/> En nuestro instituto aprenderás idiomas siguiendo métodos reconocidos a nivel mundial y podrás prepararte para obtener una certificación."
+      },
+      {
+        "q": "¿Cómo puedo inscribirme a un curso?",
+        "a": "Para inscribirte sin costo ve a la parte “planes” haz click en el botón “me inscribo” del curso que deseas (curso académico, curso de conversación, cursos para niños 6 - 12 años).<br/> Este botón “me inscribo” te llevará a un formulario. Allí debes llenar tus datos de contacto, escoger el idioma y el nivel que deseas estudiar. También deberás escoger un HORARIO.<br/><br/> Una vez que termines de llenar el formulario y lo mandes, nosotros te contactaremos vía mail o vía telefónica para darte la fecha de inicio de tu curso y los métodos de pago. Una vez hecho tu primer pago recibirás instrucciones vía MAIL para comenzar tu curso, enlaces para conectarte a la plataforma y tu material gratuito. Además te contactaremos vía WhatsApp para crear un grupo con tus nuevos compañeros y tu profesor. IMPORTANTE: el tiempo de espera para recibir el MAIL, una vez completado tu formulario, es de 2 a 3 días, debido a la cantidad de solicitudes que tenemos."
+      },
+      {
+        "q": "¿Los profesores son nativos?",
+        "a": "Contamos con profesores nativos y no nativos, todos certificados en el idioma que imparten. Todos nuestros profesores, tanto nativos como no nativos pasan por un proceso de selección con varios filtros. Además cuentan con estudios superiores y experiencia en la enseñanza de idiomas."
+      },
+      {
+        "q": "¿Debo comprar material?",
+        "a": "No. Te proporcionamos el material que necesitas para aprender: libro, cuaderno de ejercicios y audios para practicar. Esto es sin costo alguno."
+      },
+      {
+        "q": "¿Cómo son las clases?",
+        "a": "En clase de inglés, francés, español o alemán usamos documentos como videos, textos, audios de conversaciones, juegos interactivos, flashcards y actividades especiales para la expresión oral continua y en interacción (conversación).<br/><br/>\nLos profesores siguen las secuencias del libro para realizar una evaluación. Cada secuencia (unidad didáctica) puede durar de 4 a 6 clases, dependiendo del nivel y del idioma. Este es un ejemplo de una secuencia en inglés nivel principiante:\n<span>DESCUBRIMIENTO</span> \n• SNAPSHOT (listen and practice)<br/> • CONVERSATION (listen and practice) <br/> • GRAMMAR FOCUS 1 ← Pair work/ Group work <br/>\n\n<span>PRÁCTICA + PRODUCCIÓN</span> \n• LISTENING<br/> • SPEAKING (discuss) <br/>\n\n<span>SISTEMATIZACIÓN</span> \n• CONVERSATION - listen and practice <br/> • GRAMMAR FOCUS 2  ← Pair work/ Group work.<br/> • PRONUNCIATION - SPEAKING<br/>\n\n<span>PRÁCTICA + COMPRENSIÓN ESCRITA</span> \n• LISTENING <br/> • WORD POWER (vocabulario) <br/> • Recapitular, resolver dudas <br/> • READING - SPEAKING (discuss)<br/> "
+      },
+      {
+        "q": "¿Qué material usan para dar las clases?",
+        "a": "En las clases de inglés contamos con la plataforma de Cambridge, la cual le ha dado excelentes resultados a millones de estudiantes alrededor del mundo.<br/><br/> En francés seguimos los métodos de Maison de Langues, editorial reconocida a nivel mundial, la cual ha ganado varios premios por sus métodos de enseñanza.<br/><br/> En español seguimos los manuales digitales de Campus difusión que nos dan acceso a la enseñanza del Instituto Cervantes, institución pública creada en España en 1991 para promover universalmente la enseñanza, el estudio y el uso del español y contribuir a la difusión de las culturas hispánicas en el exterior.<br/><br/> En alemán seguimos los métodos de Hueber, los cuales han sido utilizados desde hace muchos años y han formado a millones de alumnos quienes han obtenido muy buenos resultados."
+      },
+      {
+        "q": "¿Entregan alguna constancia de estudio?",
+        "a": "Si. Te otorgamos un control de progreso con retroalimentación en formato PDF al finalizar cada unidad y un diploma al finalizar cada nivel."
+      },
+      {
+        "q": "¿Podré obtener una certificación al finalizar un nivel?",
+        "a": "No somos aplicadores de exámenes para obtener certificaciones pero te preparamos para las certificaciones de manera gratuita.<br/> En inglés te preparamos para obtener una certificación de Cambridge. Estas certificaciones no expiran así que al obtener una la obtendrás de por vida.<br/> En francés te preparamos para obtener el DELF y el DALF que son los diplomas oficiales que acreditan tu nivel de dominio del idioma francés, los cuales son otorgados por France Éducation International por parte del Ministerio Francés de Educación Nacional.<br/> En español te preparamos para obtener el DELE que otorga el Instituto Cervantes, por parte del Ministerio de Educación, Cultura y Deporte de España.<br/> En alemán te preparamos para pasar un examen de Goethe-Institut, institución cultural de la República Federal de Alemania, dedicada a la difusión de la lengua y la cultura alemana en el mundo. Ofrece exámenes para conseguir acreditar tu nivel de alemán a través de los certificados de alemán (Goethe-Zertifikat) de todos los niveles del Marco Común Europeo."
+      }
+    ]
+    },
+    "mission": {
+        "title": "Notre mission",
+        "short": "Dans notre établissement, chaque enseignant a la même mission : réaliser ses cours selon l&#39;approche actionnelle ou méthode d&#39;action.",
+        "long": "<b>&quot;L&#39;élève doit être capable d&#39;accomplir une action.&quot;</b><br/><br/> L&#39;élève a des petites tâches en classe, des missions et des défis sur des situations de la vie quotidienne. Comme quand on vit à l&#39;étranger. De cette façon, l&#39;élève développe progressivement la capacité d&#39;analyser, de décrypter et d&#39;appliquer de nouvelles connaissances dans son environnement social. D&#39;autre part, nous travaillons avec des séquences pédagogiques pour que l&#39;élève se souvienne à chaque cours de ce qu&#39;il a vu le cours précédent. Chaque thème est lié à ce qui suit : la répétition est la base pour renforcer et systématiser les connaissances déjà acquises.<br/><br/> De plus, les élèves improvisent des dialogues sur leur vie, entament des conversations et jouent un rôle social (jeu de rôle) avec leurs camarades de classe pour faire face à des situations réelles. Ceci est essentiel puisque l&#39;élève est membre d&#39;une société et doit être capable de communiquer, d&#39;agir et d&#39;interagir avec les autres membres de son environnement. Notre but est que vous appreniez à parler, écrire, écouter et lire dans la langue de votre choix pour travailler, voyager, vivre à l&#39;étranger et/ou pour le plaisir.<br/><br/> Parler une langue étrangère pour découvrir le monde et le comprendre. Rencontrez de nouvelles personnes en voyage ou dans votre pays. Travaillez avec des entreprises internationales et faites partie de nouvelles communautés réelles ou virtuelles.",
+        "director": {
+            "name": "Caroline Ojeda",
+            "title": "Directeur Académique",
+            "studies": "Master Education et Formation, DALF, PRO FLE, TKT",
+            "story": {
+                "catch": "Apprendre une langue a été la meilleure décision de ma vie. J&#39;ai découvert la culture française, j&#39;ai voyagé à travers l&#39;Europe, j&#39;ai goûté à une cuisine sans pareille et j&#39;ai aussi reçu un salaire en euros qui m&#39;a permis de rester en France pendant plusieurs années. J&#39;ai rencontré de nouvelles personnes de cultures différentes, y compris mon mari. J&#39;ai adopté une nouvelle vision de ma vie : donner la même chance aux étudiants de cet institut.",
+                "content": "J&#39;ai commencé ma carrière en 2013 en enseignant le français dans des universités publiques et privées au Mexique. Forte de mes connaissances en français, j&#39;ai décidé de postuler pour une bourse en tant qu&#39;assistante de langue étrangère espagnole en France. Plus tard, j&#39;ai étudié le Master Métiers de l&#39;enseignement et de la formation à Montpellier.<br/><br/> Cela m&#39;a permis d&#39;apporter au Mexique l&#39;expérience et la connaissance de la méthodologie du Conseil de l&#39;Europe pour l&#39;enseignement des langues étrangères. De même, donner des cours à tout type de public m&#39;a permis d&#39;améliorer mes compétences pour diriger l&#39;institut. "
+            }
+        }
+    },
+    "prices": {
+        "title": "Inscrivez-vous de n&#39;importe où dans le MONDE !",
+        "plans": [
+          {
+            "name": "Academic Courses",
+            "price": "$60 / month",
+            "languages": [
+              "es",
+              "en",
+              "fr",
+              "de"
+            ],
+            "students": "6 to 8 students",
+            "hours": "1.5h / week",
+            "teacher": "Live teacher",
+            "link": null
+          },
+          {
+            "name": "Conversation courses",
+            "price": "$60 / month",
+            "languages": [
+              "es",
+              "en",
+              "fr",
+              "de"
+            ],
+            "students": "5 to 7 students",
+            "hours": "6h / month",
+            "teacher": "Live teacher",
+            "link": null
+          },
+          {
+            "name": "Children (6 to 12) courses",
+            "price": "$60 / month",
+            "languages": [
+              "en",
+              "fr"
+            ],
+            "students": "6 to 8 students",
+            "hours": "1.5h / week",
+            "teacher": "Live teacher",
+            "link": null
+          }
+        ],
+        "footnote": "<b>Pour plus d&#39;informations et des doutes, contactez-nous via nos réseaux sociaux.</b><br/> Une fois que vous avez rempli le formulaire d&#39;inscription, nous vous enverrons les informations sur votre e-mail avec les liens pour effectuer vos paiements, les liens pour accéder à vos cours et votre matériel d&#39;étude.<br/> Si vous ne connaissez pas votre niveau dans la langue que vous souhaitez apprendre, nous vous enverrons un test de placement.<br/> Si vous avez des collègues ayant des intérêts communs, construisez votre groupe."
+    },
+    "quote": {
+        "content": "« Les gens ne s&#39;entendent pas parce qu&#39;ils se craignent ; ils se craignent parce qu&#39;ils ne se connaissent pas ; Ils ne se connaissent pas parce qu&#39;ils n&#39;ont pas communiqué.&quot;"
+    },
+    "slideshow": {
+        "items": [
+            "Devenez la personne bilingue que vous désirez tant",
+            "Étudier dans un autre pays pour être plus compétitif",
+            "Gagner un meilleur salaire chez vous ou à l&#39;étranger",
+            "Voyager sans problème",
+            "Apprendre une langue juste pour le plaisir ou pour rencontrer de nouvelles personnes",
+            "Faire partie d&#39;une organisation internationale",
+            "Enseigner à d&#39;autres étudiants"
+        ]
+    },
+    "team": {
+        "title": "Certains de nos professeurs",
+        "footnote": "Vous êtes titulaire d&#39;un baccalauréat, d&#39;une maîtrise ou d&#39;un doctorat en langues étrangères ou dans un domaine connexe? Avez-vous 4 ans ou plus d&#39;expérience dans l&#39;enseignement des langues?",
+        "apply": "Postuler",
+        "teachers": [
+          {
+            "name": "Cecilia Carvallo",
+            "image": "team_p4",
+            "studies": "Doctorado en Letras Modernas",
+            "story": "Profesora de español. Cecilia dio clases de español en un colegio antes de terminar su doctorado y comenzar a impartir clases de  lingüística en una universidad muy importante en México. Además ha impartido clases de español para extranjeros  vía remota. Todos sus alumnos han estado muy satisfechos con su trabajo y han llevado con ella la preparación para  obtener la certificación DELE. Cecilia nos cuenta que dar clases es su pasión y que enseñar la cultura y los  matices de la lengua española permite adquirir rápidamente mucho vocabulario y expresiones muy útiles entre los  hispanohablantes."
+          },
+          {
+            "name": "Paul Henri Eche",
+            "image": "team_p3",
+            "studies": "Master en Traducción español francés y PRO FLE",
+            "story": "Profesor de francés nativo e intérprete, lleva más de 20 años viviendo en México y dando clases.  Habla perfectamente español e inglés. Aprenderás la lengua francesa con su buen humor y dinamismo.  Te explicará el origen de muchas palabras y expresiones, es un apasionado de la literatura.  También es experto en historia y cultura. Ha viajado alrededor del mundo y le encanta aprender nuevos idiomas  como el japonés. Además, sus dibujos en el pizarrón virtual te sorprenderán."
+          },
+          {
+            "name": "Arturo Silva",
+            "image": "team_p2",
+            "studies": "Master en Enseñanza del inglés como lengua extranjera y TKT",
+            "story": "Profesor de inglés. Dedicado 100% a la enseñanza, comenzó su carrera en el 2012.  Durante sus clases utiliza técnicas para socializar en grupo ya que se ha adaptado a trabajar en línea.  Le encanta enseñar inglés con temas actuales como artículos y videos para discutir en grupo sobre la  vida de hoy en día. Le gusta poner canciones en sus clases para explicar estructuras gramaticales.  Además te explicará la cultura y las diferencias del estilo de vida inglés y americano ya que vivió  algunos años en Estados Unidos y en Inglaterra."
+          },
+          {
+            "name": "Emmanuel Morales",
+            "image": "team_p1",
+            "studies": "Estudios en enseñanza de idiomas e Ingeniería en Electrónica",
+            "story": "Profesor de inglés y  alemán con 18 años de experiencia.  Emanuel cuenta con certificaciones en ambos idiomas en nivel C1.  Vivió en Alemania varios años donde estudió para aprender Alemán.  Trabajó como asistente de traducción en la embajada de Alemania y ha impartido clases de inglés y alemán en  diferentes institutos y universidades. Es el profesor ideal para aprender idiomas desde nivel principiante  hasta avanzado en un ambiente relajado pero estudioso. Incluso para asesorarte si estás estudiando una ingeniería."
+          }
+      ]
+    },
+    "testimonials": {
+        "title": "ce qu&#39;ils disent de nous"
+    }
+}

@@ -2,7 +2,7 @@
 
 #team {
 
-  padding: 2rem 0;
+  padding: 0 0 6rem;
   background-color: $accent-light;
 
   p {
@@ -54,13 +54,6 @@
       
     }
     
-  }
-
-  .button {
-    background-color: lighten($accent-color, 3%);
-    &:hover {
-      background-color: darken($accent-color, 5%);
-    }
   }
 
   @media only screen and (max-width: 800px) {
