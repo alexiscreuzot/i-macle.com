@@ -1,6 +1,7 @@
 #footer {
 
-  padding: 2rem 0 4rem;
+  padding: 3rem 0 5rem;
+  background-color: darken($complement-color, 48%);
 
   .copyrights {
     text-align: center;
@@ -13,6 +14,7 @@
       font-size: 1.4rem;
       font-weight: bold;
       padding-bottom: 12px;
+      color: lighten($complement-color, 20%);
     }
 
     .copyrights {
@@ -20,7 +22,7 @@
       position: relative;
       p {
         font-size: 1rem;
-        color: #667;
+        color: rgba(255,255,255, 0.9);
         display: block;
         padding-top: 0;
       }
@@ -52,7 +54,11 @@
       }
 
       a {
-        color: #667;
+        color: rgba(255,255,255, 0.7);
+      }
+
+      a:hover {
+        color: rgba(255,255,255, 0.9);
       }
 
     }

@@ -5,9 +5,7 @@
 
   .question {
 
-    margin: 4px 0;
-    border-bottom: 1px solid $accent-light;
-
+    margin: 16px 0;
 
     .abstract {
       display: inline-block;
@@ -15,6 +13,8 @@
       padding: 0 1rem;
       cursor: pointer;
       transition: all 500ms;
+
+      background: $accent-light;
     }
 
     .name p {
@@ -40,8 +40,9 @@
     }
 
     .more {
+      background: $accent-light;
       border-radius: 4px;
-      margin: -2px 8px 0;
+      margin: -10px 0 0;
       background-repeat: none;
       background-origin: center;
       background-attachment: fixed;
