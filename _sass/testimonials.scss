@@ -25,8 +25,8 @@
     .text{
       padding: 1.5em .5rem 0 1.5rem;
       font-size: 0.9rem;
-      font-weight: 200;
-      color: #667;
+      font-weight: 500;
+      color: darken($accent-color, 20%);
     }
 
     .image {
