@@ -8,7 +8,7 @@
 
     {% for plan in site.translations[site.lang].prices.plans %}
     <a href="./course-{{ plan['id'] }}" >
-    <div class="columns">
+    <div class="columns scale-up show-once">
       <ul class="price">
         <li class="header">{{ plan["name"] }}</li>
         <li class="grey">{{ plan["price"] }}</li>
