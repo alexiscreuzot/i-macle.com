@@ -15,7 +15,7 @@
   },
   "header": {
     "baseline": "Creamos personas bilingües",
-    "register": "Inscribirse",
+    "register": "Comenzar",
     "items": [
       "Clases 100% en linea",
       "Grupos pequeños",
@@ -106,6 +106,7 @@
   },
   "prices": {
     "title": "¡Inscríbete desde cualquier parte del MUNDO!",
+    "more":"Mas información",
     "items": [
       "Usamos PESOS MEXICANOS (MXN) como referencia. Si deseas saber cuanto cuestan nuestros cursos en tu moneda local visita: https://www.xe.com <br/>",
       "¡Si vives en México aceptamos transferencias bancarias desde el banco de tu preferencia (Santander, HSBC, Bbva, etc.) a nuestro banco mexicano! <br/>",
@@ -114,6 +115,7 @@
     ],
     "plans": [
       {
+        "id" : "academic",
         "name": "Cursos Académicos",
         "price": "MXN 525 / mes",
         "languages": [
@@ -128,6 +130,7 @@
         "link": "https://forms.gle/o2do1nqECnVC5kt38"
       },
       {
+        "id" : "conversational",
         "name": "Cursos de Conversación",
         "price": "MXN 550 / mes",
         "languages": [
@@ -142,6 +145,7 @@
         "link": "https://forms.gle/ykbV1cZgSu6NJ3gq9"
       },
       {
+        "id" : "kids",
         "name": "Cursos para niños",
         "price": "MXN 525 / mes",
         "languages": [

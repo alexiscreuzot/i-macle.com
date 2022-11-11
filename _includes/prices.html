@@ -2,7 +2,7 @@
 <div id="prices" class="section">
   <div class="container">
 
-    <h2><i class="icofont-hat"></i>&nbsp;&nbsp;{% t prices.title %}</h2>
+    <h2><i class="icofont-globe"></i>&nbsp;&nbsp;{% t prices.title %}</h2>
     <br/>
     <div class="columns-wrapper">
 
@@ -17,14 +17,16 @@
           {% endfor %}
         </li>
         <li>{{ plan["students"] }}</li>
-        <li>{{ plan["hours"] }}</li>
         <li>{{ plan["teacher"] }}</li>
 
         {% if plan.link %}
         <li>
           <a id="academic" class="button" href="{{ plan['link'] }}" target="_blank">Me inscribo <i class="icofont-rounded-right"></i></a>
+          <br/>
         </li>
         {% endif %}
+
+        <li><a href="./course-{{ plan['id'] }}" style="font-size: 15px;">{% t prices.more %}</a></li>
       </ul>
     </div>
 

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+    {% include head.html %}
+
+<body>
+
+  {% include banner.html %}
+
+  {% if site.translations[site.lang].courses %}
+  {% assign course = site.translations[site.lang].courses.items[page.index] %}
+    <div id="courses" class="section">
+      <div class="container">
+
+        <br/><br/>
+
+        <h2><i class="icofont-group-students"></i>&nbsp;&nbsp;{{ course.title }}</h2>
+        
+        <div class="course">
+             {{ course.content }}
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
+
+    {% if site.translations[site.lang].prices %}
+    {% assign plan = site.translations[site.lang].prices.plans[page.index] %}
+    <div id="prices" class="section">
+      <div class="container">
+
+        <div class="columns" style="float:none;margin:auto">
+          <ul class="price">
+            <li class="header">{{ plan["name"] }}</li>
+            <li class="grey">{{ plan["price"] }}</li>
+            <li>
+              {% for lang in plan.languages %}
+              <i class="flag {{ lang }}"></i>
+              {% endfor %}
+            </li>
+            <li>{{ plan["students"] }}</li>
+            <li>{{ plan["teacher"] }}</li>
+
+            {% if plan.link %}
+            <li>
+              <a id="academic" class="button" href="{{ plan['link'] }}" target="_blank">Me inscribo <i class="icofont-rounded-right"></i></a>
+            </li>
+            {% endif %}
+          </ul>
+        </div>
+
+        <div style="clear:both;"></div>
+        <br/><br/>
+
+        <div class="centered">
+           <p>
+            <small>{% t prices.footnote %}</small>
+          </p>
+        </div>
+
+      </div>
+    </div>
+    {% endif %}
+
+
+    {% include footer.html %}
+
+    {% include messenger_plugin.html %}
+
+  </div>
+
+  <script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous" defer></script>
+  <script src="https://ackee-qsnz.onrender.com/tracker.js"></script>
+  <script src="{{ "/main.js" | prepend: site.baseurl_root }}" defer></script>
+  
+</body>
+</html>

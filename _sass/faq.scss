@@ -5,7 +5,7 @@
 
   .question {
 
-    margin: 16px 0;
+    margin: 24px 0;
 
     .abstract {
       display: inline-block;
@@ -15,6 +15,7 @@
       transition: all 500ms;
 
       background: $accent-light;
+      border-radius: 12px;
     }
 
     .name p {
@@ -26,8 +27,8 @@
 
     .more-icon {
       font-family: sans-serif;
-      margin:7px 0 0 0;
-      font-size: 28px;
+      margin:0;
+      font-size: 34px;
       font-weight: 100;
       float: right;
       text-align: right;
@@ -41,8 +42,8 @@
 
     .more {
       background: $accent-light;
-      border-radius: 4px;
-      margin: -10px 0 0;
+      border-radius: 12px;
+      margin: -16px 0 0;
       background-repeat: none;
       background-origin: center;
       background-attachment: fixed;
@@ -50,6 +51,7 @@
       max-height: 0;
       overflow-y: hidden;
       transition: all 500ms cubic-bezier(0.540, 0.010, 0.020, 0.995); /* custom */
+
 
       &.show {
         max-height: 9999px;
@@ -59,7 +61,6 @@
       span {
         font-family: $subtitle-font;
         padding: 1rem 0 0.2rem;
-        color: #555;
         display: block;
         font-size: 1.4rem;
         font-weight: bold;
@@ -68,6 +69,7 @@
       p {
         padding: 0 2rem 1.5rem;
         font-size: 1.1rem;
+        color: darken($accent-color, 20%);
       }
 
       ul {

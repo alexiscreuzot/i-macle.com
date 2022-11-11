@@ -5,8 +5,8 @@
       <div class="column">
         <h5 class="title">{% t courses.title %}</h5>
         <ul>
-          {% for item in site.translations[site.lang].courses.items %}
-          <li><a href="./index#courses">{{ item["title"] }}</a></li>
+          {% for item in site.translations[site.lang].prices.plans %}
+          <li><a href="./course-{{ item['id'] }}">{{ item["name"] }}</a></li>
           {% endfor %}
           <li><a href="./index#prices">{% t prices.title %}</a></li>
         </ul>
