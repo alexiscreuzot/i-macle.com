@@ -98,6 +98,11 @@
       flex-direction: column;
       .column {
         display: block;
+
+        &.left {
+          padding-bottom: 1rem;
+        }
+
         &.left, &.right {
          width: 100%;
 

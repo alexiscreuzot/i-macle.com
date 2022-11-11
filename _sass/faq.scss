@@ -23,6 +23,7 @@
       float: left;
       font-weight: 600;
       color: $accent-color;
+      padding-right: 30px;
     }
 
     .more-icon {
@@ -30,7 +31,8 @@
       margin:0;
       font-size: 34px;
       font-weight: 100;
-      float: right;
+      position: absolute;
+      right:40px;
       text-align: right;
       transition: all 300ms;
       transform: rotate(0deg);
@@ -67,7 +69,7 @@
       }
 
       p {
-        padding: 0 2rem 1.5rem;
+        padding: 0 1.5rem 1.5rem;
         font-size: 1.1rem;
         color: darken($accent-color, 20%);
       }
