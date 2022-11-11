@@ -11,11 +11,13 @@
     "read_more": "Leer más",
     "read_less": "Leer menos",
     "about": "A Propósito",
-    "social": "Redes sociales"
+    "social": "Redes sociales",
+    "languages": ["es", "en", "fr", "de"],
+    "start": "Comenzar"
   },
   "header": {
     "baseline": "Creamos personas bilingües",
-    "register": "Comenzar",
+    "cta": "Ver cursos",
     "items": [
       "Clases 100% en linea",
       "Grupos pequeños",

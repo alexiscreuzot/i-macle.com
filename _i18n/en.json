@@ -11,11 +11,13 @@
     "read_more": "Read more",
     "read_less": "Read less",
     "about": "About",
-    "social": "Social"
+    "social": "Social",
+    "languages": ["es", "en", "fr", "de"],
+    "start": "Start"
   },
    "header": {
     "baseline": "We Create Multi-lingual People",
-    "register": "Start learning",
+    "cta": "See courses",
     "items": [
       "Classes 100% Online",
       "Small groups",

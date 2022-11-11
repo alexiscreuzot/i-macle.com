@@ -7,6 +7,7 @@
     <div class="columns-wrapper">
 
     {% for plan in site.translations[site.lang].prices.plans %}
+    <a href="./course-{{ plan['id'] }}" >
     <div class="columns">
       <ul class="price">
         <li class="header">{{ plan["name"] }}</li>
@@ -21,14 +22,14 @@
 
         {% if plan.link %}
         <li>
-          <a id="academic" class="button" href="{{ plan['link'] }}" target="_blank">Me inscribo <i class="icofont-rounded-right"></i></a>
+          <a id="academic" class="button" href="{{ plan['link'] }}" target="_blank">{% t global.start %}<i class="icofont-rounded-right"></i></a>
           <br/>
         </li>
         {% endif %}
 
-        <li><a href="./course-{{ plan['id'] }}" style="font-size: 15px;">{% t prices.more %}</a></li>
       </ul>
     </div>
+  </a>
 
     {% endfor %}
 

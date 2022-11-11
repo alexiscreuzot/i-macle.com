@@ -11,7 +11,8 @@
     "read_more": "Lire plus",
     "read_less": "Lire moins",
     "about": "À Propos",
-    "social": "Réseaux Sociaux"
+    "social": "Réseaux Sociaux",
+    "languages": ["es", "en", "fr", "de"]
   },
    "header": {
     "baseline": "Bientôt disponible",

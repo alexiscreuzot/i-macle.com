@@ -69,8 +69,18 @@
   & .button {
     margin: auto;
     padding: 12px 20px;
-    margin-bottom: 50px;
   }
+
+  .flags {
+    display: block;
+    padding: 14px;
+    .flag {
+      width: 22px;
+      height: 22px;
+      margin-left: 6px;
+    }
+  }
+
 
   @media (max-width: 1000px) {
 

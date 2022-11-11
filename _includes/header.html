@@ -1,7 +1,7 @@
 <div id="header">
   <div class="container">
     <div class="content">
-      
+
       <div class="column left">
 
         <h1>{% t header.baseline %} </h1>
@@ -12,15 +12,22 @@
           {% endfor %}
         </ul>
         <div style="clear:both;"></div>
-         {% if site.translations[site.lang].header.register %}
-        <a id="subscribe" class="button" href="#prices">{% t header.register %} <i class="icofont-rounded-right"></i></a>
-         {% endif %}
+        {% if site.translations[site.lang].header.cta %}
+        <div>
+          <a id="subscribe" class="button" href="#prices">{% t header.cta %}&nbsp;&nbsp;<i class="icofont-rocket"></i></a>
+        </div>
+        {% endif %}
+        <div class="flags">
+          {% for lang in site.translations[site.lang].global.languages %}
+          <i class="flag {{ lang }}"></i>
+          {% endfor %}
+        </div>
       </div>
       
       <div class="column right">
-         <div class="image"></div>
-      </div>
-      
-    </div>
-  </div>
+       <div class="image"></div>
+     </div>
+
+   </div>
+ </div>
 </div>
