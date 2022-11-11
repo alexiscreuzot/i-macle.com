@@ -1,7 +1,7 @@
 #mission {
 
-  padding: 2rem 0;
-  background-color: $accent-light;
+  padding: 2rem 0 6rem;
+  
   p {
     font-size: 1.1rem;
   }
@@ -30,13 +30,14 @@
 
   .card {
 
+
     margin: 20px 0;
     padding: 0 10px;
 
     .content {
       flex-flow: row;
       display: flex;
-      background: white;
+      background-color: $accent-light;
       border-radius: 10px;
 
       .description {
@@ -51,12 +52,13 @@
 
         color:#667;
         .catch {
-          background: $accent-color;  /* fallback for old browsers */
+          background: $complement-color;  /* fallback for old browsers */
           background: -webkit-linear-gradient(to bottom right, $accent-color, $complement-color);  /* Chrome 10-25, Safari 5.1-6 */
           background: linear-gradient(to bottom right, $accent-color, $complement-color);
           padding: 12px;
           border-radius: 10px;
           color: RGBA(255,255,255,0.9);
+          font-weight: 600;
         }
 
         p {

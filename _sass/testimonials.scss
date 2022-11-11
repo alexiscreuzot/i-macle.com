@@ -1,7 +1,7 @@
 
 #testimonials {
 
-  padding: 2rem 0 6rem;
+  padding: 2rem 0 2rem;
   clear: both;
 
 
@@ -36,7 +36,7 @@
       border-radius: 50%;
 
       position: absolute;
-      top: -50%;
+      top: -38%;
       left: 50%;
       transform: translateX(-50%);
       display:flex;
@@ -58,8 +58,8 @@
 
     .footer{
       background: $accent-color;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to bottom right, $accent-color, $complement-color);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to bottom right, $accent-color, $complement-color);
+      background: -webkit-linear-gradient(to bottom right, $accent-color, $complement-color);  /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to bottom right, $accent-color, $complement-color);
       border-radius: 0 0 10px 10px;
       position:relative;
       text-align: center;
@@ -81,7 +81,13 @@
       position: relative;
       font-size:1.2rem;
       font-weight: 600;
-      padding: 50px 0 16px;
+      padding: 45px 0 0;
+    }
+
+    .review {
+      text-align:center; 
+      padding:0 0 20px;
+      font-size: 1.2em;
     }
 
   }

@@ -28,6 +28,8 @@ h2 {
   line-height: 1.5;
   padding: 2rem 0 1rem;
   font-weight: 600;
+
+  color: #111; 
 }
 
 h3 {
@@ -104,12 +106,12 @@ a {
 
   background: $complement-color;  /* fallback for old browsers */
       
-  transition: 0.3s;
+  transition: all 0.3s;
   font-family: sans-serif;
   color: white;
   border-radius: 360px;
   display: inline-block;
-  padding: 8px 24px 7px;
+  padding: 8px 20px 7px;
   
   text-decoration: none;
   text-transform:uppercase;
@@ -121,6 +123,13 @@ a {
   &:hover {
     color: white;
     background: $accent-color; 
+    i {
+      animation: test 0.3s forwards;
+    }
+  }
+
+  @keyframes test {
+      100% {margin-left: 4px;}
   }
 }
 
