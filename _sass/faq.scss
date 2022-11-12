@@ -17,7 +17,15 @@
       background: $accent-light;
       border-radius: 12px;
       position:relative
+      
     }
+
+      .abstract:hover {
+        .name {
+          animation: slide_right  0.3s forwards;
+        }
+        
+      }
 
     .name p {
       font-size: 18px;

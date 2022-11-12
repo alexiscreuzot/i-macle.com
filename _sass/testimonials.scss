@@ -10,6 +10,14 @@
     width: 25%;
     padding: 10px;
 
+    .review {
+      color: #FFD53D;
+      i {
+        margin-right: -5px;
+        font-size: 1em;
+      }
+    }
+
 
     .content {
       transition: 500ms all;

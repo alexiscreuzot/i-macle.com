@@ -2678,6 +2678,11 @@ url("./fonts/icofont.woff") format("woff");
   content: "\e808";
 }
 
+.icofont-star:before
+{
+  content: "\f000";
+}
+
 .icofont-xs
 {
   font-size: .5em;

@@ -124,11 +124,11 @@ a {
     color: white;
     background: $accent-color; 
     i {
-      animation: anim 0.3s forwards;
+      animation: slide_right  0.3s forwards;
     }
   }
 
-  @keyframes anim {
+  @keyframes slide_right {
       100% {margin-left: 6px;}
   }
 }

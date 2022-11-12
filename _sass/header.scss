@@ -50,6 +50,10 @@
         }
       }
 
+      span {
+        color:red;
+      }
+
       li::before {
         content: "✓";
         color: $green-color;

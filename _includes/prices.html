@@ -11,7 +11,10 @@
     <div class="columns scale-up show-once">
       <ul class="price">
         <li class="header">{{ plan["name"] }}</li>
-        <li class="grey">{{ plan["price"] }}</li>
+        <li class="grey">
+          <small>{% t prices.starting_at %}</small>
+          {{ plan["price"] }}
+        </li>
         <li>
           {% for lang in plan.languages %}
           <i class="flag {{ lang }}"></i>

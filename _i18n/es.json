@@ -46,7 +46,7 @@
       {
         
         "title": "Cursos de conversación",
-        "content": "<p> <span>Fortalece tus conocimientos</span> Sesiones de conversación para adolescentes y adultos con un nivel principiante (A2), intermedio (B1) o avanzado (B2) que deseen expresar su opinión, debatir  y fomentar su cultura general siguiendo temas recientes sobre el mundo entero. Elige entre: inglés, francés, español y alemán. <br/><br/> • 5 a 7 alumnos.<br/>  • 100% acompañado de un profesor.<br/>  • Te confrontarás a temas de acuerdo a tu nivel (tecnología, arte, mundo laboral, educación, ciencias, entretenimiento, historia, entre otros).<br/>   • Ampliarás tu vocabulario, perfeccionarás tu pronunciación y desarrollarás mayor fluidez. <br/>  • En cada clase analizarás un artículo, video o podcast y responderás a algunas preguntas de comprensión oral o comprensión escrita para posteriormente comentar y debatir el tema con tus compañeros. <br/>  • Tendrás un test para evaluar tu progreso en expresión oral continua y expresión oral en interacción. <br/>  • Podrás aprobar una certificación más fácilmente acelerando tu nivel. <br/>  </p>"
+        "content": "<p>Fortalece tus conocimientos con las sesiones de conversación para adolescentes y adultos con un nivel principiante (A2), intermedio (B1) o avanzado (B2) que deseen expresar su opinión, debatir  y fomentar su cultura general siguiendo temas recientes sobre el mundo entero. Elige entre: inglés, francés, español y alemán. <br/><br/> • 5 a 7 alumnos.<br/>  • 100% acompañado de un profesor.<br/>  • Te confrontarás a temas de acuerdo a tu nivel (tecnología, arte, mundo laboral, educación, ciencias, entretenimiento, historia, entre otros).<br/>   • Ampliarás tu vocabulario, perfeccionarás tu pronunciación y desarrollarás mayor fluidez. <br/>  • En cada clase analizarás un artículo, video o podcast y responderás a algunas preguntas de comprensión oral o comprensión escrita para posteriormente comentar y debatir el tema con tus compañeros. <br/>  • Tendrás un test para evaluar tu progreso en expresión oral continua y expresión oral en interacción. <br/>  • Podrás aprobar una certificación más fácilmente acelerando tu nivel. <br/>  </p>"
       },
       {
         "title": "Cursos para niños 6 a 12 años",
@@ -76,7 +76,7 @@
       },
       {
         "q": "¿Cómo son las clases?",
-        "a": "En clase de inglés, francés, español o alemán usamos documentos como videos, textos, audios de conversaciones, juegos interactivos, flashcards y actividades especiales para la expresión oral continua y en interacción (conversación).<br/><br/>\nLos profesores siguen las secuencias del libro para realizar una evaluación. Cada secuencia (unidad didáctica) puede durar de 4 a 6 clases, dependiendo del nivel y del idioma. Este es un ejemplo de una secuencia en inglés nivel principiante:\n<span>DESCUBRIMIENTO</span> \n• SNAPSHOT (listen and practice)<br/> • CONVERSATION (listen and practice) <br/> • GRAMMAR FOCUS 1 ← Pair work/ Group work <br/>\n\n<span>PRÁCTICA + PRODUCCIÓN</span> \n• LISTENING<br/> • SPEAKING (discuss) <br/>\n\n<span>SISTEMATIZACIÓN</span> \n• CONVERSATION - listen and practice <br/> • GRAMMAR FOCUS 2  ← Pair work/ Group work.<br/> • PRONUNCIATION - SPEAKING<br/>\n\n<span>PRÁCTICA + COMPRENSIÓN ESCRITA</span> \n• LISTENING <br/> • WORD POWER (vocabulario) <br/> • Recapitular, resolver dudas <br/> • READING - SPEAKING (discuss)<br/> "
+        "a": "En clase de inglés, francés, español o alemán usamos documentos como videos, textos, audios de conversaciones, juegos interactivos, flashcards y actividades especiales para la expresión oral continua y en interacción (conversación).<br/><br/>\nLos profesores siguen las secuencias del libro para realizar una evaluación. Cada secuencia (unidad didáctica) puede durar de 4 a 6 clases, dependiendo del nivel y del idioma. "
       },
       {
         "q": "¿Qué material usan para dar las clases?",
@@ -109,19 +109,13 @@
   "prices": {
     "title": "¡Inscríbete desde cualquier parte del MUNDO!",
     "more":"Mas información",
-    "items": [
-      "Usamos PESOS MEXICANOS (MXN) como referencia. Si deseas saber cuanto cuestan nuestros cursos en tu moneda local visita: https://www.xe.com <br/>",
-      "¡Si vives en México aceptamos transferencias bancarias desde el banco de tu preferencia (Santander, HSBC, Bbva, etc.) a nuestro banco mexicano! <br/>",
-      "Para Estados Unidos, Canadá, América Latina y Europa aceptamos pagos a través de Paypal, Transferwise y Revolut.<br/>",
-      "Si deseas obtener el 20% de descuento haciendo pagos trimestrales solo tienes que seleccionarlo al momento de llenar el formulario de inscripción.<br/>"
-    ],
+    "starting_at":"Desde",
     "plans": [
       {
         "id" : "academic",
         "name": "Cursos Académicos",
         "price": "MXN 525 / mes",
         "languages": [
-          "es",
           "en",
           "fr",
           "de"
@@ -136,7 +130,6 @@
         "name": "Cursos de Conversación",
         "price": "MXN 550 / mes",
         "languages": [
-          "es",
           "en",
           "fr",
           "de"

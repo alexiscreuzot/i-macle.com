@@ -106,6 +106,7 @@
   "prices": {
     "title": "Plans",
     "more":"More information",
+    "starting_at":"Starting at",
     "plans": [
       {
         "id" : "academic",
