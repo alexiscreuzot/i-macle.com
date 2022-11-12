@@ -35,21 +35,4 @@ ScrollReveal().reveal(".fade-in", {
 
 ScrollReveal().reveal(".scale-up", {
   duration: 2000,
-  scale: 0.85 });
-
-
-ScrollReveal().reveal(".flip", {
-  delay: 500,
-  duration: 1000,
-  rotate: {
-    x: 20,
-    z: 20 } });
-
-ScrollReveal().reveal(".slide-up", {
-  duration: 1000,
-  origin: "bottom",
-  distance: "100px",
-  easing: "cubic-bezier(.37,.01,.74,1)",
-  opacity: 0.3,
-  scale: 0.5 });
-//# sourceURL=pen.js
+  scale: 0.9 });
