@@ -12,7 +12,6 @@
       width: 100%;
       padding: 0 1rem;
       cursor: pointer;
-      transition: all 500ms;
 
       background: $accent-light;
       border-radius: 12px;
@@ -61,7 +60,7 @@
       font-weight: 200;
       max-height: 0;
       overflow-y: hidden;
-      transition: all 500ms cubic-bezier(0.540, 0.010, 0.020, 0.995); /* custom */
+      transition: all 800ms cubic-bezier(0.540, 0.010, 0.020, 0.995); /* custom */
 
 
       &.show {
