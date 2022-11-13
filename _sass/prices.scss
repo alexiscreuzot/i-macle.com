@@ -1,6 +1,4 @@
-
 #prices {
-
   background: $accent-light;
 
   .columns-wrapper {
@@ -8,92 +6,158 @@
     margin: 0 auto;
   }
 
-    /* Create three columns of equal width */
-    .columns {
-      float: left;
-      width: 300px;
-      padding: 12px;
+  /* Create three columns of equal width */
+  .columns {
+    float: left;
+    width: 300px;
+    padding: 12px;
+  }
+
+  ul li.image {
+    border: none;
+    &.academic {
+      background: url("assets/images/academic.jpg") no-repeat;
+      background-size: cover;
+      background-position: center top;
+    }
+    &.conversational {
+      background: url("assets/images/conversational.jpg") no-repeat;
+      background-size: cover;
+      background-position: center top;
+    }
+    &.kids {
+      background: url("assets/images/kids.jpg") no-repeat;
+      background-size: cover;
+      background-position: center center;
     }
 
-    ul li:first-child {    
-      border-top-right-radius: 10px;
-      border-top-left-radius: 10px;
-    }
-
-    ul li:last-child { 
-      border-bottom-left-radius: 10px;
-      border-bottom-right-radius: 10px;
-    }
-
-  /* Style the list */
-  .price {
-    background-color: $body-color;
-    list-style-type: none;
-    margin: 0;
+    height: 180px;
+    position: relative;
     padding: 0;
-    transition: 0.3s;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,20,.15);
+  }
 
-    &:hover {
-      border-radius: 10px;
-      box-shadow: 0 6px 15px rgba(0,0,20,.3);
-    }
+  ul li div.price {
+    display: block;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(10px);
+    position: absolute;
+    bottom: 0;
+    padding: 4px 0;
+    font-size: 20px;
+    color: #222;
+    font-weight: bold;
 
     small {
       display: block;
       margin-bottom: -5px;
       font-size: 10px;
-      color:rgba(0,0,0,0.2); 
+      color: rgba(0, 0, 0, 0.4);
       text-transform: uppercase;
     }
   }
 
-  /* Pricing header */
-  .price .header {
-    background: $accent-color;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to bottom right, $accent-color, $complement-color);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to bottom right, $accent-color, $complement-color);
-    color: white;
+  ul li:first-child {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+
+  ul li:last-child {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+
+  /* Style the list */
+  .plan {
+    list-style-type: none;
     margin: 0;
-    font-weight: bold;
+
+    padding: 0;
+    transition: 0.3s;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 20, 0.15);
+
+    .more {
+      -webkit-transition: all 0.8s ease-in-out;
+      -moz-transition: all 0.8s ease-in-out;
+      transition: all 0.8s ease-in-out;
+
+      max-height: 0px;
+      overflow: hidden;
+      color: $complement-color;
+      font-size: 12px;
+      text-transform: uppercase;
+    }
+
+    &:hover {
+      border-radius: 10px;
+      box-shadow: 0 6px 15px rgba(0, 0, 20, 0.3);
+
+      .more {
+        max-height: 500px;
+      }
+    }
   }
 
   /* List items */
-  .price li {
+  .plan li {
+    &.header {
+      background: $accent-color; /* fallback for old browsers */
+      background: -webkit-linear-gradient(
+        to bottom right,
+        $accent-color,
+        $complement-color
+      ); /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(
+        to bottom right,
+        $accent-color,
+        $complement-color
+      );
+      color: white;
+      margin: 0;
+      font-weight: bold;
+      border-bottom: 0;
+    }
+
     font-size: 18px;
     border-left: 1px solid $accent-light;
     border-right: 1px solid $accent-light;
     border-bottom: 1px solid $accent-light;
-    padding: 14px;
+    padding: 10px;
     text-align: center;
     margin: 0;
+    background: $body-color;
 
     &.header {
       font-size: 20px;
       border-left: 0px solid red;
       border-right: 0px solid red;
     }
-  }
 
-  /* Grey list item */
-  .price .grey {
-    background-color: $accent-light;
-    font-size: 20px;
-    color: #111;
-    font-weight: bold;
+    .flag {
+      margin-bottom: -5px;
+    }
+
+    &.more {
+      height: 0px;
+
+      a {
+        opacity: 0;
+        font-size: 12px;
+        text-transform: uppercase;
+        font-weight: bold;
+      }
+    }
   }
 
   /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
   @media only screen and (max-width: 800px) {
-
     .columns-wrapper {
       width: 100%;
       .columns {
         width: 100%;
       }
     }
-    
   }
 }

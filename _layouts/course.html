@@ -30,11 +30,13 @@
       <div class="container">
 
         <div class="columns show-once scale-up" style="float:none;margin:auto">
-          <ul class="price">
+          <ul class="plan">
             <li class="header">{{ plan["name"] }}</li>
-            <li class="grey">
-            <small>{% t prices.starting_at %}</small>
-            {{ plan["price"] }}
+            <li class="image {{ plan['id'] }}">
+              <div class="price">
+                <small>{% t prices.starting_at %}</small>
+                {{ plan["price"] }}
+              </div>
             </li>
             <li>
               {% for lang in plan.languages %}

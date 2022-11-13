@@ -9,11 +9,14 @@
     {% for plan in site.translations[site.lang].prices.plans %}
     <a href="./course-{{ plan['id'] }}" >
     <div class="columns scale-up show-once">
-      <ul class="price">
+      <ul class="plan">
         <li class="header">{{ plan["name"] }}</li>
-        <li class="grey">
-          <small>{% t prices.starting_at %}</small>
-          {{ plan["price"] }}
+        <li class="image {{ plan['id'] }}">
+          <div class="price">
+            <small>{% t prices.starting_at %}</small>
+            {{ plan["price"] }}
+            <div class="more">{% t prices.more %}</div>
+          </div>
         </li>
         <li>
           {% for lang in plan.languages %}
@@ -21,7 +24,6 @@
           {% endfor %}
         </li>
         <li>{{ plan["students"] }}</li>
-        <li>{{ plan["teacher"] }}</li>
 
         {% if plan.link %}
         <li>

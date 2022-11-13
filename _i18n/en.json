@@ -111,7 +111,7 @@
       {
         "id" : "academic",
         "name": "Academic Courses",
-        "price": "$60 / month",
+        "price": "$59 / month",
         "languages": [
           "es",
           "en",
@@ -126,7 +126,7 @@
       {
         "id" : "conversational",
         "name": "Conversation courses",
-        "price": "$60 / month",
+        "price": "$65 / month",
         "languages": [
           "es",
           "en",
@@ -141,7 +141,7 @@
       {
         "id" : "kids",
         "name": "Children (6 to 12) courses",
-        "price": "$60 / month",
+        "price": "$59 / month",
         "languages": [
           "en",
           "fr"
