@@ -9,16 +9,19 @@
     <br/>
 
     {% for item in site.translations[site.lang].faq.items %}
-     
     <div class="question fade-in show-once">
+      {%- if forloop.index == 1 -%}
+      <div class="abstract show">
+      {%- else -%}
       <div class="abstract">
-        <div class="name">
-          <p>{{ item["q"] }}</p>
+      {%- endif -%}
+        <div class="name"> 
+          <p>{{ item["q"] }}</p> 
+        </div>   
+        <div class="more-icon">+</div>     
+        <div class="more">
+          <p>{{ item["a"] }}</p>
         </div>
-        <div class="more-icon">+</div>
-      </div>
-      <div class="more">
-        <p>{{ item["a"] }}</p>
       </div>
     </div>
 

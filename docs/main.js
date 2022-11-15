@@ -15,9 +15,6 @@
 
     $(".abstract").click(function() {
         $(this).toggleClass("show");
-        $(this).children(".more-icon").toggleClass("open");
-        var moreDiv  = $(this).next();
-        moreDiv.toggleClass("show");
     });
 
 })();

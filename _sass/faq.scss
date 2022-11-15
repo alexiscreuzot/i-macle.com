@@ -1,11 +1,14 @@
 
 #faq {
 
-  transition: all 500ms;
-
   .question {
 
-    margin: 24px 0;
+    margin: 16px 0;
+    padding: 0 5rem;
+
+    @media (max-width: 800px) {
+      padding: 0;
+    }
 
     .abstract {
       display: inline-block;
@@ -15,82 +18,81 @@
 
       background: $accent-light;
       border-radius: 12px;
-      position:relative
-      
-    }
+      position:relative;
 
-      .abstract:hover {
+      .name {
+         display: inline-block;
+         p {
+          font-size: 18px;
+          font-weight: 600;
+          color: $accent-color;
+          padding-right: 30px;
+          padding-left: 10px;
+         }
+      }
+
+      .more-icon {
+        display: inline-block;
+        transition: all 300ms;
+        font-family: sans-serif;
+        margin:0;
+        font-size: 34px;
+        font-weight: 100;
+        position: absolute;
+        right:20px;
+        text-align: right;
+        transform: rotate(0deg) scale(1);
+        color: $accent-color;
+      }
+
+      &:hover {
         .name {
           animation: slide_right  0.3s forwards;
         }
-        
       }
-
-    .name p {
-      font-size: 18px;
-      float: left;
-      font-weight: 600;
-      color: $accent-color;
-      padding-right: 30px;
-    }
-
-    .more-icon {
-      font-family: sans-serif;
-      margin:0;
-      font-size: 34px;
-      font-weight: 100;
-      position: absolute;
-      right:20px;
-      text-align: right;
-      transition: all 300ms;
-      transform: rotate(0deg);
-      color: $accent-color;
-      &.open {
-        transform: rotate(45deg);
-      }
-    }
-
-    .more {
-      background: $accent-light;
-      border-radius: 12px;
-      margin: -16px 0 0;
-      background-repeat: none;
-      background-origin: center;
-      background-attachment: fixed;
-      font-weight: 200;
-      max-height: 0;
-      overflow-y: hidden;
-      transition: all 800ms cubic-bezier(0.540, 0.010, 0.020, 0.995); /* custom */
-
 
       &.show {
-        max-height: 9999px;
-        display: block;
+        .more-icon {
+          transform: rotate(45deg) scale(1.1);
+        }
+        .more {
+          max-height: 9999px;
+        }
       }
 
-      span {
-        font-family: $subtitle-font;
-        padding: 1rem 0 0.2rem;
-        display: block;
-        font-size: 1.4rem;
-        font-weight: bold;
-      }
+      .more {
+        margin: 0;
+        font-weight: 200;
+        max-height: 0px;
+        overflow-y: hidden;
+        transition: all 800ms cubic-bezier(0.540, 0.010, 0.020, 0.995); /* custom */
 
-      p {
-        padding: 0 1.5rem 1.5rem;
-        font-size: 1.1rem;
-        color: darken($accent-color, 20%);
-      }
+        span {
+          font-family: $subtitle-font;
+          padding: 1rem 0 0.2rem;
+          display: block;
+          font-size: 1.4rem;
+          font-weight: bold;
+        }
 
-      ul {
-        margin-top: 0; 
-        padding-top: 0;
-      }
+        p {
+          margin: 0;
+          padding: 0 1rem 2rem;
+          font-size: 1rem;
+          color: darken($accent-color, 20%);
+        }
 
-      li {
-        font-size: 1.1rem;
-      }
+        ul {
+          margin-top: 0; 
+          padding-top: 0;
+        }
 
+        li {
+          font-size: 1.1rem;
+        }
+
+      }
     }
+
   }
 }
