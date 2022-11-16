@@ -6,20 +6,21 @@
         <h4 class="title">{% t courses.title %}</h4>
         <ul>
           {% for item in site.translations[site.lang].prices.plans %}
-          <li><a href="./course-{{ item['id'] }}">{{ item["name"] }}</a></li>
+          <li><a href="{{ site.baseurl }}/course-{{ item['id'] }}">{{ item["name"] }}</a></li>
           {% endfor %}
-          <li><a href="./index#prices">{% t prices.title %}</a></li>
+          <li><a href="{{ site.baseurl }}/index#prices">{% t prices.title %}</a></li>
         </ul>
       </div>
       {% endif %}
       {% if site.translations[site.lang].benefits %}
       <div class="column">
         <h4 class="title">{% t global.about %}</h4>
+        
         <ul>
-          <li><a href="./index#benefits">{% t benefits.title %}</a></li>
-          <li><a href="./index#testimonials">{% t testimonials.title %}</a></li>
-          <li><a href="./mission">{% t mission.title %}</a></li>
-          <li><a href="./team">{% t team.title %}</a></li>
+          <li><a href="{{ site.baseurl }}/index#benefits">{% t benefits.title %}</a></li>
+          <li><a href="{{ site.baseurl }}/index#testimonials">{% t testimonials.title %}</a></li>
+          <li><a href="{{ site.baseurl }}/mission">{% t mission.title %}</a></li>
+          <li><a href="{{ site.baseurl }}/team">{% t team.title %}</a></li>
         </ul>
       </div>
       {% endif %}

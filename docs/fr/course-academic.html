@@ -106,14 +106,14 @@
 <div id="fb-customer-chat" class="fb-customerchat">
 </div>
 
-<script>
+<script defer>
   var chatbox = document.getElementById('fb-customer-chat');
   chatbox.setAttribute("page_id", "110771488167013");
   chatbox.setAttribute("attribution", "biz_inbox");
 </script>
 
 <!-- Your SDK code -->
-<script>
+<script defer>
   window.fbAsyncInit = function() {
     FB.init({
       xfbml            : true,
@@ -132,11 +132,8 @@
 
   </div>
 
-    <script
-  src="https://code.jquery.com/jquery-2.2.4.min.js"
-  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
-  crossorigin="anonymous"></script>
-  <script src='https://unpkg.com/scrollreveal'></script>
+   <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/scrollreveal@4.0.9/dist/scrollreveal.min.js"></script>
   <script src="/main.js" defer></script>
   
 </body>
