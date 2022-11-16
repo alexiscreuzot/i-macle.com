@@ -7,33 +7,32 @@
     <div class="columns-wrapper">
 
     {% for plan in site.translations[site.lang].prices.plans %}
-    <a href="./course-{{ plan['id'] }}" >
+    <a href="{{ site.baseurl }}/course-{{ plan['id'] }}" >
     <div class="columns scale-up show-once">
-      <ul class="plan">
-        <li class="header">{{ plan["name"] }}</li>
-        <li class="image {{ plan['id'] }}">
+      <div class="plan">
+        <div class="row header">{{ plan["name"] }}</div>
+        <div class="row image {{ plan['id'] }}">
           <div class="price">
             <small>{% t prices.starting_at %}</small>
             {{ plan["price"] }}
             <div class="more">{% t prices.more %}</div>
           </div>
-        </li>
-        <li>
+        </div>
+        <div class="row">
           {% for lang in plan.languages %}
           <i class="flag {{ lang }}"></i>
           {% endfor %}
-        </li>
-        <li>{{ plan["students"] }}</li>
-
+        </div>
+        <div class="row">{{ plan["students"] }}</div>
         {% if plan.link %}
-        <li>
+        <div class="row">
           <a class="button" href="{{ plan['link'] }}" target="_blank">{% t global.start %}<i class="icofont-rounded-right"></i></a>
           <br/>
-        </li>
+        </div>
         {% endif %}
-      </ul>
+      </div>
     </div>
-  </a>
+    </a>
 
     {% endfor %}
 

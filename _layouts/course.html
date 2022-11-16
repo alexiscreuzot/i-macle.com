@@ -30,28 +30,28 @@
       <div class="container">
 
         <div class="columns show-once scale-up" style="float:none;margin:auto">
-          <ul class="plan">
-            <li class="header">{{ plan["name"] }}</li>
-            <li class="image {{ plan['id'] }}">
+          <div class="plan">
+            <div class="row header">{{ plan["name"] }}</div>
+            <div class="row image {{ plan['id'] }}">
               <div class="price">
                 <small>{% t prices.starting_at %}</small>
                 {{ plan["price"] }}
               </div>
-            </li>
-            <li>
+            </div>
+            <div class="row">
               {% for lang in plan.languages %}
               <i class="flag {{ lang }}"></i>
               {% endfor %}
-            </li>
-            <li>{{ plan["students"] }}</li>
-            <li>{{ plan["teacher"] }}</li>
+            </div>
+            <div class="row">{{ plan["students"] }}</div>
+            <div class="row">{{ plan["teacher"] }}</div>
 
             {% if plan.link %}
-            <li>
+            <div class="row">
               <a id="academic" class="button" href="{{ plan['link'] }}" target="_blank">{% t global.start %}<i class="icofont-rounded-right"></i></a>
-            </li>
+            </div>
             {% endif %}
-          </ul>
+          </div>
         </div>
 
         <div style="clear:both;"></div>
