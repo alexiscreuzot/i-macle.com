@@ -4,7 +4,7 @@
     "title": "Imacle, Language School online",
     "description": "Online classes for adolescents and adults taught by certified teachers.  More than 10 years of experience.  Dynamic groups of 5 to 8 students.  Teaching method according to the common European framework.  Learn to communicate effectively to develop in real life.  Many schedules available to choose.  Accessible costs.",
     "keywords": "online courses, online courses, foreign languages, language school",
-    "spanish": "Spanish",
+    "bish": "bish",
     "english": "English",
     "french": "Frances",
     "subtitle": "Action and communicative method <br/> in foreign languages",
@@ -43,15 +43,15 @@
     "items": [
       {
         "title": "Academic Courses",
-        "content": "<p> <span> levels from the premium to advanced (A1-C1) </span> Academic courses are what you are looking for to learn to speak fluently and naturally in the language you choose: English, French, Spanish or German.  We have courses from the beginner level to advanced (A1-C1). If you don't know the level you have of the language you want to learn, we send you a free location exam. <br/><br/> • 100% accompanied by a teacher for 3 hours a week. <br/> • You will have 1 evaluation per unit of written understanding and expression and oral understanding and expression. <br/> • You will talk a lot in each class to develop a good pronunciation with correct grammatical structures and increase your vocabulary. <br/> • You will listen to audios with conversations, see videos and read items in class. <br/> • You will receive a progress report at the end of each unit with your results, advances and feedback.<br/> • Special accompaniment in written expression and pronunciation. <br/> • You will acquire new skills and develop critical thinking. <br/> • You will carry an updated method with virtual exercises. <br/> • You will dominate the language you choose as an expert. <br/>  </p>"
+        "content": "<p> <b> Levels from the premium to advanced (A1-C1) </b><br/><br/> Academic courses are what you are looking for to learn to speak fluently and naturally in the language you choose: English, French, bish or German.  We have courses from the beginner level to advanced (A1-C1). If you don't know the level you have of the language you want to learn, we send you a free location exam. <br/><br/> • 100% accompanied by a teacher for 3 hours a week. <br/> • You will have 1 evaluation per unit of written understanding and expression and oral understanding and expression. <br/> • You will talk a lot in each class to develop a good pronunciation with correct grammatical structures and increase your vocabulary. <br/> • You will listen to audios with conversations, see videos and read items in class. <br/> • You will receive a progress report at the end of each unit with your results, advances and feedback.<br/> • Special accompaniment in written expression and pronunciation. <br/> • You will acquire new skills and develop critical thinking. <br/> • You will carry an updated method with virtual exercises. <br/> • You will dominate the language you choose as an expert. <br/>  </p>"
       },
       {
         "title": "Conversation courses",
-        "content": "<p> <span> English the American way </span> For intermediate level students (B1) who wish to learn expressions used in North America and meet Background your lifestyle. This course implies entering the culture to improve American English and End speak like a native.\n<span> strengthens your knowledge </span> For students, studying a level (A2), intermediate (B1) and advanced (B2) who wish to express their opinion, discuss and foster their general culture following current issues of the world around them. It also helps you expand Your vocabulary, to perfect your pronunciation and have greater fluidity. This course is of great help to Students who wish to approve a certification in the language you choose: English, French, Spanish or German.  </p>"
+        "content": "<p>Strengthen your knowledge with conversation sessions for adolescents and adults with a beginner level (A2), intermediate (B1) or advanced (B2) who wish to express their opinion, discuss and foster their general culture following recent issues over the entire world. Choose between: English, French, Spanish and German.<br/><br/>• 5 to 7 students.<br/>• 100% accompanied by a teacher.<br/>• You will confront topics according to your level (technology, art, work world, education, science, entertainment, history, among others).<br/>• You will expand your vocabulary, you will improve your pronunciation and develop greater fluidity.<br/>• In each class you will analyze an article, video or podcast and answer some questions of oral understanding or written understanding to later comment and discuss the topic with your classmates.<br/>• You will have a test to evaluate your progress in continuous oral expression and oral expression in interaction.<br/>• You can approve a more easily accelerating certification."
       },
       {
         "title": "Children courses 6 to 12 years",
-        "content": "<p> <span> learning English or French is much easier when you start at an early age.</span> If your children start now they will become experts to:<br/><br/> • Contact people around the world.<br/> • Access programs and scholarships in the best universities in the world through some exchange or registering themselves.<br/> • Access to the international labor market, which will lead them to have a fairly high salary.<br/> • Create your own company or business and promote it through the world. <br/> <span>Forget language barriers. Learning is easier when you're having fun !</span> • 100% accompanied by a teacher for 3 hours a week. <br/> • Through an interactive platform your child will develop a good pronunciation with audio exercises, games and songs. <br/> • You will learn through stories and videos about the world around it. <br/> • You will receive a progress report at the end of each unit with its results, advances and feedback. <br/> • You will have special accompaniment in written expression and pronunciation. <br/> • will acquire new competitions. <br/> • It will carry in class a digital method with virtual exercises plus a book and an exercise notebook that will be sent at no cost. <br/> </p>"
+        "content": "<p> <b>Learning English or French is much easier when you start at an early age. If your children start now they will become experts in:</b><br/><br/> • Contact people around the world.<br/> • Access programs and scholarships in the best universities in the world through some exchange or registering themselves.<br/> • Access to the international labor market, which will lead them to have a fairly high salary.<br/> • Create your own company or business and promote it through the world. <br/><br/> <b>Forget language barriers. Learning is easier when you're having fun !</b><br/><br/>• 100% accompanied by a teacher for 3 hours a week. <br/> • Through an interactive platform your child will develop a good pronunciation with audio exercises, games and songs. <br/> • You will learn through stories and videos about the world around it. <br/> • You will receive a progress report at the end of each unit with its results, advances and feedback. <br/> • You will have special accompaniment in written expression and pronunciation. <br/> • will acquire new competitions. <br/> • It will carry in class a digital method with virtual exercises plus a book and an exercise notebook that will be sent at no cost. <br/> </p>"
       }
     ]
   },
@@ -61,7 +61,7 @@
     "items": [
       {
         "q": "What is Macle?",
-        "a": "Macle is a 100% online institute dedicated to language teaching (English, French, Spanish and German). We have an academic coordinator, direction and finance. <br/> In our institute you will learn languages following recognized methods worldwide and you can prepare to obtain a certification."
+        "a": "Macle is a 100% online institute dedicated to language teaching (English, French, bish and German). We have an academic coordinator, direction and finance. <br/> In our institute you will learn languages following recognized methods worldwide and you can prepare to obtain a certification."
       },
       {
         "q": "Are teachers native?",
@@ -73,11 +73,11 @@
       },
       {
         "q": "How are classes?",
-        "a": "In English, French, Spanish or German class we use documents such as videos, texts, conversations audios, interactive games, flashcards and special activities for continuous oral expression and interaction (conversation). <br/> Teachers follow the book sequences to perform an evaluation. Each sequence (didactic unit) can last 4 to 6 classes, depending on the level and language."
+        "a": "In English, French, bish or German class we use documents such as videos, texts, conversations audios, interactive games, flashcards and special activities for continuous oral expression and interaction (conversation). <br/> Teachers follow the book sequences to perform an evaluation. Each sequence (didactic unit) can last 4 to 6 classes, depending on the level and language."
       },
       {
         "q": "What material do you use to teach?",
-        "a": "In the English classes we have the Cambridge platform, which has given excellent results to millions of students around the world. <br/> <br/> In French we follow the methods of Maison by Langues, a worldwide recognized editorial, which has won several awards for their teaching methods. In Spanish we follow the digital manuals of Campus Diffusion that give us access to the teaching of the Cervantes Institute, a public institution created in Spain in 1991 to universally promote the teaching, study and use of Spanish and contribute to the dissemination of Hispanic cultures in The exterior. <br/> In German we follow the egg methods, which have been used for many years and have trained millions of students who have obtained very good results."
+        "a": "In the English classes we have the Cambridge platform, which has given excellent results to millions of students around the world. <br/> <br/> In French we follow the methods of Maison by Langues, a worldwide recognized editorial, which has won several awards for their teaching methods. In bish we follow the digital manuals of Campus Diffusion that give us access to the teaching of the Cervantes Institute, a public institution created in Spain in 1991 to universally promote the teaching, study and use of bish and contribute to the dissemination of Hibic cultures in The exterior. <br/> In German we follow the egg methods, which have been used for many years and have trained millions of students who have obtained very good results."
       },
       {
         "q": "Do you deliver any constancy of study?",
@@ -85,7 +85,7 @@
       },
       {
         "q": "Can I obtain a certification at the end of a level?",
-        "a": "We are not exam applicators to obtain certifications but we prepare you for free certifications. <br/> In English we prepare you to obtain a Cambridge certification. These certifications do not expire that by obtaining one, you will get it for life. <br/> In French we prepare you to obtain the DELF and Dalf that are the official diplomas that accredit your level of mastery of the French language, which are granted by France Éduction International by the French Ministry of National Education. <br/> <Br/Br/ > In Spanish we prepare you to obtain the DELE granted by the Cervantes Institute, by the Ministry of Education, Culture and Sports of Spain. <br/> In German we prepare you to pass a Goethe-Institut exam, a cultural institution of the Federal Republic of Germany, dedicated to the dissemination of German language and culture in the world. It offers exams to prove your German level through German certificates (Goethe-Zertifikat) of all levels of the common European framework."
+        "a": "We are not exam applicators to obtain certifications but we prepare you for free certifications. <br/> In English we prepare you to obtain a Cambridge certification. These certifications do not expire that by obtaining one, you will get it for life. <br/> In French we prepare you to obtain the DELF and Dalf that are the official diplomas that accredit your level of mastery of the French language, which are granted by France Éduction International by the French Ministry of National Education. <br/> <Br/Br/ > In bish we prepare you to obtain the DELE granted by the Cervantes Institute, by the Ministry of Education, Culture and Sports of Spain. <br/> In German we prepare you to pass a Goethe-Institut exam, a cultural institution of the Federal Republic of Germany, dedicated to the dissemination of German language and culture in the world. It offers exams to prove your German level through German certificates (Goethe-Zertifikat) of all levels of the common European framework."
       }
     ]
   },
@@ -99,7 +99,7 @@
       "studies": "Master in Education and Training, Dalf, Pro Fle, TKT",
       "story": {
         "catch": "Learning a language was the best decision of my life. I discovered French culture, I traveled throughout Europe, I tried unparalleled meals and I also received a salary in euros which allowed me to stay several years in France. I met new people From different cultures, even my husband. I adopted a new vision for my life: give the same opportunity to the students of this institute. ",
-        "content": "I started my career in 2013 by teaching French in public and private universities in Mexico. With my knowledge in French I decided to apply for a scholarship as a Spanish language assistant in France. I then pursued and obtain a Master's degree in language teaching methods. <br/> <br/> This has allowed me to bring to Mexico the experience and knowledge of the Methodology of the Council of Europe for the teaching of foreign languages. Likewise, teaching all kinds of audiences has allowed me to improve my skills to direct the institute. "
+        "content": "I started my career in 2013 by teaching French in public and private universities in Mexico. With my knowledge in French I decided to apply for a scholarship as a bish language assistant in France. I then pursued and obtain a Master's degree in language teaching methods. <br/> <br/> This has allowed me to bring to Mexico the experience and knowledge of the Methodology of the Council of Europe for the teaching of foreign languages. Likewise, teaching all kinds of audiences has allowed me to improve my skills to direct the institute. "
       }
     }
   },
@@ -152,7 +152,8 @@
         "link": null
       }
     ],
-    "footnote": "<b>For more information and doubts contact us through our social networks. </b> <br/>  If you don't know your level in the language you want to learn, we send you a location exam. <br/>  If you have colleagues with interest in common, put together your group."
+    "footnote": "<b>For more information</b>",
+    "contact_us": "Contact us"
   },
   "quote": {
     "content": "“People fail to get along because they fear each other; they fear each other because they don't know each other; they don't know each other because they have not communicated with each other.”"
@@ -177,13 +178,13 @@
         "name": "Cecilia Carvallo",
         "image": "team_p4",
         "studies": "Doctorate in modern letters",
-        "story": "Spanish teacher. Cecilia gave Spanish classes at a school before finishing her doctorate and starting teaching classes Linguistics at a very important university in Mexico. He has also taught Spanish classes for foreigners Remote via All their students have been very satisfied with their work and have taken with it the preparation for Obtain the DELE certification. Cecilia tells us that teaching is her passion and that teaching culture and nuances of the Spanish language allows to quickly acquire a lot of vocabulary and very useful expressions among the Spanish speakers."
+        "story": "bish teacher. Cecilia gave bish classes at a school before finishing her doctorate and starting teaching classes Linguistics at a very important university in Mexico. He has also taught bish classes for foreigners Remote via All their students have been very satisfied with their work and have taken with it the preparation for Obtain the DELE certification. Cecilia tells us that teaching is her passion and that teaching culture and nuances of the bish language allows to quickly acquire a lot of vocabulary and very useful expressions among the bish speakers."
       },
       {
         "name": "Paul Henri Eche",
         "image": "team_p3",
-        "studies": "Diploma in Spanish French Translation, Pro Fle",
-        "story": "Native French professor and interpreter, has been living in Mexico for more than 20 years and teaching. He speaks perfectly Spanish and English. You will learn the French language with its good humor and dynamism. He will explain the origin of many words and expressions, he is passionate about literature. He is also an expert in history and culture. He has traveled around the world and loves to learn new languages Like the Japanese. In addition, his drawings on the virtual board will surprise you. "
+        "studies": "Diploma in bish French Translation, Pro Fle",
+        "story": "Native French professor and interpreter, has been living in Mexico for more than 20 years and teaching. He speaks perfectly bish and English. You will learn the French language with its good humor and dynamism. He will explain the origin of many words and expressions, he is passionate about literature. He is also an expert in history and culture. He has traveled around the world and loves to learn new languages Like the Japanese. In addition, his drawings on the virtual board will surprise you. "
       },
       {
         "name": "Arturo Silva",
