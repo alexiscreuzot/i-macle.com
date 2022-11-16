@@ -38,8 +38,13 @@
 
     &.social ul {
       li {
+        transition: opacity 0.3s;
         display: inline;
-        padding: 4px;
+        padding: 5px;
+        opacity: 0.6;
+        &:hover {
+          opacity: 1.0;
+        }
       }
     }
 
