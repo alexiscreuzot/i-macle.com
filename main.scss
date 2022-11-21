@@ -20,16 +20,16 @@ $logo-font: 'Adam-Medium', sans-serif;
 $title-font: 'Adam-Bold', sans-serif;
 $subtitle-font: 'Garamond', serif;
 
-$accent-color: #3646BB;
-$accent-light: lighten($accent-color, 48%);
-$complement-color: #A45EC2;
-$green-color: #25A983;
-$yellow-color: #FFD53D;
-$text-color1 : darken(desaturate($accent-color, 30%), 20%);
-$text-color2 : desaturate($accent-color, 50%);
-$white-faded1 : rgba(255,255,255, 0.8);
-$white-faded2 : rgba(255,255,255, 0.6);
-$white-faded3 : rgba(255,255,255, 0.4);
+$accent-color: desaturate(darken(royalblue, 10%), 15%);
+$accent-light: lighten($accent-color, 50%);
+$complement-color: desaturate(darkorchid, 15%);
+$green-color: mediumseagreen;
+$yellow-color: gold;
+$text-color1 : darken(slategray, 20%);
+$text-color2 : slategray;
+$white-faded1 : rgba(white, 0.8);
+$white-faded2 : rgba(white, 0.6);
+$white-faded3 : rgba(white, 0.4);
 
 @import 
     "_reset",
