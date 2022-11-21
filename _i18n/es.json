@@ -40,17 +40,13 @@
     "footnote": "Si tienes dificultades para aprender un idioma te daremos la orientación que necesitas para organizar tu forma de estudio.",
     "items": [
       {
-        "title": "Cursos académicos",
-        "content": "<p><b>Clases para adolescentes y adultos desde principiante hasta avanzado (A1-C2).</b><br/><br/>Los cursos académicos son lo que estás buscando para aprender a hablar de manera fluida y natural en el idioma que elijas: inglés, francés, español o alemán. <br/><br/> • 6 a 8 alumnos. <br/>  • Inmersión total con audios, conversaciones, videos y lecturas.<br/> • Expresión oral en cada clase para desarrollar una buena pronunciación e incrementar tu vocabulario.<br/> • Llevarás una secuencia de aprendizaje.<br/> • Recibirás un reporte de progreso al final de cada evaluación con tus resultados, avances y retroalimentación.<br/> • Tendrás acompañamiento especial en expresión escrita y gramática. <br/> • Aprenderás con juegos, dinámicas y ejercicios virtuales.<br/> • Entrega de constancia al finalizar el curso.<br/> • Dominarás el idioma que elijas como un experto.<br/> Si no conoces el nivel que tienes del idioma que deseas aprender, te enviamos un examen de ubicación gratuito.</p>"
+        "title": "Cursos académicos"
       },
       {
-        
-        "title": "Cursos de conversación",
-        "content": "<p>Fortalece tus conocimientos con las sesiones de conversación para adolescentes y adultos con un nivel principiante (A2), intermedio (B1) o avanzado (B2) que deseen expresar su opinión, debatir  y fomentar su cultura general siguiendo temas recientes sobre el mundo entero. Elige entre: inglés, francés, español y alemán. <br/><br/> • 5 a 7 alumnos.<br/>  • 100% acompañado de un profesor.<br/>  • Te confrontarás a temas de acuerdo a tu nivel (tecnología, arte, mundo laboral, educación, ciencias, entretenimiento, historia, entre otros).<br/>   • Ampliarás tu vocabulario, perfeccionarás tu pronunciación y desarrollarás mayor fluidez. <br/>  • En cada clase analizarás un artículo, video o podcast y responderás a algunas preguntas de comprensión oral o comprensión escrita para posteriormente comentar y debatir el tema con tus compañeros. <br/>  • Tendrás un test para evaluar tu progreso en expresión oral continua y expresión oral en interacción. <br/>  • Podrás aprobar una certificación más fácilmente acelerando tu nivel. <br/>  </p>"
-      },
+        "title": "Cursos de conversación"
+        },
       {
-        "title": "Cursos para niños 6 a 12 años",
-        "content": "<p><b>Aprender inglés o francés es mucho más fácil cuando empiezas a temprana edad.Si tu hijo(a) comienza ahora se volverá experto(a) para:</b> <br/><br/>• Comunicarse con personas de todo el mundo.<br/> • Acceder a programas y becas en las mejores universidades del mundo entero a través de un intercambio o inscribiéndose directamente.<br/> • Acceder al mercado laboral internacional, lo que le llevará a tener un salario bastante alto.<br/> • Crear su propia empresa o negocio y promoverlo a través del mundo.<br/><br/><b>Tu hijo(a) no se dará cuenta que está estudiando un idioma porque aprenderá divirtiéndose con nuestro método.</b><br/><br/>• 6 a 8 alumnos.<br/> • 100% acompañad(a) de un profesor.<br/> • A través de una plataforma interactiva tu hijo(a) desarrollará una buena pronunciación con ejercicios de audio, juegos y canciones.<br/> • Aprenderá a través de cuentos y videos sobre el mundo que le rodea.<br/> • Aprenderá algunos temas de geografía, historia y ciencias en el idioma que elija, de acuerdo a su nivel de educación escolar. <br/>  • Recibirá un reporte de progreso al final de cada unidad con sus resultados, avances y retroalimentación.<br/> • Adquirirá nuevas competencias.<br/> • Llevará en clase un método digital con ejercicios virtuales más un libro y un cuaderno de ejercicios que se le mandarán en formato digital sin costo alguno.<br/> • Entrega de constancia al finalizar el curso.<br/> </p>"
+        "title": "Cursos para niños 6 a 12 años"
       }
     ]
   },
@@ -107,7 +103,7 @@
     }
   },
   "prices": {
-    "title": "¡Inscríbete desde cualquier parte del MUNDO!",
+    "title": "¡Inscripciones abiertas para toda América Latina!",
     "more":"Mas información",
     "starting_at":"Desde",
     "plans": [

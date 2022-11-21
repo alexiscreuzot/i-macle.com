@@ -102,6 +102,10 @@ a {
   fill: $accent-light;
 }
 
+.curve.complement .shape-fill {
+  fill: $complement-color;
+}
+
 .button {
 
   background: $accent-color;  /* fallback for old browsers */

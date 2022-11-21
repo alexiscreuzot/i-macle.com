@@ -9,71 +9,67 @@
 
   {% if site.translations[site.lang].courses %}
   {% assign course = site.translations[site.lang].courses.items[page.index] %}
-    <div id="courses" class="section">
-      <div class="container">
+  <div id="courses" class="section">
+    <div class="container">
 
-        <br/><br/>
+      <br/><br/>
 
-        <h2><i class="icofont-group-students"></i>&nbsp;&nbsp;{{ course.title }}</h2>
-        
-        <div class="course">
-             {{ course.content }}
-        </div>
+      <h2><i class="icofont-group-students"></i>&nbsp;&nbsp;{{ course.title }}</h2>
+      
+      <div class="course">
+        {{ content }}
       </div>
     </div>
-    {% endif %}
-
-
-    {% if site.translations[site.lang].prices %}
-    {% assign plan = site.translations[site.lang].prices.plans[page.index] %}
-    <div id="prices" class="section">
-      <div class="container">
-
-        <div class="columns show-once scale-up" style="float:none;margin:auto">
-          <div class="plan">
-            <div class="row header">{{ plan["name"] }}</div>
-            <div class="row image {{ plan['id'] }}">
-              <div class="price">
-                <small>{% t prices.starting_at %}</small>
-                {{ plan["price"] }}
-              </div>
-            </div>
-            <div class="row">
-              {% for lang in plan.languages %}
-              <i class="flag {{ lang }}"></i>
-              {% endfor %}
-            </div>
-            <div class="row">{{ plan["students"] }}</div>
-            <div class="row">{{ plan["teacher"] }}</div>
-
-            {% if plan.link %}
-            <div class="row">
-              <a id="academic" class="button" href="{{ plan['link'] }}" target="_blank">{% t global.start %}<i class="icofont-rounded-right"></i></a>
-            </div>
-            {% endif %}
-          </div>
-        </div>
-
-        <div style="clear:both;"></div>
-        <br/><br/>
-
-        <div class="centered">
-           <p>
-            <small>{% t prices.footnote %}</small><br/>
-            <a class="button contact" href="https://bit.ly/3GnoHCn" target="_blank">{% t prices.contact_us  %}&nbsp;&nbsp;<i class="icofont-whatsapp"></i></a>
-          </p>
-        </div>
-
-      </div>
-    </div>
-    {% endif %}
-
-
-    {% include footer.html %}
-
-    {% include messenger_plugin.html %}
-
   </div>
+  {% endif %}
+
+  {% if site.translations[site.lang].prices %}
+  {% assign plan = site.translations[site.lang].prices.plans[page.index] %}
+  <div id="prices" class="section">
+    <div class="container">
+
+      <div class="columns show-once scale-up" style="float:none;margin:auto">
+        <div class="plan">
+          <div class="row header">{{ plan["name"] }}</div>
+          <div class="row image {{ plan['id'] }}">
+            <div class="price">
+              <small>{% t prices.starting_at %}</small>
+              {{ plan["price"] }}
+            </div>
+          </div>
+          <div class="row">
+            {% for lang in plan.languages %}
+            <i class="flag {{ lang }}"></i>
+            {% endfor %}
+          </div>
+          <div class="row">{{ plan["students"] }}</div>
+          <div class="row">{{ plan["teacher"] }}</div>
+
+          {% if plan.link %}
+          <div class="row">
+            <a id="academic" class="button" href="{{ plan['link'] }}" target="_blank">{% t global.start %}<i class="icofont-rounded-right"></i></a>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+
+      <div style="clear:both;"></div>
+      <br/><br/>
+
+      <div class="centered">
+         <p>
+          <small>{% t prices.footnote %}</small><br/>
+          <a class="button contact" href="https://bit.ly/3GnoHCn" target="_blank">{% t prices.contact_us  %}&nbsp;&nbsp;<i class="icofont-whatsapp"></i></a>
+        </p>
+      </div>
+
+    </div>
+  </div>
+  {% endif %}
+
+  {% include footer.html %}
+
+  {% include messenger_plugin.html %}
 
   {% include scripts.html %}
   

@@ -28,7 +28,7 @@
 
     .row {
       display: block;
-
+      color:darken($accent-color, 20%);
       &.image {
         border: none;
         &.academic {
@@ -164,6 +164,9 @@
       width: 100%;
       .columns {
         width: 100%;
+        .more {
+          max-height: 500px;
+        }
       }
     }
   }

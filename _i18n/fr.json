@@ -17,5 +17,16 @@
    "header": {
     "baseline": "Bientôt disponible",
     "items": []
-  }
+  },
+  "slideshow": {
+    "items": [
+        "Devenez bilingue", 
+       "Gagnez un meilleur salaire dans votre pays ou à l'étranger", 
+       "Voyagez sans problèmes", 
+       "Rencontrez des personnes d'autres horizons", 
+       "Faites partie d'une organisation internationale", 
+       "Enseignez à d'autres étudiants"
+    ]
+  },
+
 }

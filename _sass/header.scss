@@ -1,20 +1,19 @@
 
 #header {
 
-  
-
   padding: 4rem 0 1rem;
   position: relative;
   background: url("assets/images/h4.webp") no-repeat;
   background-size: contain;
   background-position: right bottom;
-  min-height: 500px;
+  min-height: 600px;
 
   .waves {
     position: absolute;
     bottom: 0;
     height: 70px;
     width: 100%;
+     z-index:1;
   }
 
   .container {
@@ -101,11 +100,12 @@
   @media (max-width: 1000px) {
 
     .waves {
-      display: none;
+      z-index: 10;
     }
 
     background: none;
     padding: 2rem 0 0rem;
+    min-height: 0px;
 
     .content{
 
