@@ -13,8 +13,6 @@
     font-display: swap;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat&display=swap');
 @import url('assets/fonts/icofont/icofont.css');
 
 $body-font : 'Helvetica', sans-serif;
@@ -27,7 +25,7 @@ $accent-light: lighten($accent-color, 48%);
 $complement-color: #A45EC2;
 $green-color: #25A983;
 $yellow-color: #FFD53D;
-$text-color1 : darken($accent-color, 20%);
+$text-color1 : darken(desaturate($accent-color, 30%), 20%);
 $text-color2 : desaturate($accent-color, 50%);
 $white-faded1 : rgba(255,255,255, 0.8);
 $white-faded2 : rgba(255,255,255, 0.6);

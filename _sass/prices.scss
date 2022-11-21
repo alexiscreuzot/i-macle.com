@@ -28,7 +28,7 @@
 
     .row {
       display: block;
-      color:darken($accent-color, 20%);
+      color:$text-color1;
       &.image {
         border: none;
         &.academic {
@@ -62,14 +62,14 @@
         bottom: 0;
         padding: 4px 0;
         font-size: 20px;
-        color: darken($accent-color, 20%);
+        color: $text-color1;
         font-weight: bold;
 
         small {
           display: block;
           margin-bottom: -5px;
           font-size: 10px;
-          color: rgba(0, 0, 0, 0.4);
+          color: rgba($text-color1, 0.3);
           text-transform: uppercase;
         }
       }
