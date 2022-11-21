@@ -163,7 +163,9 @@
     .columns-wrapper {
       width: 100%;
       .columns {
-        width: 100%;
+        width: 90%;
+        margin: auto;
+        float: none;
         .more {
           max-height: 500px;
         }
