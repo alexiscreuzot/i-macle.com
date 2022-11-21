@@ -177,3 +177,16 @@
     transform: translate3d(85px,0,0);
   }
 }
+
+#wave1 {
+  fill:rgba($complement-color, 0.7);
+}
+#wave2 {
+  fill:rgba($accent-color, 0.5);
+}
+#wave3 {
+  fill: rgba($complement-color, 0.3);
+}
+#wave4 {
+  fill:$accent-color;
+}

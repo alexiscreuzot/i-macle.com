@@ -57,11 +57,12 @@
         width: 100%;
         background-color: rgba(255, 255, 255, 0.6);
         backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
         position: absolute;
         bottom: 0;
         padding: 4px 0;
         font-size: 20px;
-        color: #222;
+        color: darken($accent-color, 20%);
         font-weight: bold;
 
         small {
@@ -132,7 +133,7 @@
     padding: 10px;
     text-align: center;
     margin: 0;
-    background: $body-color;
+    background: white;
 
     &.header {
       font-size: 20px;

@@ -50,14 +50,14 @@
           color:$accent-color;
         }
 
-        color:#667;
+        color:$text-color2;
         .catch {
           background: $complement-color;  /* fallback for old browsers */
           background: -webkit-linear-gradient(to bottom right, $accent-color, $complement-color);  /* Chrome 10-25, Safari 5.1-6 */
           background: linear-gradient(to bottom right, $accent-color, $complement-color);
           padding: 12px;
           border-radius: 10px;
-          color: RGBA(255,255,255,0.9);
+          color: $white-faded1;
           font-weight: 600;
         }
 
@@ -71,7 +71,7 @@
             padding: 0;
             margin: 0;
             font-weight: bold;
-            color: #111;
+           color: $text-color1;
           }
           &.title {
             color:$complement-color
