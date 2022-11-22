@@ -7,7 +7,7 @@
     <div class="columns-wrapper">
 
     {% for plan in site.translations[site.lang].prices.plans %}
-    <a href="{{ site.baseurl }}/course-{{ plan['id'] }}" >
+    <a href="{{ site.baseurl }}/course-{{ plan['id'] }}" title="{{ plan['name'] }}">
     <div class="columns scale-up show-once">
       <div class="plan">
         <div class="row header">{{ plan["name"] }}</div>
