@@ -3,7 +3,8 @@
   <div class="container">
     <h2><i class="icofont-dart"></i>&nbsp;&nbsp;{% t mission.title %}</h2>
 
-    <p>{% t mission.description %} </p>
+    {% capture description %}{% t mission.description %}{% endcapture %}
+    <p>{{ description | markdownify }}</p>
       <br/>
 
       <div class="card">
@@ -14,10 +15,11 @@
             <p class="studies"><i class="icofont-certificate-alt-2"></i>&nbsp;&nbsp;{% t mission.director.studies %}</p>
             <p class="story">
               <div class="catch">
-                {% t mission.director.story.catch %}
+                {% capture catch %}{% t mission.director.story.catch %}{% endcapture %}
+                {{ catch | markdownify }}
               </div>
-              <br/>
-              {% t mission.director.story.content %}
+              {% capture content %}{% t mission.director.story.content %}{% endcapture %}
+              {{ content | markdownify }}
            </p>
          </div>
          <div class="image carolina fade-in show-once"></div>

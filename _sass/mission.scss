@@ -57,8 +57,12 @@
           background: linear-gradient(to bottom right, $accent-color, $complement-color);
           padding: 12px;
           border-radius: 10px;
-          color: $white-faded1;
-          font-weight: 600;
+          p {
+            color: $white-faded1;
+            font-weight: 600;
+            padding: 0;
+            margin: 0;
+          }
         }
 
         p {

@@ -16,11 +16,11 @@
       <div class="abstract">
       {%- endif -%}
         <div class="name"> 
-          <p>{{ item["q"] }}</p> 
+          {{ item["q"] | markdownify }}
         </div>   
         <div class="more-icon">+</div>     
         <div class="more">
-          <p>{{ item["a"] }}</p>
+          {{ item["a"] | markdownify  }}
         </div>
       </div>
     </div>
