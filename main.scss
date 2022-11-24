@@ -13,12 +13,13 @@
     font-display: swap;
 }
 
+@import url('https://fonts.cdnfonts.com/css/noto-sans');
 @import url('assets/fonts/icofont/icofont.css');
 
 $body-font : 'Helvetica', sans-serif;
 $logo-font: 'Adam-Medium', sans-serif;
 $title-font: 'Adam-Bold', sans-serif;
-$subtitle-font: 'Garamond', serif;
+$subtitle-font: 'Noto Sans', sans-serif;
 
 $accent-color: desaturate(darken(royalblue, 10%), 15%);
 $accent-light: lighten($accent-color, 50%);
