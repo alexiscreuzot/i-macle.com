@@ -20,13 +20,16 @@
     {% endfor %}
 
     <div style="clear:both;"></div> 
+
+    {% if site.translations[site.lang].team.link %}
     <div class="centered">
       <p>
       {% t team.footnote %}
       <br/> 
       </p>
-      <a id="apply" class="button" href="https://forms.gle/q858DdYVSbohSkTy6" target="_blank">{% t team.apply %} <i class="icofont-rounded-right"></i></a>
+      <a id="apply" class="button" href="{% t team.link %} target="_blank">{% t team.apply %} <i class="icofont-rounded-right"></i></a>
     </div>
+    {% endif %}
 
  </div>
 </div>

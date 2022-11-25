@@ -212,8 +212,6 @@ prices:
         - fr
         - de
       students: 6 a 8 alumnos
-      hours: 1,5 horas / semana
-      teacher: Profesor en vivo
       link: https://forms.gle/o2do1nqECnVC5kt38
     - id: conversational
       name: Cursos de Conversación
@@ -223,8 +221,6 @@ prices:
         - fr
         - de
       students: 5 a 7 alumnos
-      hours: 1,5 horas / semana
-      teacher: Profesor en vivo
       link: https://forms.gle/ykbV1cZgSu6NJ3gq9
     - id: kids
       name: Cursos para niños
@@ -233,8 +229,6 @@ prices:
         - en
         - fr
       students: 6 a 8 alumnos
-      hours: 1,5 horas / semana
-      teacher: Profesor en vivo
       link: https://forms.gle/AMvUFEifrRK4j6UM8
   footnote: <b>Si requieres más información</b>
   contact_us: Habla con nosotros
@@ -258,6 +252,7 @@ team:
     carrera afín? ¿Tienes 4 años o más de experiencia impartiendo clases de
     idiomas?
   apply: Postular
+  link : https://forms.gle/q858DdYVSbohSkTy6
   teachers:
     - name: Cecilia Carvallo
       image: team_p4

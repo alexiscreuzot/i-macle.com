@@ -1,272 +1,200 @@
 global:
   lang: English
-  title: Imacle, Language School online
+  title: iMacle, Online Language School in Latin America, United States and Canada.
   description: >-
-    Online classes for adolescents and adults taught by certified teachers. 
-    More than 10 years of experience.  Dynamic groups of 5 to 8 students. 
-    Teaching method according to the common European framework.  Learn to
-    communicate effectively to develop in real life.  Many schedules available
-    to choose.  Accessible costs.
-  keywords: online courses, online courses, foreign languages, language school
-  bish: bish
+    All of our classes are 100% online. Small-group classes taught by highly-trained teachers. We have four languages to choose from: English, French, Spanish and German.
+
+  keywords: >-
+    online courses, online courses, foreign languages, language school,
+    latin america, United States, Canada.
+  spanish: Spanish
   english: English
-  french: Frances
-  subtitle: Action and communicative method <br/> in foreign languages
-  read_more: Read more
-  read_less: Read less
-  about: About
-  social: Social
+  french: French
+  subtitle: >-
+    THE MACLE INSTITUTE – MAKING PEOPLE MULTILINGUAL!
+  read_more: Leer más
+  read_less: Leer menos
+  about: A Propósito
+  social: Redes sociales
   languages:
     - es
     - en
     - fr
     - de
-  start: Start
+  start: Get started
 header:
-  baseline: We Create Multi-lingual People
-  cta: See courses
+  baseline: "We are making people multilingual"
+  cta: SEE COURSES
   items:
-    - Classes 100% Online
-    - Small groups
-    - Highly trained teachers.
+    - 100% online
+    - Small-groups 
+    - Highly-trained teachers
+  
 benefits:
-  title: Benefits of our Institute
+  title: Why is Macle right for me?
   items:
-    - >-
-      You will learn to speak fluidly in real situations with the
-      action-oriented method.
-    - Dynamic groups of 5 to 8 students.
-    - You will learn to communicate effectively to develop in real life.
-    - You will have advice to guide your studies.
-    - We have many schedules available to choose from.
-    - Teaching method according to the common European framework.
-    - You will also learn culture and customs.
+    - Learn to speak fluently in real-life situations 
+    - Teachers available to help and support you during your studies
+    - Methods in accordance with the Common European Framework
+    - Assimilate different cultures and customs 
+    - Communicate effectively and appropriately in any situation
+
 courses:
-  title: Online classes
-  subtitle: Our courses are designed for teenagers and adults.
-  footnote: >-
-    If you have difficulty learning a language we will give you the orientation
-    you need to organize your way of study.
-  items:
-    - title: Academic Courses
-    - title: Conversation courses
-    - title: Children courses 6 to 12 years
+  title: Online courses
+  subtitle: ???
+  footnote:
+    items:
+      - title: Academic Courses 
+      - title: Conversational Classes
+      - title: Courses for kids (6 to 12)
 faq:
   title: FAQ
-  subtitle: If you have doubts, click them with our frequent questions
+  subtitle: "Here are a few frequently asked questions about our online courses:"
   items:
     - q: What is Macle?
       a: >-
-        Macle is a 100% online institute dedicated to language teaching
-        (English, French, bish and German). We have an academic coordinator,
-        direction and finance. <br/> In our institute you will learn languages
-        following recognized methods worldwide and you can prepare to obtain a
-        certification.
-    - q: Are teachers native?
+       Macle is a 100% online Latin American institute dedicated to teaching languages – English, French, Spanish, and German. 
+       We have well-trained, highly-experienced teachers, an academic coordinator,and a financial manager. 
+       We are located in Mexico City, and we are one of the few language institutes that use the European methodology to teach its classes.
+        <br/><br/>
+        At our institute, you will learn languages using highly-advanced teaching methods that will help you to obtain an internationally-recognized certification. 
+    - q: How can I register for a course?
       a: >-
-        We have native and non -native professors, all certified in the language
-        they teach. All our teachers, both native and non -native go through a
-        selection process with several filters. They also have higher studies
-        and experience in language teaching.
-    - q: Should I buy material?
+        To enroll for free, go to the "plans" section and click on the "Get started" button of the course you want to take – e.g., an academic course, a conversational class, or a course for children six to twelve years old.
+        <br/><br/>
+        This button will take you to a form in which you will fill in your contact information, choose which language you want to study (and at what level), and choose a SCHEDULE for your classes.
+        <br/><br/>
+        Once you finish filling out the form and submit it, we will contact you via email or phone to confirm the start date of your course and discuss the payment-method options that are available. 
+        Once you have made your first payment, we will MAIL you a packet of materials containing information about starting your course(s), links to connect to the digital platform and your free book and workbook. 
+        Also, we will contact you via WhatsApp to create a group that will include your teacher and new classmates. 
+        IMPORTANT NOTE: the current wait time to receive the course materials is two to three business days due to the high volume of requests that we receive.
+    - q: Are the teachers native speakers?
       a: >-
-        No. We provide you with the material you need to learn: book, exercise
-        and audios notebook to practice. This is at no cost.
-    - q: How are classes?
+        We have both native and non-native speaking teachers who are all certified in the language that they teach. All of our teachers go through a very extensive, thorough hiring process which involves several steps to ensure that they are highly qualified. Many of our teachers have post-graduate degrees and have several years of language-teaching experience.
+    - q: Should I buy materials?
       a: >-
-        In English, French, bish or German class we use documents such as
-        videos, texts, conversations audios, interactive games, flashcards and
-        special activities for continuous oral expression and interaction
-        (conversation). <br/> Teachers follow the book sequences to perform an
-        evaluation. Each sequence (didactic unit) can last 4 to 6 classes,
-        depending on the level and language.
-    - q: What material do you use to teach?
+        No. We provide you with all of the materials that you will need at no additional cost: a coursebook, a workbook and audios.
+    - q: What are the classes like?
       a: >-
-        In the English classes we have the Cambridge platform, which has given
-        excellent results to millions of students around the world. <br/> <br/>
-        In French we follow the methods of Maison by Langues, a worldwide
-        recognized editorial, which has won several awards for their teaching
-        methods. In bish we follow the digital manuals of Campus Diffusion that
-        give us access to the teaching of the Cervantes Institute, a public
-        institution created in Spain in 1991 to universally promote the
-        teaching, study and use of bish and contribute to the dissemination of
-        Hibic cultures in The exterior. <br/> In German we follow the egg
-        methods, which have been used for many years and have trained millions
-        of students who have obtained very good results.
-    - q: Do you deliver any constancy of study?
+        In English, French, Spanish and German classes, we use a variety of materials, including: videos, coursebooks, workbooks,audio files of dialogs,  fun games, flashcards, and several other dynamic, highly-interactive activities to practice speaking.
+        <br/><br/>
+        The teachers follow the units of the book in sequence in order to facilitate student evaluations. Each unit can last from four to six lessons, depending on the language and level.
+    - q: What materials do you use to teach your classes?
       a: >-
-        We give you a progress control with feedback in PDF format at the end of
-        each unit and a diploma at the end of each level.
-    - q: Can I obtain a certification at the end of a level?
+        In English classes, we use the Cambridge platform, which has given excellent results to millions of students around the world.
+        <br/><br/>
+        For French classes, we follow the methods of Maison de Langues – an internationally-recognized publishing house, which has won several awards for its teaching methods.        
+        <br/><br/>
+        Our Spanish teachers follow the Campus Diffusion digital manuals, which give them access to the materials published by the Instituto Cervantes – a public institution founded in Spain in 1991 to promote the teaching, study and use of Spanish and to help educate people around the world about Hispanic cultures.        
+        <br/><br/>
+        In our German classes, we follow Hueber's methods, which have been used for many years and have helped millions of students to achieve their goals.
+    - q: Do you provide any proof of study?
       a: >-
-        We are not exam applicators to obtain certifications but we prepare you
-        for free certifications. <br/> In English we prepare you to obtain a
-        Cambridge certification. These certifications do not expire that by
-        obtaining one, you will get it for life. <br/> In French we prepare you
-        to obtain the DELF and Dalf that are the official diplomas that accredit
-        your level of mastery of the French language, which are granted by
-        France Éduction International by the French Ministry of National
-        Education. <br/> <Br/Br/ > In bish we prepare you to obtain the DELE
-        granted by the Cervantes Institute, by the Ministry of Education,
-        Culture and Sports of Spain. <br/> In German we prepare you to pass a
-        Goethe-Institut exam, a cultural institution of the Federal Republic of
-        Germany, dedicated to the dissemination of German language and culture
-        in the world. It offers exams to prove your German level through German
-        certificates (Goethe-Zertifikat) of all levels of the common European
-        framework.
+       Yes. We give you a progress report with feedback in PDF format at the end of each unit and a diploma at the end of each level.
+    - q: Will I be able to obtain a certification at the end of a level?
+      a: >-
+        No. We are not an authorized exam center, but we will help you to prepare for any of the internationally-recognized certification exams.
+        <br/><br/>
+        For English, we prepare you to obtain a Cambridge certification. 
+        More than 25,000 organizations in 130 countries around the world recognize the Cambridge certifications as the most challenging and prestigious English-proficiency exams in the world. After you pass a Cambridge certification exam at a specific level, your results are valid for the rest of your life – you will never have to take the exam again.
+        <br/><br/>
+        In French, we prepare you to obtain the DELF and DALF, which are the official diplomas for French proficiency awarded by France Éducation International on behalf of the French Ministry of National Education.
+        <br/><br/>
+        For Spanish, we prepare you to obtain the DELE, which is granted by the Instituto Cervantes on behalf of the Spanish Ministry of Education, Culture and Sports.
+        <br/><br/>
+        For German, we prepare you to pass an exam given by Goethe-Institut, a cultural institution of the Federal Republic of Germany, which is dedicated to the dissemination of German language and culture around the world  it offers exams to certify your level of German in accordance with the e official German certificates (Goethe-Zertifikat) at all levels of the Common European Framework.
 mission:
   title: Our mission
   description: >-
-    In our institution, each teacher has the same mission: carry out their
-    classes under the action -oriented approach or action.<br/><br/><b>The
-    student must be able to perform an action. </b> <br/> <br/> The student has
-    small tasks in class, missions and challenges about daily life situations.
-    As it happens when you live abroad. In this way, the student gradually
-    develops the ability to analyze, decipher and apply new knowledge in their
-    social environment. On the other hand, we work with pedagogical sequences so
-    that the student remembers in each class what the previous class saw. Each
-    topic is related to the following: repetition is the basis for strengthening
-    and systematizing the knowledge already acquired. <br/> <br/> In addition,
-    students improvise dialogues about their life, have conversations and act a
-    social role (play play) with their classmates to function in real -life
-    situations. This is essential since the student is a member of a society and
-    must be able to communicate, act and interact with the other members of
-    their environment. Our purpose is that you learn to speak, write, listen and
-    read in the language you choose to work, travel, live abroad and/or for
-    pleasure. <br/> <br/> He speaks a foreign language to discover the world and
-    understand it. Meet new people traveling or in your country. It works with
-    international companies and is part of new real or virtual communities. 
+   At Macle Institute, our mission is to help our students improve their speaking, listening, reading and writing skills in the language of their choice (English, French, Spanish or German).
+    <br/><br/>
+    **We accomplish this by ensuring that our teachers use the most advanced and effective teaching methods advocated by the Common European Framework, including the use of an action-oriented and  communicative approach to prepare students for real-life situations.**
+      <br/><br/>
+      Our students  complete tasks and activities in class that simulate real-world, everyday situations – situations that would happen just like they would if the student was traveling or living abroad for work, school, or pleasure. In this way, our students are able to practice their language skills and apply what they’ve learned in meaningful, real-world contexts instead of trying to learn using outdated, ineffective, passive teaching methods such as lecturing students, requiring them to memorize lists of vocabulary words, and using drilling. 
+      <br/>
+      On the other hand, we also  utilize pedagogical sequences – i.e., each class is related to the next. We think that it is very important for students to master each topic before moving on to more advanced topics – we accomplish this by reviewing the topics from previous classes and including them in future classes because studies have shown that repetition is a very powerful learning tool.
+    <br/>
+    In addition, students improvise dialogues about their lives, engage in conversations, and do role-play exercises with their classmates in order to practice their speaking and listening skills for real-life situations. 
   director:
     name: Carolina Ojeda
-    title: Academic Director
-    studies: Master in Education and Training, Dalf, Pro Fle, TKT
+    title:  Academic Director
+    studies:  Master in Education and Training, DALF, PRO FLE, TKT
     story:
       catch: >-
-        Learning a language was the best decision of my life. I discovered
-        French culture, I traveled throughout Europe, I tried unparalleled meals
-        and I also received a salary in euros which allowed me to stay several
-        years in France. I met new people From different cultures, even my
-        husband. I adopted a new vision for my life: give the same opportunity
-        to the students of this institute. 
+       Learning a language was the best decision of my life. Several years ago, I went to France, and I learned French and learned about French culture.I traveled all over Europe – I ate delicious food, and I got paid in euros which allowed me to stay in France for several years. I met new people from all over the world, including my husband. During this time, I decided to live out my dream of  starting a private language institute to give people the same opportunities and enjoy the same experiences that I had.
       content: >-
-        I started my career in 2013 by teaching French in public and private
-        universities in Mexico. With my knowledge in French I decided to apply
-        for a scholarship as a bish language assistant in France. I then pursued
-        and obtain a Master's degree in language teaching methods. <br/> <br/>
-        This has allowed me to bring to Mexico the experience and knowledge of
-        the Methodology of the Council of Europe for the teaching of foreign
-        languages. Likewise, teaching all kinds of audiences has allowed me to
-        improve my skills to direct the institute. 
+        I started my teaching career in 2013 – I taught French in public and private universities in Mexico. After teaching French in Mexico for a few years, I decided to apply for a scholarship as a Spanish foreign language assistant in France. Later, I obtained a master’s degree in education and training in Montpellier where I worked as a Spanish teacher in a public  high school.
+        <br/>
+        The great education and incredible experiences that I had in France has given me the opportunity to share the knowledge that I acquired with students and colleagues here in Mexico – especially my knowledge of the teaching methodologies used by the Council of Europe and my exceptional management skills.
 prices:
-  title: Plans (soon)
+  title: Choose a learning plan that’s right for you
   more: More information
-  starting_at: Starting at
+  starting_at: Starting at 
   plans:
     - id: academic
       name: Academic Courses
-      price: $59 / month
+      price: $49 / month
       languages:
-        - es
         - en
         - fr
         - de
       students: 6 to 8 students
-      hours: 1.5h / week
-      teacher: Live teacher
-      link: null
+      link: ~
     - id: conversational
-      name: Conversation courses
-      price: $65 / month
+      name: Conversational Classes
+      price: $55 / month
       languages:
-        - es
         - en
         - fr
         - de
       students: 5 to 7 students
-      hours: 6h / month
-      teacher: Live teacher
-      link: null
+      link: ~
     - id: kids
-      name: Children (6 to 12) courses
-      price: $59 / month
+      name: Courses for kids (6 to 12)
+      price: $49 / month
       languages:
         - en
         - fr
       students: 6 to 8 students
-      hours: 1.5h / week
-      teacher: Live teacher
-      link: null
-  footnote: <b>For more information</b>
+      link: ~
+  footnote: <b>If you need more information</b>
   contact_us: Contact us
 quote:
   content: >-
-    “People fail to get along because they fear each other; they fear each other
-    because they don't know each other; they don't know each other because they
-    have not communicated with each other.”
+    “People fail to get along because they fear each other; they fear each other because they don't know each other; they don't know each other because they have not communicated with each other.”
 slideshow:
   items:
-    - Become the bilingual person you want so much
-    - Study in another country to be more competitive
-    - Win a better salary in your country or abroad
-    - Travel without problems
-    - Learn a language just for pleasure or to meet new people
-    - Be part of an international organization
-    - Teach other students
+    - Learn to speak fluently in real-life situations 
+    - Teachers available to help and support you during your studies
+    - Teaching methods in accordance with the Common European Framework
+    - Learn about the culture and customs
+    - Speak effectively and appropriately in any situation
 team:
-  title: Some of our teachers
+  title: "Experienced teachers dedicated to your success"
   footnote: >-
-    Do you have a degree, mastery or doctorate in foreign languages or related
-    career?<br/>Do you have 4 years or more experience teaching language
-    classes?
+    Do you have a bachelor's, master's or doctoral degree in foreign languages or a related field? Do you have 4 or more years of experience teaching a language?
   apply: Apply
+  link: ~
   teachers:
     - name: Cecilia Carvallo
       image: team_p4
-      studies: Doctorate in modern letters
+      studies: PhD in Modern Letters
       story: >-
-        bish teacher. Cecilia gave bish classes at a school before finishing her
-        doctorate and starting teaching classes Linguistics at a very important
-        university in Mexico. He has also taught bish classes for foreigners
-        Remote via All their students have been very satisfied with their work
-        and have taken with it the preparation for Obtain the DELE
-        certification. Cecilia tells us that teaching is her passion and that
-        teaching culture and nuances of the bish language allows to quickly
-        acquire a lot of vocabulary and very useful expressions among the bish
-        speakers.
+        Cecilia is a Spanish teacher who taught Spanish at a high school before finishing her PhD and teaching linguistics at a very prestigious university in Mexico. She has also taught Spanish as a foreign language online. All of her students love her classes, and she has helped many students obtain the DELE certification. Cecilia is very passionate about teaching – especially about the nuances of the Spanish language and Latin American culture.
     - name: Paul Henri Eche
       image: team_p3
-      studies: Diploma in bish French Translation, Pro Fle
+      studies: Master in Spanish-French Translation and PRO FLE
       story: >-
-        Native French professor and interpreter, has been living in Mexico for
-        more than 20 years and teaching. He speaks perfectly bish and English.
-        You will learn the French language with its good humor and dynamism. He
-        will explain the origin of many words and expressions, he is passionate
-        about literature. He is also an expert in history and culture. He has
-        traveled around the world and loves to learn new languages Like the
-        Japanese. In addition, his drawings on the virtual board will surprise
-        you. 
+        Paul is a native French speaking teacher and interpreter who has been living and teaching in Mexico for more than 20 years, and he speaks Spanish and English fluently. Paul has a great sense of humor, and he has a very dynamic teaching style. During his classes, he will explain the meaning and origin of many useful words and expressions..  He is very passionate about literature, and he is an expert in history. He has traveled around the world, and he loves to learn new languages, including Japanese. Also, you will be impressed by his exceptional  drawing skills when he draws on the virtual blackboard!
     - name: Arturo Silva
       image: team_p2
-      studies: Master in Teaching English as Foreign Language, TKT
+      studies: Master in Teaching English as a Foreign Language and TKT.
       story: >-
-        English professor. Dedicated 100% to teaching, began his career in 2012.
-        During his classes he uses techniques to socialize in group since he has
-        adapted to work online. He loves to teach English with current topics
-        such as articles and videos to discuss in groups about the today's life.
-        He likes to put songs in his classes to explain grammatical structures.
-        It will also explain the culture and differences of English and American
-        lifestyle since it lived some years in the United States and England. 
+        Arturo is an experienced English teacher who started his teaching career in 2012.Arturo is 100% dedicated to teaching, and he has made a very successful transition to teaching online by using special techniques to facilitate group conversations and activities during his classes. He loves to teach English grammar and vocabulary in the context of interesting topics such as current events, and he likes to use authentic materials, including news articles and videos to have dynamic, interactive group discussions. Also, he likes to play songs during his classes to teach grammar, vocabulary and pronunciation. He will also explain the cultural differences that exist amongst Mexico, the U.S., and the U.K. since he has lived in all three countries.
     - name: Emmanuel Morales
       image: team_p1
-      studies: studies in Language Teaching and Electronics Engineering
+      studies: Certificate in language teaching and electronic engineering.
       story: >-
-        Professor of English and German with 18 years of experience. Emanuel has
-        certifications in both languages at level C1. He lived in Germany
-        several years where he studied to learn German and currently studies a
-        doctorate in England. He worked as a translation assistant at the German
-        embassy and has taught English and German classes in different
-        institutes and universities. He is the ideal teacher to learn languages
-        from beginner level Even advanced in a relaxed but studious environment.
-        Even to advise if you are studying an engineering. 
+        Emmanuel is an English and German teacher with 18 years of experience who has certifications in both languages at a C1 level. He lived in Germany for several years where he studied German. He worked as a translation assistant at the German embassy and has taught English and German at different high schools and universities. He is the ideal teacher to learn languages from a beginner to advanced level in a relaxed but structured learning environment. He can even teach you about engineering because he has a lot of knowledge about it.
 testimonials:
-  title: What they say about us
+  title: Hear from our students!
