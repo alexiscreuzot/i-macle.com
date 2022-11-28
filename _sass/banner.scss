@@ -35,9 +35,16 @@
       display:inline;
       line-height:86px;
       font-size:2rem;
+      transition: all 1s linear;
+
       color: black;
+      
       &:hover {
-        animation:anim_title 0.3s forwards;
+        background: $accent-color;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to bottom right, $accent-color, $complement-color);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to bottom right, $accent-color, $complement-color);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
       }
     }
   }
@@ -46,15 +53,6 @@
     font-weight: bold;
     font-family: $subtitle-font;
   }
-}
-
-/* Chrome, Safari, Opera */
-@-webkit-keyframes anim_title {
-    100% {letter-spacing: 2px;}
-}
-/* Standard syntax */
-@keyframes test {
-    100% {letter-spacing: 2px;}
 }
 
 #nav {

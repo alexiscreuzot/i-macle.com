@@ -108,9 +108,13 @@ a {
 .button {
 
   background: $accent-color;  /* fallback for old browsers */
-      
+  background: -webkit-linear-gradient(to right, $accent-color, $complement-color, $complement-color, $accent-color); 
+  background: linear-gradient(to right, $accent-color, $complement-color, $complement-color, $accent-color);
+  background-size: 300% 100%;
+
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
+
   font-family: sans-serif;
   color: white;
   border-radius: 360px;
@@ -124,14 +128,11 @@ a {
 
   box-shadow: 0 4px 6px rgba(0,0,0,.2);
 
-
   &:hover {
+    background-position: 100% 0;
     color: white;
-    background: $complement-color; 
     i {
-      
       animation: slide_right  0.3s forwards;
-      animation-direction:alternate;
     }
   }
 
