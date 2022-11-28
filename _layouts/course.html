@@ -17,7 +17,7 @@
       <h2><i class="icofont-group-students"></i>&nbsp;&nbsp;{{ course.title }}</h2>
       
       <div class="course">
-        {{ content }}
+        {{ course.content | markdownify }}
       </div>
     </div>
   </div>

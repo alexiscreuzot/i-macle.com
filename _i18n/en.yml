@@ -1,16 +1,15 @@
 global:
   lang: English
   title: iMacle, Online Language School in Latin America, United States and Canada.
-  description: >-
-    All of our classes are 100% online. Small-group classes taught by highly-trained teachers. We have four languages to choose from: English, French, Spanish and German.
-
-  keywords: >-
+  description: |
+    We have four languages to choose from: English, French, Spanish and German. All of our classes are 100% online. Small-group classes taught by highly-trained teachers.
+  keywords: |
     online courses, online courses, foreign languages, language school,
     latin america, United States, Canada.
   spanish: Spanish
   english: English
   french: French
-  subtitle: >-
+  subtitle: |
     THE MACLE INSTITUTE – MAKING PEOPLE MULTILINGUAL!
   read_more: Leer más
   read_less: Leer menos
@@ -22,6 +21,7 @@ global:
     - fr
     - de
   start: Get started
+
 header:
   baseline: "We are making people multilingual"
   cta: SEE COURSES
@@ -41,91 +41,145 @@ benefits:
 
 courses:
   title: Online courses
-  subtitle: ???
   footnote:
-    items:
-      - title: Academic Courses 
-      - title: Conversational Classes
-      - title: Courses for kids (6 to 12)
+  items:
+    - 
+      title: Academic Courses
+      content: |
+        **Do you want to speak fluently in a different language?**
+
+        If so, you’ve come to the right place! We have four languages to choose from: English, French, Spanish and German.
+        We offer academic courses for teenagers and adults from beginner to advanced levels (A1-C2).
+
+          - Six to eight students in each class.
+          - Lots of speaking practice during each class to improve your pronunciation, vocabulary and fluency.
+          - Llevarás una secuencia de aprendizaje.
+          - Experience total immersion by speaking to your teacher and classmates, watching videos, listening to audios, and reading.
+          - You will follow a study plan that will help you to improve and achieve a higher level.  
+          - You will receive a progress report at the end of each evaluation period with your results, a progress assessment and feedback.
+          - You will have extra, specialized support to improve your grammar and writing skills.
+          - Dynamic learning environment that will include playing games and doing virtual exercises.
+          - You will receive a Macle Institute certificate of completion at the end of the course.
+          - Excellent opportunity to achieve complete mastery of the language of your choice and speak like a native speaker.
+          
+        If you do not know your current level of the language you want to learn, we will send you a free placement test.
+    - 
+      title: Conversational Classes
+      content : |
+        **You want to improve your conversational skills by  talking to your teacher and students who have the same level as you?**
+
+        If so, we have the perfect classes for you. Four languages to choose from: English, French, Spanish and German, with classes available for teenagers and adults at levels A2,B1, and B2.
+
+          - Five to seven students in each class.
+          - Opportunity to discuss  interesting issues including current events, science, technology, history, art, business, education, entertainment, etc.
+          - You will also have a chance to teach your classmates about your home country and culture if you’d like.
+          - A teacher will attend each class to facilitate the conversations and answer questions. 
+          - In each class, you will analyze an article, video or podcast and answer some listening or reading comprehension questions, and afterwards, you will discuss your answers with your classmates.  
+          - You will be able to communicate in the language of your choice with confidence after having interesting and enjoyable conversations with your classmates.
+          - You will take a test to evaluate your speaking skills.
+          - You will be able to pass the speaking section of a certification exam more easily.
+    - 
+      title: Courses for kids between the ages of six and twelve
+      content: |
+        **Do you want your child to be multilingual and achieve more academic and professional success than other children?**
+
+        Studies have shown that it’s usually easier for young children to learn a new language than it is for teenagers and adults. Children who start learning a new language at a young age are more likely to:
+
+          - Achieve fluency and communicate effectively with people from all over the world.
+          - Receive scholarships to attend the best universities in the world, participate in international exchange programs, and obtain grant money and fellowships. 
+          - Gain access to the international job market, which usually leads to a very high salary.
+          - Start their own company  and expand its operations around the world.
+
+        **Your child will enjoy our classes much more than their classes at their elementary or middle school because our classes are much more dynamic and fun thanks to our unique teaching methods.**
+
+          - Six to eight students in each class.
+          - A teacher will be present at all times.
+          - Your child will improve their pronunciation and will develop  exceptional speaking skills by using an interactive platform which features audio exercises, games and songs. 
+          - Your child will learn about geography, history,science, etc. – this will allow your child to learn the new language in an important and useful context and give them a tremendous advantage during their academic and professional careers.
+          - Your child will receive a progress report at the end of each unit with their results, progress assessment and feedback.
+          - Your child will receive a coursebook and workbook at no additional cost, and they will do virtual exercises using a digital platform during class. 
+          - Each student will receive a Macle Institute certificate of completion at the end of the course.
 faq:
   title: FAQ
   subtitle: "Here are a few frequently asked questions about our online courses:"
   items:
     - q: What is Macle?
-      a: >-
+      a: |
        Macle is a 100% online Latin American institute dedicated to teaching languages – English, French, Spanish, and German. 
        We have well-trained, highly-experienced teachers, an academic coordinator,and a financial manager. 
        We are located in Mexico City, and we are one of the few language institutes that use the European methodology to teach its classes.
-        <br/><br/>
+        
         At our institute, you will learn languages using highly-advanced teaching methods that will help you to obtain an internationally-recognized certification. 
     - q: How can I register for a course?
-      a: >-
+      a: |
         To enroll for free, go to the "plans" section and click on the "Get started" button of the course you want to take – e.g., an academic course, a conversational class, or a course for children six to twelve years old.
-        <br/><br/>
+        
         This button will take you to a form in which you will fill in your contact information, choose which language you want to study (and at what level), and choose a SCHEDULE for your classes.
-        <br/><br/>
+        
         Once you finish filling out the form and submit it, we will contact you via email or phone to confirm the start date of your course and discuss the payment-method options that are available. 
         Once you have made your first payment, we will MAIL you a packet of materials containing information about starting your course(s), links to connect to the digital platform and your free book and workbook. 
         Also, we will contact you via WhatsApp to create a group that will include your teacher and new classmates. 
         IMPORTANT NOTE: the current wait time to receive the course materials is two to three business days due to the high volume of requests that we receive.
     - q: Are the teachers native speakers?
-      a: >-
+      a: |
         We have both native and non-native speaking teachers who are all certified in the language that they teach. All of our teachers go through a very extensive, thorough hiring process which involves several steps to ensure that they are highly qualified. Many of our teachers have post-graduate degrees and have several years of language-teaching experience.
     - q: Should I buy materials?
-      a: >-
+      a: |
         No. We provide you with all of the materials that you will need at no additional cost: a coursebook, a workbook and audios.
     - q: What are the classes like?
-      a: >-
+      a: |
         In English, French, Spanish and German classes, we use a variety of materials, including: videos, coursebooks, workbooks,audio files of dialogs,  fun games, flashcards, and several other dynamic, highly-interactive activities to practice speaking.
-        <br/><br/>
+        
         The teachers follow the units of the book in sequence in order to facilitate student evaluations. Each unit can last from four to six lessons, depending on the language and level.
     - q: What materials do you use to teach your classes?
-      a: >-
+      a: |
         In English classes, we use the Cambridge platform, which has given excellent results to millions of students around the world.
-        <br/><br/>
+        
         For French classes, we follow the methods of Maison de Langues – an internationally-recognized publishing house, which has won several awards for its teaching methods.        
-        <br/><br/>
+        
         Our Spanish teachers follow the Campus Diffusion digital manuals, which give them access to the materials published by the Instituto Cervantes – a public institution founded in Spain in 1991 to promote the teaching, study and use of Spanish and to help educate people around the world about Hispanic cultures.        
-        <br/><br/>
+        
         In our German classes, we follow Hueber's methods, which have been used for many years and have helped millions of students to achieve their goals.
     - q: Do you provide any proof of study?
-      a: >-
+      a: |
        Yes. We give you a progress report with feedback in PDF format at the end of each unit and a diploma at the end of each level.
     - q: Will I be able to obtain a certification at the end of a level?
-      a: >-
+      a: |
         No. We are not an authorized exam center, but we will help you to prepare for any of the internationally-recognized certification exams.
-        <br/><br/>
+        
         For English, we prepare you to obtain a Cambridge certification. 
         More than 25,000 organizations in 130 countries around the world recognize the Cambridge certifications as the most challenging and prestigious English-proficiency exams in the world. After you pass a Cambridge certification exam at a specific level, your results are valid for the rest of your life – you will never have to take the exam again.
-        <br/><br/>
+        
         In French, we prepare you to obtain the DELF and DALF, which are the official diplomas for French proficiency awarded by France Éducation International on behalf of the French Ministry of National Education.
-        <br/><br/>
+        
         For Spanish, we prepare you to obtain the DELE, which is granted by the Instituto Cervantes on behalf of the Spanish Ministry of Education, Culture and Sports.
-        <br/><br/>
+        
         For German, we prepare you to pass an exam given by Goethe-Institut, a cultural institution of the Federal Republic of Germany, which is dedicated to the dissemination of German language and culture around the world  it offers exams to certify your level of German in accordance with the e official German certificates (Goethe-Zertifikat) at all levels of the Common European Framework.
+
 mission:
   title: Our mission
-  description: >-
+  description: |
    At Macle Institute, our mission is to help our students improve their speaking, listening, reading and writing skills in the language of their choice (English, French, Spanish or German).
-    <br/><br/>
+    
     **We accomplish this by ensuring that our teachers use the most advanced and effective teaching methods advocated by the Common European Framework, including the use of an action-oriented and  communicative approach to prepare students for real-life situations.**
-      <br/><br/>
+      
       Our students  complete tasks and activities in class that simulate real-world, everyday situations – situations that would happen just like they would if the student was traveling or living abroad for work, school, or pleasure. In this way, our students are able to practice their language skills and apply what they’ve learned in meaningful, real-world contexts instead of trying to learn using outdated, ineffective, passive teaching methods such as lecturing students, requiring them to memorize lists of vocabulary words, and using drilling. 
-      <br/>
+      
       On the other hand, we also  utilize pedagogical sequences – i.e., each class is related to the next. We think that it is very important for students to master each topic before moving on to more advanced topics – we accomplish this by reviewing the topics from previous classes and including them in future classes because studies have shown that repetition is a very powerful learning tool.
-    <br/>
+    
     In addition, students improvise dialogues about their lives, engage in conversations, and do role-play exercises with their classmates in order to practice their speaking and listening skills for real-life situations. 
   director:
     name: Carolina Ojeda
     title:  Academic Director
     studies:  Master in Education and Training, DALF, PRO FLE, TKT
     story:
-      catch: >-
+      catch: |
        Learning a language was the best decision of my life. Several years ago, I went to France, and I learned French and learned about French culture.I traveled all over Europe – I ate delicious food, and I got paid in euros which allowed me to stay in France for several years. I met new people from all over the world, including my husband. During this time, I decided to live out my dream of  starting a private language institute to give people the same opportunities and enjoy the same experiences that I had.
-      content: >-
+      content: |
         I started my teaching career in 2013 – I taught French in public and private universities in Mexico. After teaching French in Mexico for a few years, I decided to apply for a scholarship as a Spanish foreign language assistant in France. Later, I obtained a master’s degree in education and training in Montpellier where I worked as a Spanish teacher in a public  high school.
-        <br/>
+        
         The great education and incredible experiences that I had in France has given me the opportunity to share the knowledge that I acquired with students and colleagues here in Mexico – especially my knowledge of the teaching methodologies used by the Council of Europe and my exceptional management skills.
+
 prices:
   title: Choose a learning plan that’s right for you
   more: More information
@@ -157,21 +211,24 @@ prices:
         - fr
       students: 6 to 8 students
       link: ~
-  footnote: <b>If you need more information</b>
+  footnote: <b>For more information</b>
   contact_us: Contact us
+
 quote:
-  content: >-
-    “People fail to get along because they fear each other; they fear each other because they don't know each other; they don't know each other because they have not communicated with each other.”
+  author: Kirill Korshikov
+  content: “Never stop learning because life never stops teaching”
+
 slideshow:
   items:
     - Learn to speak fluently in real-life situations 
     - Teachers available to help and support you during your studies
     - Teaching methods in accordance with the Common European Framework
-    - Learn about the culture and customs
+    - Learn about culture and customs
     - Speak effectively and appropriately in any situation
+
 team:
   title: "Experienced teachers dedicated to your success"
-  footnote: >-
+  footnote: |
     Do you have a bachelor's, master's or doctoral degree in foreign languages or a related field? Do you have 4 or more years of experience teaching a language?
   apply: Apply
   link: ~
@@ -179,22 +236,23 @@ team:
     - name: Cecilia Carvallo
       image: team_p4
       studies: PhD in Modern Letters
-      story: >-
+      story: |
         Cecilia is a Spanish teacher who taught Spanish at a high school before finishing her PhD and teaching linguistics at a very prestigious university in Mexico. She has also taught Spanish as a foreign language online. All of her students love her classes, and she has helped many students obtain the DELE certification. Cecilia is very passionate about teaching – especially about the nuances of the Spanish language and Latin American culture.
     - name: Paul Henri Eche
       image: team_p3
       studies: Master in Spanish-French Translation and PRO FLE
-      story: >-
+      story: |
         Paul is a native French speaking teacher and interpreter who has been living and teaching in Mexico for more than 20 years, and he speaks Spanish and English fluently. Paul has a great sense of humor, and he has a very dynamic teaching style. During his classes, he will explain the meaning and origin of many useful words and expressions..  He is very passionate about literature, and he is an expert in history. He has traveled around the world, and he loves to learn new languages, including Japanese. Also, you will be impressed by his exceptional  drawing skills when he draws on the virtual blackboard!
     - name: Arturo Silva
       image: team_p2
       studies: Master in Teaching English as a Foreign Language and TKT.
-      story: >-
+      story: |
         Arturo is an experienced English teacher who started his teaching career in 2012.Arturo is 100% dedicated to teaching, and he has made a very successful transition to teaching online by using special techniques to facilitate group conversations and activities during his classes. He loves to teach English grammar and vocabulary in the context of interesting topics such as current events, and he likes to use authentic materials, including news articles and videos to have dynamic, interactive group discussions. Also, he likes to play songs during his classes to teach grammar, vocabulary and pronunciation. He will also explain the cultural differences that exist amongst Mexico, the U.S., and the U.K. since he has lived in all three countries.
     - name: Emmanuel Morales
       image: team_p1
       studies: Certificate in language teaching and electronic engineering.
-      story: >-
+      story: |
         Emmanuel is an English and German teacher with 18 years of experience who has certifications in both languages at a C1 level. He lived in Germany for several years where he studied German. He worked as a translation assistant at the German embassy and has taught English and German at different high schools and universities. He is the ideal teacher to learn languages from a beginner to advanced level in a relaxed but structured learning environment. He can even teach you about engineering because he has a lot of knowledge about it.
+
 testimonials:
   title: Hear from our students!
