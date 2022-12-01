@@ -24,9 +24,9 @@
           {% endfor %}
         </div>
         <div class="row">{{ plan["students"] }}</div>
-        {% if plan.link %}
+        {% if plan.cognito_id %}
         <div class="row">
-          <a class="button" href="{{ plan['link'] }}" target="_blank">{% t global.start %}<i class="icofont-rounded-right"></i></a>
+          <a class="button" href="{{ site.baseurl }}/course-{{ plan['id'] }}#form">{% t global.start %}<i class="icofont-rounded-right"></i></a>
           <br/>
         </div>
         {% endif %}

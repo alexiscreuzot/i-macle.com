@@ -256,6 +256,7 @@ prices:
   starting_at: Desde
   plans:
     - id: academic
+      cognito_id: 2
       name: Cursos Académicos
       price: MXN 525 / mes
       languages:
@@ -263,8 +264,8 @@ prices:
         - fr
         - de
       students: 6 a 8 alumnos
-      link: https://forms.gle/o2do1nqECnVC5kt38
     - id: conversational
+      cognito_id: 1
       name: Cursos de Conversación
       price: MXN 550 / mes
       languages:
@@ -272,15 +273,14 @@ prices:
         - fr
         - de
       students: 5 a 7 alumnos
-      link: https://forms.gle/ykbV1cZgSu6NJ3gq9
     - id: kids
+      cognito_id: 3
       name: Cursos para niños
       price: MXN 525 / mes
       languages:
         - en
         - fr
       students: 6 a 8 alumnos
-      link: https://forms.gle/AMvUFEifrRK4j6UM8
   footnote: <b>Si requieres más información</b>
   contact_us: Habla con nosotros
 

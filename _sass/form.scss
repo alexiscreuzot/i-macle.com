@@ -1,0 +1,64 @@
+#form {
+    min-height: 400px;
+    form {
+        padding: 3rem;
+    }
+}
+
+:root:root:root:root:root .cog-branding--minimal *{
+ opacity: 0.7 !important;
+}
+
+:root:root:root:root:root .cog-cognito--styled .cog-button--secondary{
+    color: $accent-color;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-weight: 800;
+    font-size:0.8rem;
+    border: none;
+    &:hover {
+        border: none; 
+    }
+}
+
+:root:root:root:root:root .cog-cognito--styled .cog-button--primary {
+
+  background: $accent-color;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, $accent-color, $complement-color, $complement-color, $accent-color); 
+  background: linear-gradient(to right, $accent-color, $complement-color, $complement-color, $accent-color);
+  background-size: 300% 100%;
+
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+
+  font-family: sans-serif;
+  color: white;
+  border-radius: 360px;
+  display: inline-block;
+  padding: 8px 20px 7px;
+  
+  text-decoration: none;
+  text-transform:uppercase;
+  font-weight: 800;
+  font-size:0.8rem;
+  border: none;
+
+  box-shadow: 0 4px 6px rgba(0,0,0,.2);
+
+  span {
+    padding: 4px;
+  }
+
+  &:hover {
+    background-position: 100% 0;
+    color: white;
+    i {
+      animation: slide_right  0.3s forwards;
+    }
+  }
+
+  @keyframes slide_right {
+      100% {margin-left: 6px;}
+  }
+}
+

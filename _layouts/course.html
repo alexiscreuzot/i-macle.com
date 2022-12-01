@@ -12,8 +12,6 @@
   <div id="courses" class="section">
     <div class="container">
 
-      <br/><br/>
-
       <h2><i class="icofont-group-students"></i>&nbsp;&nbsp;{{ course.title }}</h2>
       
       <div class="course">
@@ -44,26 +42,35 @@
           </div>
           <div class="row">{{ plan["students"] }}</div>
 
-          {% if plan.link %}
+          {% if plan.cognito_id %}
           <div class="row">
-            <a id="academic" class="button" href="{{ plan['link'] }}" target="_blank">{% t global.start %}<i class="icofont-rounded-right"></i></a>
+            <a class="button" href="#form">{% t global.start %}<i class="icofont-arrow-down"></i></a>
+          </div>
+          {% else %}
+          <div class="row">
+            <a class="button">Coming soon</a>
           </div>
           {% endif %}
         </div>
       </div>
 
       <div style="clear:both;"></div>
-      <br/><br/>
-
-      <div class="centered">
-         <p>
-          <small>{% t prices.footnote %}</small><br/>
-          <a class="button contact" href="https://bit.ly/3GnoHCn" target="_blank">{% t prices.contact_us  %}&nbsp;&nbsp;<i class="icofont-whatsapp"></i></a>
-        </p>
-      </div>
+      <br/>
 
     </div>
   </div>
+
+    {% if plan.cognito_id %}
+    <div id="form" class="section">
+      <div class="container">
+        <script src="https://www.cognitoforms.com/f/seamless.js"
+           data-key="yNRU0goCO0O9ivM65aiOmw" 
+           data-form="{{ plan.cognito_id }}">
+        </script>
+      </div>
+    </div>
+    {% endif %}
+
   {% endif %}
 
   {% include footer.html %}

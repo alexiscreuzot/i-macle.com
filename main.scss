@@ -2,38 +2,9 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@font-face {
-    font-family: 'Adam-Bold';
-    src: url(assets/fonts/Adam-Bold.ttf) format('truetype');
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Adam-Medium';
-    src: url(assets/fonts/Adam-Medium.ttf) format('truetype');
-    font-display: swap;
-}
-
-@import url('https://fonts.cdnfonts.com/css/noto-sans');
-@import url('assets/fonts/icofont/icofont.css');
-
-$body-font : 'Helvetica', sans-serif;
-$logo-font: 'Adam-Medium', sans-serif;
-$title-font: 'Adam-Bold', sans-serif;
-$subtitle-font: 'Noto Sans', sans-serif;
-
-$accent-color: desaturate(darken(royalblue, 10%), 15%);
-$accent-light: lighten($accent-color, 50%);
-$complement-color: desaturate(darkorchid, 15%);
-$green-color: darken(mediumseagreen, 10%);
-$yellow-color: gold;
-$text-color1 : darken(slategray, 25%);
-$text-color2 : darken(slategray, 10%);
-$white-faded1 : rgba(white, 0.85);
-$white-faded2 : rgba(white, 0.65);
-$white-faded3 : rgba(white, 0.45);
-
 @import 
     "_reset",
+    "_variables",
     "_base",
     "banner",
     "header",
