@@ -1,5 +1,6 @@
 global:
-  lang: English
+  current_lang: English
+  current_lang_id: en
   title: iMacle, Online Language School in Latin America, United States and Canada.
   description: |
     We have four languages to choose from: English, French, Spanish and German. All of our classes are 100% online. Small-group classes taught by highly-trained teachers.

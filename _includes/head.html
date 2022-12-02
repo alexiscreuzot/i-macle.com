@@ -1,13 +1,13 @@
 <head>
 	<meta charset="utf-8" />
-	<title>{% t global.description %}</title>
+	<title>{% t global.title %}</title>
 	<meta name="description" content="{% t global.description %}">
 	<meta name="keywords" content="{% t global.keywords %}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta property="og:title" content="{{ site.title }}">
-	<meta property="og:description" content="{{ site.description }}">
-	<meta property="og:image" content="./assets/images/thumbnail.webp">
-	<meta property="og:url" content="https://i-macle.com/index.html">
+	<meta property="og:title" content="{% t global.title %}">
+	<meta property="og:description" content="{% t global.description %}">
+	<meta property="og:image" content="./assets/images/share_{% t global.current_lang_id %}.jpeg">
+	<meta property="og:url" content="https://i-macle.com">
 	<link rel="icon" type="image/x-icon" href="{{ "/assets/images/favicon.ico" | prepend: site.baseurl_root }}"/>
 	<link rel="stylesheet" href="{{ "/main.css" | prepend: site.baseurl_root }}"/>
 

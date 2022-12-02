@@ -1,5 +1,6 @@
 global:
-  lang: Français
+  current_lang: Français
+  current_lang_id: fr
   title: Imacle, école de langues en ligne
   description: >-
     Cours en ligne pour les adolescents et les adultes enseignés par des

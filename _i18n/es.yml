@@ -1,5 +1,6 @@
 global:
-  lang: Español
+  current_lang: Español
+  current_lang_id: es
   title: iMacle, Escuela de idiomas en línea
   description: |
     Creamos personas bilingües Clases en línea en vivo INGLÉS • FRANCÉS • ALEMÁN
