@@ -5,8 +5,16 @@
     }
 }
 
+html .cog-page-progress ol, :root:root:root:root:root .cog-page-progress ol {
+    display: inline-block;
+    text-align: center;
+}
+
 :root:root:root:root:root .cog-branding--minimal *{
- opacity: 0.7 !important;
+ opacity: 0.5 !important;
+ &:hover {
+  opacity: 1.0 !important;;
+ }
 }
 
 :root:root:root:root:root .cog-cognito--styled .cog-button--secondary{
