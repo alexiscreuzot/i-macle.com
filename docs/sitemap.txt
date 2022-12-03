@@ -1,6 +1,6 @@
 http://www.i-macle.com/index.html
-http://www.i-macle.com/icourse-academic.html
-http://www.i-macle.com/icourse-conversational.html
-http://www.i-macle.com/icourse-kids.html
+http://www.i-macle.com/course-academic.html
+http://www.i-macle.com/course-conversational.html
+http://www.i-macle.com/course-kids.html
 http://www.i-macle.com/team.html
 http://www.i-macle.com/mission.html
