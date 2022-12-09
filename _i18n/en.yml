@@ -186,6 +186,7 @@ prices:
   starting_at: Starting at 
   plans:
     - id: academic
+      cognito_id: 5
       name: Academic Courses
       price: $49 / month
       languages:
@@ -195,6 +196,7 @@ prices:
       students: 6 to 8 students
       link: ~
     - id: conversational
+      cognito_id: 4
       name: Conversational Classes
       price: $55 / month
       languages:
@@ -204,6 +206,7 @@ prices:
       students: 5 to 7 students
       link: ~
     - id: kids
+      cognito_id: 6
       name: Courses for kids (6 to 12)
       price: $49 / month
       languages:
