@@ -3,24 +3,22 @@
     <div id="imacle">
       <div id="logo"></div>
       <div class="title"><a href="./index.html"><h1>iMACLE</h1></a></div>
-    
-
-    <div id="nav">
-      <div class="languages">
-        <ul>
-          <li><i class="icofont-globe"></i><span class="selected">{% t global.current_lang %} <i class="icofont-rounded-down"></i></span>
-            <ul>
-                {% capture link_es %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
-                <li><a href="{{ link_es }}"><i class="flag es"></i><span>Español</span></a></li>
-                {% capture link_en %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
+      <div id="nav">
+        <div class="languages">
+          <ul>
+            <li><i class="icofont-globe"></i><span class="selected">{% t global.current_lang %} <i class="icofont-rounded-down"></i></span>
+              <ul>
+                {% capture link_en %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
                 <li><a href="{{ link_en }}"><i class="flag en"></i><span>English</span></a></li>
+                {% capture link_es %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
+                <li><a href="{{ link_es }}"><i class="flag es"></i><span>Español</span></a></li>
                 {% capture link_fr %}{{ site.baseurl_root }}/fr{{ page.url}}{% endcapture %}
                 <li><a href="{{ link_fr }}"><i class="flag fr"></i><span>Français</span></a></li>
-            </ul>
-          </li>
-        </ul>
+              </ul>
+            </li>
+          </ul>
+        </div>
       </div>
-    </div>
     </div>
   </div>
 </div>

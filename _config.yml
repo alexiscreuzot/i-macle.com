@@ -5,7 +5,7 @@
 plugins:
   - jekyll-multiple-languages-plugin
 
-languages: ["es", "en", "fr"]
+languages: ["en", "es", "fr"]
 exclude_from_localizations: ["CNAME","assets", "docs", "resources", "LICENSE", "README", "robots.txt", "sitemap.txt"]
 
 # Set the Sass partials directory, as we're using @imports

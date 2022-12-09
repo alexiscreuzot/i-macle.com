@@ -23,7 +23,7 @@ global:
     - fr
     - de
 header:
-  baseline: Bientôt disponible
+  baseline: Bientôt disponible !
   items: []
 slideshow:
   items:
