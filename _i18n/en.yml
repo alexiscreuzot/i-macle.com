@@ -12,10 +12,10 @@ global:
   french: French
   subtitle: |
     THE MACLE INSTITUTE – MAKING PEOPLE MULTILINGUAL!
-  read_more: Leer más
-  read_less: Leer menos
-  about: A Propósito
-  social: Redes sociales
+  read_more: Read more
+  read_less: Read less
+  about: About
+  social: Social
   languages:
     - es
     - en
