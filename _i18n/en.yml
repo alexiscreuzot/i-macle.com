@@ -190,7 +190,7 @@ prices:
       name: Academic Courses
       price: $49 / month
       languages:
-        - en
+        - es
         - fr
         - de
       students: 6 to 8 students
@@ -200,7 +200,7 @@ prices:
       name: Conversational Classes
       price: $55 / month
       languages:
-        - en
+        - es
         - fr
         - de
       students: 5 to 7 students
@@ -210,7 +210,7 @@ prices:
       name: Courses for kids (6 to 12)
       price: $49 / month
       languages:
-        - en
+        - es
         - fr
       students: 6 to 8 students
       link: ~
