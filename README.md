@@ -32,6 +32,7 @@ Once the prerequisites have been installed, you can begin the installation proce
 ## Usage
 
 Once the static website is built, you can begin modifying the files to customize the website.
+Generated files are automatically put in the `docs` directory.
 
 * **_config.yml:** This file contains the configuration information for the website.
 * **index.html:** This file is the main page of the website.
@@ -39,7 +40,11 @@ Once the static website is built, you can begin modifying the files to customize
 * **_posts:** This directory contains the blog posts for the website.
 * **_includes:** This directory contains reusable HTML snippets for the website.
 
+### Localization
+
+For localization we use [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin).
+All localized content is located in the `_i18n` folder.
+
 ## Deployment
 
-Generated files are automatically put in the `docs` directory.
-Once you are done customizing the website,you just have to push it to the `main` branch for it to be deployed through Github pages.
+GitHub Pages will automatically build and deploy the site when changes are pushed to the `main` branch.
