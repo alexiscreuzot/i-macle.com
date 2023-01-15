@@ -9,10 +9,15 @@
     li {
       display: inline-block;
       margin: 10px 16px;
-      opacity: 0.4;
        img {
-        max-height: 40px;
+        transition: all 0.3s;
+        opacity: 0.4;
+        max-height: 46px;
         filter: grayscale(100%);
+        &:hover {
+          opacity: 1;
+          filter:none;
+        }
        }
     }
   }
