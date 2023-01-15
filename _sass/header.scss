@@ -41,7 +41,6 @@
         font-family: Impact;
         font-size: 3.5em;
         
-
         background: $accent-color;  /* fallback for old browsers */
         background: -webkit-linear-gradient(to bottom right, $accent-color, $complement-color);  /* Chrome 10-25, Safari 5.1-6 */
         background: linear-gradient(to bottom right, $accent-color, $complement-color);
@@ -59,10 +58,6 @@
           color: $text-color1;
           font-weight: bold;
         }
-      }
-
-      span {
-        color:red;
       }
 
       li::before {

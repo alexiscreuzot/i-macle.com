@@ -52,7 +52,7 @@ courses:
     necesitas para organizar tu forma de estudio.
   items:
     - 
-      title: Cursos académicos
+      title: Clases de Idiomas
       content: |
         **Clases para adolescentes y adultos desde principiante hasta avanzado (A1-C2)**
 
@@ -68,7 +68,7 @@ courses:
 
          Si no conoces el nivel que tienes del idioma que deseas aprender, te enviamos un examen de ubicación gratuito.
     - 
-      title: Cursos de conversación
+      title: Clases de conversación
       content : |
         Fortalece tus conocimientos con las sesiones de conversación para adolescentes y adultos con un nivel principiante (A2), intermedio (B1) o avanzado (B2) que deseen expresar su opinión, debatir  y fomentar su cultura general siguiendo temas recientes sobre el mundo entero. Elige entre: inglés, francés, español y alemán.
         
@@ -80,7 +80,7 @@ courses:
           - Tendrás un test para evaluar tu progreso en expresión oral continua y expresión oral en interacción.
           - Podrás aprobar una certificación más fácilmente acelerando tu nivel.
     - 
-      title: Cursos para niños 6 a 12 años
+      title: Clases para niños 6 a 12 años
       content: |
         **Aprender inglés o francés es mucho más fácil cuando empiezas a temprana edad. Si tu hijo(a) comienza ahora se volverá experto(a) para:**
 
@@ -252,13 +252,13 @@ mission:
         dirigir el instituto. 
 
 prices:
-  title: ¡Inscripciones abiertas para toda América Latina!
+  title: Clases con profesores en vivo
   more: Mas información
   starting_at: Desde
   plans:
     - id: academic
       cognito_id: 2
-      name: Cursos Académicos
+      name: Clases de Idiomas
       price: MXN 525 / mes
       languages:
         - en
@@ -267,7 +267,7 @@ prices:
       students: 6 a 8 alumnos
     - id: conversational
       cognito_id: 1
-      name: Cursos de Conversación
+      name: Clases de Conversación
       price: MXN 550 / mes
       languages:
         - en
@@ -276,7 +276,7 @@ prices:
       students: 5 a 7 alumnos
     - id: kids
       cognito_id: 3
-      name: Cursos para niños
+      name: Clases para niños
       price: MXN 525 / mes
       languages:
         - en

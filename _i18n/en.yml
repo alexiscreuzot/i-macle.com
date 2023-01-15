@@ -188,7 +188,7 @@ prices:
     - id: academic
       cognito_id: 5
       name: Academic Courses
-      price: $49 / month
+      price: $105 / month
       languages:
         - es
         - fr
@@ -198,7 +198,7 @@ prices:
     - id: conversational
       cognito_id: 4
       name: Conversational Classes
-      price: $55 / month
+      price: $96 / month
       languages:
         - es
         - fr
@@ -208,7 +208,7 @@ prices:
     - id: kids
       cognito_id: 6
       name: Courses for kids (6 to 12)
-      price: $49 / month
+      price: $105 / month
       languages:
         - es
         - fr
