@@ -100,6 +100,33 @@ courses:
           - Adquirirá nuevas competencias.
           - Llevará en clase un método digital con ejercicios virtuales más un libro y un cuaderno de ejercicios que se le mandarán en formato digital sin costo alguno.
           - Entrega de constancia al finalizar el curso.
+    - 
+      title: Clases individuales
+      content: |
+        ### Ventajas
+        - Aprende un idioma en tiempo récord, a tu ritmo y en el horario que más te convenga.
+        - Te damos acceso a los métodos más usados a nivel internacional, los cuales le han funcionado a millones de estudiantes.
+        - Nosotros seleccionamos entre nuestros profesores altamente capacitados, al más indicado de acuerdo a tus objetivos. De esta forma evitas malos profesores que te hacen perder tiempo y dinero
+        - Instituto Macle supervisará las clases y te mandará las evaluaciones. Después de cada evaluación recibirás un control de progreso y una constancia al terminar cada nivel. Todo esto para que obtengas los mejores resultados, siempre presentándote atención y orientación continua.
+        
+        **Idiomas:** Inglés o francés o ambos.
+        
+        **Nivel:** desde el A1 básico hasta el B2 avanzado
+       
+        **Horas de clase:** 2 horas por semana. ¡Tú y tu profesor(a) ponen el día y la hora!
+
+        ### Proceso
+        Al tomar las clases individuales recibirás los mejores recursos educativos en tu MAIL  
+        - Acceso a la plataforma virtual interactiva con contenido exclusivo juegos virtuales, ejercicios, videos, y otros recursos.
+        - Libro digital con explicaciones gramaticales, diálogos, lecturas y ejercicios para aprender vocabulario y entablar conversaciones. 
+        - Fichas de estudio para una mayor comprensión del vocabulario y la gramática.
+        - Cuaderno de ejercicios para repasar todo lo que vayas aprendiendo.
+        - Audios, esenciales para aprender rápidamente el idioma que elijas..
+        - Flashcards del nivel e idioma que elijas. 
+        
+        Antes de mandarte el contenido verificamos tu edad y tu nivel en el idioma, esto es para poder mandarte el contenido y los métodos más adecuados para ti. 
+        En el caso de los niños, el padre, madre o tutor(a) se encargará de recibir la información y hacerla llegar al niño(a).
+        Si deseas más horas de clase por semana con tu profesor, puedes comprar un paquete de horas extra de 3 horas, 5 horas o 10 horas, las veces que quieras.
 
 faq:
   title: FAQ
@@ -276,12 +303,21 @@ prices:
       students: 5 a 7 alumnos
     - id: kids
       cognito_id: 3
-      name: Clases para niños
+      name: Clases para Niños
       price: MXN 525 / mes
       languages:
         - en
         - fr
       students: 6 a 8 alumnos
+    - id: individual
+      cognito_id: 7
+      name: Clases Individuales
+      price: MXN 2,100 / mes
+      languages:
+        - en
+        - fr
+        - de
+      students: Individual
   footnote: <b>Si requieres más información</b>
   contact_us: Habla con nosotros
 

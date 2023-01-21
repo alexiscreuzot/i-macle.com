@@ -35,17 +35,7 @@
       display:inline;
       line-height:86px;
       font-size:2rem;
-      transition: all 1s linear;
-
       color: black;
-      
-      &:hover {
-        background: $accent-color;  /* fallback for old browsers */
-        background: -webkit-linear-gradient(to bottom right, $accent-color, $complement-color);  /* Chrome 10-25, Safari 5.1-6 */
-        background: linear-gradient(to bottom right, $accent-color, $complement-color);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-      }
     }
   }
 

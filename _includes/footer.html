@@ -8,7 +8,6 @@
           {% for item in site.translations[site.lang].prices.plans %}
           <li><a href="{{ site.baseurl }}/course-{{ item['id'] }}">{{ item["name"] }}</a></li>
           {% endfor %}
-          <li><a href="{{ site.baseurl }}/index#prices">{% t prices.title %}</a></li>
         </ul>
       </div>
       {% endif %}

@@ -23,23 +23,15 @@
   }
 
   .columns-wrapper {
-    width: 900px;
-    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
-  /* Create three columns of equal width */
   .columns {
-    float: left;
-    width: 300px;
-    padding: 12px;
-  }
-
-  .columns-center {
-    display: none;
-    float: none;
-    margin: auto;
-    width: 300px;
-    padding: 12px;
+    text-align: center;
+    flex: 0 0 calc(33% - 12px);
+    padding: 36px 12px;
   }
 
   .button.contact {
@@ -74,6 +66,11 @@
           background: url("assets/images/kids.webp") no-repeat;
           background-size: cover;
           background-position: center center;
+        }
+        &.individual {
+          background: url("assets/images/individual.webp") no-repeat;
+          background-size: cover;
+          background-position: center top;
         }
 
         height: 180px;
@@ -129,6 +126,7 @@
     &:hover {
       border-radius: 10px;
       box-shadow: 0 6px 15px rgba(0, 0, 20, 0.3);
+      scale: 1.03;
       .more {
         max-height: 500px;
       }
@@ -202,10 +200,8 @@
 
     .columns-wrapper {
       width: 100%;
-      .columns {
-        width: 90%;
-        margin: auto;
-        float: none;
+      .columns, .columns-center {
+        flex: 0 0 calc(100%);
         .more {
           max-height: 500px;
         }

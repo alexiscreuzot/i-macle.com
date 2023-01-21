@@ -44,10 +44,13 @@
         transform: rotate(0deg) scale(1);
         color: $accent-color;
       }
-
+      .name {
+        transition: 0.3s;
+      }
+      
       &:hover {
         .name {
-          animation: slide_right  0.3s forwards;
+          translate: 8px 0;
         }
       }
 

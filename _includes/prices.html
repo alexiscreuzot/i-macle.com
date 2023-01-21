@@ -35,37 +35,9 @@
     </a>
     {% endfor %}
     </div>
-    <div style="clear:both;"></div>
 
-    <br><br>
-
-    <a href="{{ site.baseurl }}/course-{{ plan['id'] }}" title="{{ plan['name'] }}">
-    <div class="columns-center scale-up show-once">
-      <div class="plan">
-        <div class="row header">Individual</div>
-        <div class="row image {{ plan['id'] }}">
-          <div class="price">
-            <small>{% t prices.starting_at %}</small>
-            99
-            <div class="more">{% t prices.more %}</div>
-          </div>
-        </div>
-        <div class="row">
-          {% for lang in global.languages %}
-          <i class="flag {{ lang }}"></i>
-          {% endfor %}
-        </div>
-        <div class="row">
-          <a class="button" href="{{ site.baseurl }}/course-{{ plan['id'] }}#form">{% t global.start %}<i class="icofont-rounded-right"></i></a>
-          <br/>
-        </div>
-      </div>
-    </div>
-    </a>
     <div style="clear:both;"></div>
-    
-    <br/>
-   
+       
     <div class="centered">
       <p>
         <small>{% t prices.footnote %}</small><br/>
