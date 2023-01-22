@@ -59,7 +59,8 @@
           transform: rotate(45deg) scale(1.1);
         }
         .more {
-          max-height: 9999px;
+          max-height: 2000px;
+          transition: max-height 0.5s ease-in-out;
         }
       }
 
@@ -68,7 +69,7 @@
         font-weight: 200;
         max-height: 0px;
         overflow-y: hidden;
-        transition: all 800ms cubic-bezier(0.540, 0.010, 0.020, 0.995); /* custom */
+        transition: max-height 0.5s cubic-bezier(0, 1, 0, 1);
 
         span {
           font-family: $subtitle-font;
