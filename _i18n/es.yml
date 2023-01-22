@@ -312,7 +312,7 @@ prices:
     - id: individual
       cognito_id: 7
       name: Clases Individuales
-      price: MXN 2,100 / mes
+      price: MXN 2,400 / mes
       languages:
         - en
         - fr
