@@ -286,36 +286,36 @@ prices:
   more: Mas información
   starting_at: Desde
   plans:
-    - id: academic
-      cognito_id: 2
-      name: Clases de Idiomas
-      price: MXN 525 / mes
-      languages:
-        - en
-        - fr
-        - de
-      students: 6 a 8 alumnos
-    - id: conversational
-      cognito_id: 1
-      name: Clases de Conversación
-      price: MXN 550 / mes
-      languages:
-        - en
-        - fr
-        - de
-      students: 5 a 7 alumnos
-    - id: kids
-      cognito_id: 3
-      name: Clases para Niños
-      price: MXN 525 / mes
-      languages:
-        - en
-        - fr
-      students: 6 a 8 alumnos
+    # - id: academic
+    #   cognito_id: 2
+    #   name: Clases de Idiomas
+    #   price: MXN 525 / mes
+    #   languages:
+    #     - en
+    #     - fr
+    #     - de
+    #   students: 6 a 8 alumnos
+    # - id: conversational
+    #   cognito_id: 1
+    #   name: Clases de Conversación
+    #   price: MXN 550 / mes
+    #   languages:
+    #     - en
+    #     - fr
+    #     - de
+    #   students: 5 a 7 alumnos
+    # - id: kids
+    #   cognito_id: 3
+    #   name: Clases para Niños
+    #   price: MXN 525 / mes
+    #   languages:
+    #     - en
+    #     - fr
+    #   students: 6 a 8 alumnos
     - id: individual
       cognito_id: 7
       name: Clases Individuales
-      price: MXN 2,400 / mes
+      price: $USD 18 / hora
       languages:
         - en
         - fr

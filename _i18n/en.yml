@@ -99,6 +99,34 @@ courses:
           - Your child will receive a progress report at the end of each unit with their results, progress assessment and feedback.
           - Your child will receive a coursebook and workbook at no additional cost, and they will do virtual exercises using a digital platform during class. 
           - Each student will receive a Macle Institute certificate of completion at the end of the course.
+    -
+      title: Individual classes
+      content: |
+        ### Children, adolescents and adults
+
+        **Languages:** Spanish, French or both.
+      
+        **Level:** from basic A1 to advanced B2
+      
+        ### Advantages
+      
+        - Learn a language in record time, at your own pace and at the time that suits you best.
+        - We give you access to the most used platforms internationally, which have worked for millions of students.
+        - We select among our highly trained teachers, the most suitable according to your objectives. In this way you avoid bad teachers who make you waste time and money.
+        - Macle institute will supervise the classes and will send you the evaluations. After each evaluation you will receive a progress control and a certificate at the end of each level. All this so that you obtain the best results, always presenting you with continuous attention and guidance.
+      
+        ### Process
+        By taking individual classes you will receive the best educational resources by email:
+        - Access to the interactive virtual platform with exclusive content, virtual games, exercises, videos, and other resources.
+        - Digital book with grammar explanations, dialogues, readings and exercises to learn vocabulary and start conversations.
+        - Study sheets for a better understanding of vocabulary and grammar.
+        - Exercise book to review everything you learn.
+        - Audios, essential to quickly learn the language of your choice.
+        - Flashcards of the level and language you choose.
+      
+        Before sending you the content we verify your age and your level in the language, this is to be able to send you the content and the most appropriate methods for you.
+        In the case of children, the father, mother or guardian will be in charge of receiving the information and sending it to the child.
+        If you want more hours of class per week with your teacher, you can buy a package of extra hours of 3 hours, 5 hours or 10 hours, as many times as you want.
 faq:
   title: FAQ
   subtitle: "Here are a few frequently asked questions about our online courses:"
@@ -185,35 +213,43 @@ prices:
   more: More information
   starting_at: Starting at 
   plans:
-    - id: academic
-      cognito_id: 5
-      name: Academic Courses
-      price: $105 / month
+    # - id: academic
+    #   cognito_id: 5
+    #   name: Academic Courses
+    #   price: $105 / month
+    #   languages:
+    #     - es
+    #     - fr
+    #     - de
+    #   students: 6 to 8 students
+    #   link: ~
+    # - id: conversational
+    #   cognito_id: 4
+    #   name: Conversational Classes
+    #   price: $96 / month
+    #   languages:
+    #     - es
+    #     - fr
+    #     - de
+    #   students: 5 to 7 students
+    #   link: ~
+    # - id: kids
+    #   cognito_id: 6
+    #   name: Courses for kids (6 to 12)
+    #   price: $105 / month
+    #   languages:
+    #     - es
+    #     - fr
+    #   students: 6 to 8 students
+    #   link: ~
+    - id: individual
+      cognito_id: 7
+      name: Individual classes
+      price: $USD 18 / hour
       languages:
-        - es
+        - en
         - fr
-        - de
-      students: 6 to 8 students
-      link: ~
-    - id: conversational
-      cognito_id: 4
-      name: Conversational Classes
-      price: $96 / month
-      languages:
-        - es
-        - fr
-        - de
-      students: 5 to 7 students
-      link: ~
-    - id: kids
-      cognito_id: 6
-      name: Courses for kids (6 to 12)
-      price: $105 / month
-      languages:
-        - es
-        - fr
-      students: 6 to 8 students
-      link: ~
+      students: Individual
   footnote: <b>For more information</b>
   contact_us: Contact us
 
