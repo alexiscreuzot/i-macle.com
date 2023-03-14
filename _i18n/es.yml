@@ -323,7 +323,7 @@ prices:
   starting_at: Desde
   plans:
     - id: individual-adults
-      cognito_id: 7
+      cognito_id: 9
       name: Adultos
       price: $USD 16 / hour
       languages:
@@ -333,7 +333,7 @@ prices:
       students: Individual
 
     - id: individual
-      cognito_id: 7
+      cognito_id: 10
       name: Niños y adolescentes
       price: $USD 16 / hour
       languages:
