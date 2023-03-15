@@ -325,7 +325,7 @@ prices:
     - id: individual-adults
       cognito_id: 9
       name: Adultos
-      price: $USD 16 / hour
+      price: $USD 18 / hour
       languages:
         - en
         - fr
@@ -335,7 +335,7 @@ prices:
     - id: individual
       cognito_id: 10
       name: Niños y adolescentes
-      price: $USD 16 / hour
+      price: $USD 18 / hour
       languages:
         - en
         - fr
