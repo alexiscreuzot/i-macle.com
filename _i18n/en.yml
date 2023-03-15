@@ -256,7 +256,7 @@ prices:
   starting_at: Starting at 
   plans:
     - id: individual-adults
-      cognito_id: 11
+      cognito_id: 13
       name: Adults
       price: $USD 18 / hour
       languages:
@@ -266,7 +266,7 @@ prices:
       students: Individual
 
     - id: individual
-      cognito_id: 12
+      cognito_id: 14
       name: Children and teenagers
       price: $USD 18 / hour
       languages:
