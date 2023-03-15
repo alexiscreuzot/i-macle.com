@@ -446,3 +446,8 @@ team:
 
 testimonials:
   title: Lo que dicen de nosotros
+
+payment:
+  title: Tu información ha sido registrada ✅
+  subtitle: Ahora compra tus clases en línea haciendo CLIK en una de las siguientes opciones
+  stripe_link_id: prctbl_1MldNkHYqBoU7ageyJwJoOVP 

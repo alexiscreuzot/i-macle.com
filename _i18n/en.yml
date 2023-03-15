@@ -256,7 +256,7 @@ prices:
   starting_at: Starting at 
   plans:
     - id: individual-adults
-      cognito_id: 9
+      cognito_id: 11
       name: Adults
       price: $USD 18 / hour
       languages:
@@ -266,7 +266,7 @@ prices:
       students: Individual
 
     - id: individual
-      cognito_id: 10
+      cognito_id: 12
       name: Children and teenagers
       price: $USD 18 / hour
       languages:
@@ -348,3 +348,8 @@ team:
 
 testimonials:
   title: Hear from our students!
+
+payment:
+  title: Your information have been saved ✅
+  subtitle: You can now select one of the following plans
+  stripe_link_id: prctbl_1MldNkHYqBoU7ageyJwJoOVP 
