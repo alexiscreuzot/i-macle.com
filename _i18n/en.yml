@@ -25,11 +25,11 @@ global:
 
 header:
   baseline: "We are making people multilingual"
-  cta: SEE COURSES
   items:
     - 100% online
-    - Small-groups 
-    - Highly-trained teachers
+    - Private one-to-one classes 
+    - Native-speaking instructors 
+  cta: LEARN MORE
   
 benefits:
   title: Why is Macle right for me?
@@ -312,11 +312,10 @@ quote:
 
 slideshow:
   items:
-    - Learn to speak fluently in real-life situations 
-    - Teachers available to help and support you during your studies
-    - Teaching methods in accordance with the Common European Framework
-    - Learn about culture and customs
-    - Speak effectively and appropriately in any situation
+    - Highly-trained teachers.
+    - Customized courses focused on your needs.
+    - Our method is conversation based.
+
 
 team:
   title: "Experienced teachers dedicated to your success"
@@ -352,4 +351,4 @@ testimonials:
 payment:
   title: Your information have been saved ✅
   subtitle: You can now select one of the following plans
-  stripe_link_id: prctbl_1MldNkHYqBoU7ageyJwJoOVP 
+  stripe_link_id: prctbl_1MlktNHYqBoU7age1PWDMyjl 

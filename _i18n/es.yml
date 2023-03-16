@@ -28,11 +28,11 @@ global:
 
 header:
   baseline: Creamos personas bilingües
-  cta: Ver cursos
   items:
     - Clases 100% en linea
-    - Grupos pequeños
-    - Profesores altamente capacitados
+    - Clases individuales
+    - Profesores nativos
+  cta: MÁS INFORMACIÓN
 
 benefits:
   title: ¿Por qué Instituto Macle es perfecto para mí?
@@ -378,13 +378,10 @@ quote:
 
 slideshow:
   items:
-    - Conviértete en la persona bilingüe que tanto deseas
-    - Estudia en otro país para ser más competitivo
-    - Gana un mejor salario en tu país o en el extranjero
-    - Viaja sin problemas
-    - Aprende un idioma solo por gusto o para conocer gente nueva
-    - Sé parte de una organización internacional
-    - Enseña a otros estudiantes
+    - Profesores altamente capacitados.
+    - Clases personalizadas y enfocadas en tus necesidades.
+    - Nuestro método se basa en la conversación.
+
 
 team:
   title: Algunos de Nuestros Profesores
