@@ -31,4 +31,22 @@ ScrollReveal().reveal(".scale-up", {
         $(this).toggleClass("show");
     });
 
+    function getQueryParams() {
+      var qs = window.location.search.substring(1).split('+').join(' ');
+      var params = {},
+          tokens,
+          re = /[?&]?([^=]+)=([^&]*)/g;
+      while (tokens = re.exec(qs)) {
+          params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
+      }
+      return params;
+    }
+    var params = getQueryParams()
+    console.log(params);
+      
+    for (var key in params) {
+      var shouldShow = params[key] == "1";
+      document.getElementById(key).style.display = shouldShow ? "block" : "none";
+    }
+
 })();

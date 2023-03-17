@@ -7,13 +7,12 @@
 
   {% include banner.html %}
 
-    
   <div class="wrapper">
     <div class="section">
         
         <div class="container">
-            <h3>{% t payment.title %}</h3>
-            <p>{% t payment.subtitle %}</p>
+            <h4 id="confirmation" style="display: none;">{% t payment.title %}</h4>
+            <h3>{% t payment.subtitle %}</h3>
             <br>
             <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
             <stripe-pricing-table pricing-table-id="{% t payment.stripe_link_id %}"
@@ -21,9 +20,8 @@
             </stripe-pricing-table>
         </div>
     </div>
-</div>
-   
-
+  </div>
+  
 
   {% include footer.html %}
 
