@@ -33,10 +33,17 @@ h2 {
 
 h3 {
   font-family: $subtitle-font, serif;
- color: $text-color1;
+  color: $text-color1;
   font-size: 1.4rem;
   padding: 1rem 0;
   font-weight: bold;
+}
+
+h4 {
+  padding: 1rem 0 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: $text-color2;
 }
 
 ul {
@@ -178,6 +185,7 @@ i.flag {
   h3 {
     font-size: 1.3rem;
   }
+
   p, li {
     font-size: 1.1rem;
   }
