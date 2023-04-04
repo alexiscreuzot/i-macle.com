@@ -1,9 +1,11 @@
 global:
   current_lang: English
   current_lang_id: en
-  title: iMacle, Online Language School in Latin America, United States and Canada.
+  title: Macle Institute, Online Language School. Native-speaking instructors
   description: |
-    We have four languages to choose from: English, French, Spanish and German. All of our classes are 100% online. Small-group classes taught by highly-trained teachers.
+    One-on-one, online, live, dynamic classes for all ages and all levels. 
+    Learn English, Spanish or French at your own pace while following a schedule that works best for you. 
+    We will match you with a certified teacher who will provide you with highly-personalized lesson plans that will help you to achieve your specific goals. 
   keywords: |
     online courses, online courses, foreign languages, language school,
     latin america, United States, Canada.
@@ -186,7 +188,7 @@ faq:
        We have well-trained, highly-experienced teachers, an academic coordinator,and a financial manager. 
        We are located in Mexico City, and we are one of the few language institutes that use the European methodology to teach its classes.
         
-        At our institute, you will learn languages using highly-advanced teaching methods that will help you to obtain an internationally-recognized certification. 
+       At our institute, you will learn languages using highly-advanced teaching methods that will help you to obtain an internationally-recognized certification. 
     - q: How can I register for a course?
       a: |
         To enroll for free, go to the "plans" section and click on the "Get started" button of the course you want to take – e.g., an academic course, a conversational class, or a course for children six to twelve years old.
