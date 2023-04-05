@@ -174,103 +174,54 @@ courses:
     #       - Entrega de constancia al finalizar el curso.
     
 faq:
-  title: FAQ
-  subtitle: Si tienes dudas, acláralas con nuestras preguntas frecuentes
+  title: "FAQ"
+  subtitle: "Si tienes dudas, acláralas con nuestras preguntas frecuentes"
   items:
-    - q: ¿Qué es Macle?
+    - q: "¿Qué es Macle?"
       a: |
-        Macle es un instituto latinoamericano 100% en línea dedicado a la
-        enseñanza de idiomas (inglés, francés, español). Contamos con un
-        coordinador académico, dirección y finanzas. Nos encontramos en la
-        Ciudad  de México y somos uno de los pocos institutos que usan la
-        metodología europea para impartir sus clases.
-
-        En nuestro instituto aprenderás idiomas siguiendo métodos reconocidos a nivel mundial y
-        podrás prepararte para obtener una certificación.
-    - q: ¿Cómo puedo inscribirme a un curso?
+        **Macle es un instituto online dedicado a la enseñanza de idiomas - inglés, francés y español.**\
+        Contamos con profesores altamente cualificados y con un coordinador académico. En nuestro instituto aprenderás idiomas utilizando métodos de enseñanza muy avanzados que te ayudarán a obtener una certificación reconocida internacionalmente. 
+        
+        Somos uno de los pocos institutos de idiomas que utiliza la metodología europea para impartir sus clases.
+    - q: "¿Cómo puedo inscribirme a un curso?"
       a: |
-        Para inscribirte sin costo ve a la parte “planes” haz click en el botón
-        “me inscribo” del curso que deseas (curso académico, curso de
-        conversación, cursos para niños 6 - 12 años).
-
-        Este botón “me inscribo” te llevará a un formulario. Allí debes llenar tus datos de
-        contacto, escoger el idioma y el nivel que deseas estudiar. También
-        deberás escoger un HORARIO.
-
-        Una vez que termines de llenar el formulario y lo mandes, nosotros te contactaremos vía mail o vía
-        telefónica para darte la fecha de inicio de tu curso y los métodos de
-        pago. Una vez hecho tu primer pago recibirás instrucciones vía MAIL para
-        comenzar tu curso, enlaces para conectarte a la plataforma y tu material
-        gratuito. Además te contactaremos vía WhatsApp para crear un grupo con
-        tus nuevos compañeros y tu profesor. IMPORTANTE: el tiempo de espera
-        para recibir el MAIL, una vez completado tu formulario, es de 2 a 3
-        días, debido a la cantidad de solicitudes que tenemos.
-    - q: ¿Los profesores son nativos?
+       Para inscribirte ve a la sección "Clases individuales en línea para niños, adolescentes y adultos". Elige cuántas clases deseas adquirir y procede a pagar a través de nuestra web con tu tarjeta de crédito o débito. **Aceptamos pagos a través del método de pago Stripe.**\
+       &nbsp;\
+       Una vez realizado el pago, deberás rellenar un formulario con tus datos de contacto y seleccionar el idioma que quieres estudiar, así como el nivel.\
+       Una vez enviado el formulario, podrás reservar tu primera clase a través de nuestro calendario. Podrás añadir tus clases a tu calendario personal.\
+       &nbsp;\
+       También recibirás una invitación para comunicarte con tu profesor a través de **Google Chat**. Recuerda descargar la aplicación **Google Chat** y **Google Meet** para unirte a tus clases los días programados.
+    - q: "¿Los profesores son nativos?"
       a: |
-        Contamos con profesores nativos y no nativos, todos certificados en el
-        idioma que imparten. Todos nuestros profesores, tanto nativos como no
-        nativos pasan por un proceso de selección con varios filtros. Además
-        cuentan con estudios superiores y experiencia en la enseñanza de
-        idiomas.
-    - q: ¿Debo comprar material?
+        Nuestros profesores son nativos y cuentan con certificaciones en el idioma que imparten. Todos nuestros profesores pasan por un exhaustivo proceso de contratación que incluye varios pasos para garantizar al alumno que están altamente cualificados. Muchos de nuestros profesores tienen títulos de postgrado y varios años de experiencia en la enseñanza de idiomas.
+    - q: "¿Debo comprar material?"
       a: |
         No. Te proporcionamos el material que necesitas para aprender: libro,
         cuaderno de ejercicios y audios para practicar. Esto es sin costo
-        alguno.
-    - q: ¿Cómo son las clases?
+        alguno."
+    - q: "¿Cómo son las clases?"
       a: |
-        En clase de inglés, francés, español o alemán usamos documentos como
-        videos, textos, audios de conversaciones, juegos interactivos,
-        flashcards y actividades especiales para la expresión oral continua y en
-        interacción (conversación).
-
-        Los profesores siguen las secuencias del libro para realizar una evaluación. Cada secuencia
-        (unidad didáctica) puede durar de 4 a 6 clases, dependiendo del nivel y
-        del idioma. 
-    - q: ¿Qué material usan para dar las clases?
+       Las clases particulares son personalizadas y se adaptan 100% a tus objetivos, a tus necesidades y a tus condiciones de horario.\
+       &nbsp;\
+       Puedes elegir cualquier día y hora y cambiar tu horario cuando lo desees mientras lo hagas con al menos 24 horas de anticipación. 
+       En las clases de **inglés, francés y español**, utilizamos una gran variedad de materiales, entre los que se incluyen: vídeos, libros de texto, cuadernos de ejercicios, archivos de audio con diálogos, juegos y  otras actividades dinámicas y muy interactivas para practicar la expresión oral.
+    - q: "¿Qué material usan para dar las clases?"
       a: |
-        En las clases de inglés contamos con la plataforma de Cambridge, la cual
-        le ha dado excelentes resultados a millones de estudiantes alrededor del
-        mundo.
-
-        En francés seguimos los métodos de Maison de Langues, editorial reconocida a nivel mundial, la cual ha ganado varios premios por sus métodos de enseñanza.
-
-        En español seguimos los manuales digitales de Campus difusión que nos dan acceso a la enseñanza del
-        Instituto Cervantes, institución pública creada en España en 1991 para
-        promover universalmente la enseñanza, el estudio y el uso del español y
-        contribuir a la difusión de las culturas hispánicas en el
-        exterior.
-
-        En alemán seguimos los métodos de Hueber, los cuales
-        han sido utilizados desde hace muchos años y han formado a millones de
-        alumnos quienes han obtenido muy buenos resultados.
-    - q: ¿Entregan alguna constancia de estudio?
+        **Los profesores utilizan materiales creados por ellos mismos**. Además se apoyan de los siguientes recursos educativos: 
+        - En las clases de **inglés**, usan la plataforma Cambridge, que ha dado excelentes resultados a millones de estudiantes en todo el mundo.
+        - Para las clases de **francés**, usan los métodos de la Maison de Langues, una editorial reconocida internacionalmente, que ha ganado varios premios por sus métodos de enseñanza. 
+        - Nuestros profesores de **español** siguen los manuales digitales de Campus Diffusion, que les dan acceso a los materiales publicados por el Instituto Cervantes - una institución pública fundada en España en 1991 para promover universalmente la enseñanza, el estudio y el uso del español y contribuir a la difusión de las culturas hispánicas en el exterior.
+    - q: "¿Entregan alguna constancia de estudio?"
       a: |
         Sí, te otorgamos un control de progreso con retroalimentación en formato
         PDF al finalizar cada unidad y un diploma al finalizar cada nivel.
-    - q: ¿Podré obtener una certificación al finalizar un nivel?
+    - q: "¿Podré obtener una certificación al finalizar un nivel?"
       a: |
-        No somos aplicadores de exámenes para obtener certificaciones pero te
-        preparamos para las certificaciones de manera gratuita.
-
-        En inglés te preparamos para obtener una certificación de Cambridge. Estas
-        certificaciones no expiran así que al obtener una la obtendrás de por
-        vida.
-
-        En francés te preparamos para obtener el DELF y el DALF que
-        son los diplomas oficiales que acreditan tu nivel de dominio del idioma
-        francés, los cuales son otorgados por France Éducation International por
-        parte del Ministerio Francés de Educación Nacional.
-
-        En español te preparamos para obtener el DELE que otorga el Instituto Cervantes, por
-        parte del Ministerio de Educación, Cultura y Deporte de España.
-
-        En alemán te preparamos para pasar un examen de Goethe-Institut,
-        institución cultural de la República Federal de Alemania, dedicada a la
-        difusión de la lengua y la cultura alemana en el mundo. Ofrece exámenes
-        para conseguir acreditar tu nivel de alemán a través de los certificados
-        de alemán (Goethe-Zertifikat) de todos los niveles del Marco Común
-        Europeo.
+        No somos aplicadores de exámenes autorizados, pero te ayudaremos a prepararte para los exámenes de certificación más reconocidos internacionalmente. 
+        
+        - En **inglés**, te preparamos para obtener las certificaciones de Cambridge, TOEFL, IELTS, ESOL, CAE. 
+        - En **francés** te preparamos para obtener el DELF y el DALF que son los diplomas oficiales que acreditan tu nivel de dominio del idioma francés, los cuales son otorgados por France Éducation International por parte del Ministerio Francés de Educación Nacional. 
+        - En **español** te preparamos para obtener el DELE que otorga el Instituto Cervantes, por parte del Ministerio de Educación, Cultura y Deporte de España."
 
 mission:
   title: Nuestra misión
