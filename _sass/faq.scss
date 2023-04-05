@@ -71,6 +71,10 @@
         overflow-y: hidden;
         transition: max-height 0.5s cubic-bezier(0, 1, 0, 1);
 
+        .content {
+          padding-bottom: 20px;
+        }
+
         span {
           font-family: $subtitle-font;
           padding: 1rem 0 0.2rem;
@@ -81,18 +85,19 @@
 
         p {
           margin: 0;
-          padding: 0 1rem 2rem;
+          padding: 0 1rem;
           font-size: 1rem;
           color: $text-color1;
         }
 
         ul {
-          margin-top: 0; 
-          padding-top: 0;
+          margin: 0; 
+          margin-right: 20px;
         }
 
         li {
-          font-size: 1.1rem;
+          color: $text-color1;
+          font-size: 1rem;
         }
 
       }

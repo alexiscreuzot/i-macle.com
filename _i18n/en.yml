@@ -178,62 +178,54 @@ courses:
     #       - Your child will receive a progress report at the end of each unit with their results, progress assessment and feedback.
     #       - Your child will receive a coursebook and workbook at no additional cost, and they will do virtual exercises using a digital platform during class. 
     #       - Each student will receive a Macle Institute certificate of completion at the end of the course.
+
 faq:
   title: FAQ
   subtitle: "Here are a few frequently asked questions about our online courses:"
   items:
     - q: What is Macle?
       a: |
-       Macle is a 100% online Latin American institute dedicated to teaching languages – English, French, Spanish, and German. 
-       We have well-trained, highly-experienced teachers, an academic coordinator,and a financial manager. 
-       We are located in Mexico City, and we are one of the few language institutes that use the European methodology to teach its classes.
-        
-       At our institute, you will learn languages using highly-advanced teaching methods that will help you to obtain an internationally-recognized certification. 
+       Macle is an online institute dedicated to teaching languages – English, French, and Spanish. We have well-trained, highly-experienced teachers and an academic coordinator.\
+       &nbsp;\
+       At our institute, you will learn languages using highly-advanced teaching methods that will help you to obtain an internationally-recognized certification. We are one of the few language institutes that use the European methodology to teach its classes.
     - q: How can I register for a course?
       a: |
-        To enroll for free, go to the "plans" section and click on the "Get started" button of the course you want to take – e.g., an academic course, a conversational class, or a course for children six to twelve years old.
-        
-        This button will take you to a form in which you will fill in your contact information, choose which language you want to study (and at what level), and choose a SCHEDULE for your classes.
-        
-        Once you finish filling out the form and submit it, we will contact you via email or phone to confirm the start date of your course and discuss the payment-method options that are available. 
-        Once you have made your first payment, we will MAIL you a packet of materials containing information about starting your course(s), links to connect to the digital platform and your free book and workbook. 
-        Also, we will contact you via WhatsApp to create a group that will include your teacher and new classmates. 
-        IMPORTANT NOTE: the current wait time to receive the course materials is two to three business days due to the high volume of requests that we receive.
+        To enroll, go to the "Individual online classes" section and click on "Get started". Choose how many classes you would like to purchase, and proceed to pay through our website using your credit or debit card. We accept payments through the Stripe payment method.\
+        &nbsp;\
+        After you have made your payment, you will need to fill out a form with your contact information and select the language you wish to study, as well as your desired level.\
+        &nbsp;\
+        Once you have submitted the form, you must book your first class through our calendar system. You can add the class to your personal calendar and you will receive an invitation to connect with your teacher via **Google Chat**. Please remember to download the **Google Chat app** and **Google Meet** to join the class on the scheduled day.
+
     - q: Are the teachers native speakers?
       a: |
-        We have both native and non-native speaking teachers who are all certified in the language that they teach. All of our teachers go through a very extensive, thorough hiring process which involves several steps to ensure that they are highly qualified. Many of our teachers have post-graduate degrees and have several years of language-teaching experience.
+        We have native speaking teachers who are all certified in the language that they teach. All of our teachers go through a very extensive, thorough hiring process which involves several steps to ensure that they are highly qualified. Many of our teachers have post-graduate degrees and have several years of language-teaching experience.
     - q: Should I buy materials?
       a: |
         No. We provide you with all of the materials that you will need at no additional cost: a coursebook, a workbook and audios.
     - q: What are the classes like?
       a: |
-        In English, French, Spanish and German classes, we use a variety of materials, including: videos, coursebooks, workbooks,audio files of dialogs,  fun games, flashcards, and several other dynamic, highly-interactive activities to practice speaking.
-        
-        The teachers follow the units of the book in sequence in order to facilitate student evaluations. Each unit can last from four to six lessons, depending on the language and level.
+        Private One-on-One online lessons are 100% tailored to suit your goals and needs, and can be scheduled at a location and time that is convenient for you.
+        You can choose any day and change your timetable, but changes must be made at least 24 hours in advance.\
+        In our English, French, and Spanish classes, we use a variety of materials, including videos, coursebooks, workbooks, audio files of dialogues, fun games, flashcards, and other dynamic, highly interactive activities to practice speaking.
+
     - q: What materials do you use to teach your classes?
       a: |
-        In English classes, we use the Cambridge platform, which has given excellent results to millions of students around the world.
-        
-        For French classes, we follow the methods of Maison de Langues – an internationally-recognized publishing house, which has won several awards for its teaching methods.        
-        
-        Our Spanish teachers follow the Campus Diffusion digital manuals, which give them access to the materials published by the Instituto Cervantes – a public institution founded in Spain in 1991 to promote the teaching, study and use of Spanish and to help educate people around the world about Hispanic cultures.        
-        
-        In our German classes, we follow Hueber's methods, which have been used for many years and have helped millions of students to achieve their goals.
+        Our teachers use their own materials, and to support their classes, they use:
+        - In **English classes**, the Cambridge platform, which has given excellent results to millions of students around the world.
+        - For **French classes**, they follow the methods of Maison de Langues – an internationally-recognized publishing house, which has won several awards for its teaching methods.
+        - Our **Spanish teachers** follow the Campus Diffusion digital manuals, which give them access to the materials published by the Instituto Cervantes – a public institution founded in Spain in 1991 to promote the teaching, study and use of Spanish and to help educate people around the world about Hispanic cultures
+
     - q: Do you provide any proof of study?
       a: |
-       Yes. We give you a progress report with feedback in PDF format at the end of each unit and a diploma at the end of each level.
+       Yes. We give you a progress report with feedback in PDF format at the end of each unit, and a diploma at the end of each level.
     - q: Will I be able to obtain a certification at the end of a level?
       a: |
         No. We are not an authorized exam center, but we will help you to prepare for any of the internationally-recognized certification exams.
         
-        For English, we prepare you to obtain a Cambridge certification. 
+        - For **English**, we prepare you to obtain a Cambridge certification. 
         More than 25,000 organizations in 130 countries around the world recognize the Cambridge certifications as the most challenging and prestigious English-proficiency exams in the world. After you pass a Cambridge certification exam at a specific level, your results are valid for the rest of your life – you will never have to take the exam again.
-        
-        In French, we prepare you to obtain the DELF and DALF, which are the official diplomas for French proficiency awarded by France Éducation International on behalf of the French Ministry of National Education.
-        
-        For Spanish, we prepare you to obtain the DELE, which is granted by the Instituto Cervantes on behalf of the Spanish Ministry of Education, Culture and Sports.
-        
-        For German, we prepare you to pass an exam given by Goethe-Institut, a cultural institution of the Federal Republic of Germany, which is dedicated to the dissemination of German language and culture around the world  it offers exams to certify your level of German in accordance with the e official German certificates (Goethe-Zertifikat) at all levels of the Common European Framework.
+        - In **French**, we prepare you to obtain the DELF and DALF, which are the official diplomas for French proficiency awarded by France Éducation International on behalf of the French Ministry of National Education.
+        - For **Spanish**, we prepare you to obtain the DELE, which is granted by the Instituto Cervantes on behalf of the Spanish Ministry of Education, Culture and Sports.
 
 mission:
   title: Our mission
