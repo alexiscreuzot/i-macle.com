@@ -199,3 +199,36 @@ i.flag {
   from { opacity: 0; }
   to   { opacity: 1; }
 }
+
+div.logos {
+  padding: 40px 0 0px;
+  text-align: center;
+  display: block;
+  ul {padding: 0;}
+  li {
+    display: inline-block;
+    margin: 10px 16px;
+     img {
+      transition: all 0.3s;
+      opacity: 0.4;
+      max-height: 46px;
+      filter: grayscale(100%);
+      &:hover {
+        opacity: 1;
+        filter:none;
+      }
+     }
+  }
+}
+
+@media only screen and (max-width: 900px) {
+
+  div.logos {
+    li {
+      margin: 4px 8px;
+       img {
+        max-height: 30px;
+       }
+    }
+  }
+}

@@ -149,7 +149,7 @@ We will match you with a certified teacher who will provide you with highly-pers
 
           
           <div class="row">
-            <a class="button" href="#form">Get started<i class="icofont-arrow-down"></i></a>
+            <a class="button" href="#stripe">Get started<i class="icofont-arrow-down"></i></a>
           </div>
           
         </div>
@@ -162,14 +162,25 @@ We will match you with a certified teacher who will provide you with highly-pers
   </div>
 
   
-  <div id="form" class="section">
-    <div class="container">
-      <script src="https://www.cognitoforms.com/f/seamless.js"
-          data-key="yNRU0goCO0O9ivM65aiOmw" 
-          data-form="13">
-      </script>
-    </div>
+  <div id= "stripe" style="text-align: center; margin: 3rem 0 2rem;">
+    <h3>Please select one of the following plans</h3>
   </div>
+  
+  <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+  <stripe-pricing-table pricing-table-id="prctbl_1MlktNHYqBoU7age1PWDMyjl"
+  publishable-key="pk_live_51MkA0fHYqBoU7agenJrdfC1qZNAUfcbO7DuHGwpA2YCj3gAsru5mLj499Ln5iK6d3h6eBIRLLigpqmK059nze6T400AiNP2wRj">
+  </stripe-pricing-table>
+
+  <div class="logos">
+    <ul>
+      <li><img src="/assets/images/logo_cambridge.png"></li>  
+      <li><img src="/assets/images/logo_mdf.png"></li> 
+      <li><img src="/assets/images/logo_hueber.png"></li> 
+      <li><img src="/assets/images/logo_cervantes.png"></li> 
+    </ul>
+  </div>
+
+  <br/>
   
 
   

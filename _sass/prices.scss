@@ -1,27 +1,6 @@
 #prices {
   background: $accent-light;
 
-  div.logos {
-    padding: 40px 0 0px;
-    text-align: center;
-    display: block;
-    ul {padding: 0;}
-    li {
-      display: inline-block;
-      margin: 10px 16px;
-       img {
-        transition: all 0.3s;
-        opacity: 0.4;
-        max-height: 46px;
-        filter: grayscale(100%);
-        &:hover {
-          opacity: 1;
-          filter:none;
-        }
-       }
-    }
-  }
-
   .columns-wrapper {
     display: flex;
     flex-wrap: wrap;
@@ -188,15 +167,6 @@
   /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
   @media only screen and (max-width: 900px) {
-
-    div.logos {
-      li {
-        margin: 4px 8px;
-         img {
-          max-height: 30px;
-         }
-      }
-    }
 
     .columns-wrapper {
       width: 100%;
