@@ -404,3 +404,8 @@ payment:
   title: Tu información ha sido registrada ✅
   subtitle: Escoge una de las siguientes opciones
   stripe_link_id: prctbl_1MldNkHYqBoU7ageyJwJoOVP 
+
+form:
+  title: Gracias por tu pago
+  subtitle: Por favor completa el siguiente formulario
+  form_id: 14
