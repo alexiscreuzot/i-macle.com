@@ -33,3 +33,8 @@ slideshow:
     - Rencontrez des personnes d'autres horizons
     - Faites partie d'une organisation internationale
     - Enseignez à d'autres étudiants
+
+form:
+  title: Merci pour votre paiement
+  subtitle: Veuillez completer le formulaire suivant
+  form_id: 14

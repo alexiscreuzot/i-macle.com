@@ -252,7 +252,7 @@ mission:
         The great education and incredible experiences that I had in France has given me the opportunity to share the knowledge that I acquired with students and colleagues here in Mexico – especially my knowledge of the teaching methodologies used by the Council of Europe and my exceptional management skills.
 
 prices:
-  title: Individual online classes
+  title: Online classes
   more: More information
   starting_at: Starting at 
   plans:
@@ -357,3 +357,7 @@ form:
   title: Thank you for your payment
   subtitle: Please fill the following form to give us more information about your level
   form_id: 14
+
+confirmation:
+  title: Thank you, your information have been saved ✅
+  subtitle: We will contact you to schedule your first class
