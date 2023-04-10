@@ -264,7 +264,7 @@ prices:
         - en
         - fr
         - es
-      students: Individual
+      students: One-to-one
 
     - id: individual
       cognito_id: 14
@@ -274,7 +274,7 @@ prices:
         - en
         - fr
         - es
-      students: Individual
+      students: One-to-one
     # - id: academic
     #   cognito_id: 5
     #   name: Academic Courses
@@ -349,15 +349,15 @@ testimonials:
   title: Hear from our students!
 
 payment:
-  title: Your information have been saved ✅
+  title: ✅ Your information have been saved 
   subtitle: Please select one of the following plans
   stripe_link_id: prctbl_1MlktNHYqBoU7age1PWDMyjl 
 
 form:
-  title: Thank you for your payment
+  title: ✅ Thank you for your payment
   subtitle: Please fill the following form to give us more information about your level
-  form_id: 14
+  cognito_id: 14
 
 confirmation:
-  title: Thank you, your information have been saved ✅
+  title: ✅ Thank you, your information have been saved 
   subtitle: We will contact you to schedule your first class

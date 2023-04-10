@@ -287,7 +287,7 @@ prices:
         - en
         - fr
         - es
-      students: Individual
+      students: Clases particulares
 
     - id: individual
       cognito_id: 10
@@ -297,7 +297,7 @@ prices:
         - en
         - fr
         - es
-      students: Individual
+      students: Clases particulares
     # - id: academic
     #   cognito_id: 2
     #   name: Clases de Idiomas
@@ -401,11 +401,15 @@ testimonials:
   title: Lo que dicen de nosotros
 
 payment:
-  title: Tu información ha sido registrada ✅
+  title: ✅ Tu información ha sido registrada
   subtitle: Escoge una de las siguientes opciones
   stripe_link_id: prctbl_1MldNkHYqBoU7ageyJwJoOVP 
 
 form:
-  title: Gracias por tu pago
+  title: ✅ Gracias por tu pago
   subtitle: Por favor completa el siguiente formulario
-  form_id: 14
+  cognito_id: 9
+
+confirmation:
+  title: ✅ Thank you, your information have been saved
+  subtitle: We will contact you to schedule your first class

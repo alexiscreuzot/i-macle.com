@@ -52,13 +52,13 @@
           background-position: center top;
         }
 
-        height: 180px;
+        height: 150px;
         position: relative;
         padding: 0;
       }
 
       .price {
-        display: block;
+        display: none;
         width: 100%;
         background-color: rgba(255, 255, 255, 0.6);
         backdrop-filter: blur(10px);

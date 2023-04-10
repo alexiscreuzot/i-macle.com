@@ -7,16 +7,16 @@
 
   {% include banner.html %}
 
+  {% assign cognito_id = site.translations[site.lang].form.cognito_id  %}
   <div class="wrapper">
     <div class="section">
         <div class="container">
             <h4 id="confirmation" style="display: none;">{% t form.title %}</h4>
             <h3>{% t form.subtitle %}</h3>
-            <script src="https://www.cognitoforms.com/f/seamless.js" data-key="yNRU0goCO0O9ivM65aiOmw" data-form="14"></script>
+            <script src="https://www.cognitoforms.com/f/seamless.js" data-key="yNRU0goCO0O9ivM65aiOmw" data-form="{{ cognito_id }}"></script>
         </div>
     </div>
   </div>
-  
 
   {% include footer.html %}
 

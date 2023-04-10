@@ -37,4 +37,4 @@ slideshow:
 form:
   title: Merci pour votre paiement
   subtitle: Veuillez completer le formulaire suivant
-  form_id: 14
+  cognito_id: 14
