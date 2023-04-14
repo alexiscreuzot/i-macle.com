@@ -1,40 +1,282 @@
 global:
   current_lang: Français
   current_lang_id: fr
-  title: Imacle, école de langues en ligne
-  description: >-
-    Cours en ligne pour les adolescents et les adultes enseignés par des
-    enseignants certifiés. Plus de 10 ans d'expérience. Groupes dynamiques de 5
-    à 8 étudiants. Méthode d'enseignement selon le cadre européen commun.
-    Apprenez à communiquer efficacement pour se développer dans la vraie vie. De
-    nombreux horaires disponibles. Coûts accessibles.
-  keywords: cours en ligne, cours en ligne, langues étrangères, école de langue
+  title: Institut Macle, École de langues en ligne. Instructeurs natifs
+  description: |
+    Cours individuels, en ligne, en direct et dynamiques pour tous les âges et tous les niveaux. 
+    Apprenez l'anglais, l'espagnol ou le français à votre rythme tout en suivant un emploi du temps qui vous convient le mieux. 
+    Nous vous associerons à un enseignant certifié qui vous fournira des plans de cours hautement personnalisés pour vous aider à atteindre vos objectifs spécifiques. 
+  keywords: |
+    cours en ligne, cours en ligne, langues étrangères, école de langues,
+    Amérique latine, États-Unis, Canada.
   spanish: Espagnol
   english: Anglais
   french: Français
-  subtitle: ''
-  read_more: Lire plus
+  subtitle: |
+    L'INSTITUT MACLE - RENDRE LES GENS MULTILINGUES !
+  read_more: En savoir plus
   read_less: Lire moins
-  about: À Propos
-  social: Réseaux Sociaux
+  about: À propos
+  social: Social
   languages:
     - es
     - en
     - fr
     - de
+  start: Commencez
+
 header:
-  baseline: Bientôt disponible !
-  items: []
+  baseline: "Nous rendons les gens multilingues"
+  items:
+    - 100% en ligne
+    - Cours privés individuels
+    - Instructeurs natifs
+  cta: EN SAVOIR PLUS
+  
+benefits:
+  title: Pourquoi Macle est-il fait pour moi ?
+  items:
+    - Apprenez à parler couramment dans des situations réelles
+    - Des enseignants disponibles pour vous aider et vous soutenir pendant vos études
+    - Des méthodes conformes au Cadre européen commun
+    - Assimiler différentes cultures et coutumes
+    - Communiquer efficacement et de manière appropriée dans toutes les situations
+
+courses:
+  title: Cours en ligne
+  footnote:
+  items:
+    -
+      title: Adultes
+      content: |
+        ### Cours individuels et hautement personnalisés pour adultes.
+
+        **Langues :** Espagnol, français et anglais.
+
+        **Niveaux :** A1-débutant à C2-avancé.
+
+        **Emploi du temps :** Vous et votre enseignant définissez le jour et l'heure. Vous pouvez prendre autant d'heures de cours par semaine que vous le souhaitez !
+
+        #### ✨ Avantages
+        Les cours individuels présentent de nombreux avantages par rapport aux cours en groupe
+        - Chaque cours est spécifiquement planifié pour vous.
+        - Apprenez à votre rythme tout en suivant un emploi du temps qui vous convient le mieux.
+        - Vous aurez accès aux meilleurs matériaux qui ont fonctionné pour des millions d'étudiants dans le monde entier.
+        - Nous nous assurerons de vous associer à un enseignant expérimenté, spécialisé dans la formation d'étudiants de votre niveau et ayant des objectifs et des besoins similaires.
+        - Vos leçons sont dispensées dans la langue cible dès le premier jour et chaque activité est axée sur un objectif d'apprentissage spécifique et adapté à vos besoins.
+        - L'Institut Macle supervisera les cours et évaluera vos progrès. Vous recevrez un rapport de progression qui montrera votre amélioration, et vous recevrez un certificat de fin de niveau.
+
+        #### 📚 Matériel
+        Après votre inscription aux cours et votre premier paiement, nous vous enverrons par COURRIER un ensemble de précieux matériaux d'apprentissage, comprenant :
+        - Des livres électroniques avec des leçons de grammaire, des dialogues, des textes à lire et des exercices pour apprendre du vocabulaire et vous permettre de vous engager efficacement dans des conversations.
+        - Des feuilles de travail qui vous donneront une meilleure compréhension des sujets de grammaire et du vocabulaire.
+        - Un cahier d'exercices pour revoir tout ce que vous apprenez.
+        - Des fichiers audio avec des locuteurs natifs pour améliorer vos compétences d'écoute et apprendre rapidement la langue de votre choix.
+        - Des cartes mémoire pour un entraînement supplémentaire.
+
+        _* Avant de vous envoyer les supports d'étude, nous vérifierons votre âge et confirmerons votre niveau actuel. Cela nous permettra de vous fournir les meilleurs supports et méthodes d'enseignement possibles pour vous aider à atteindre vos objectifs spécifiques._
+    -
+      title: Enfants et adolescents
+      content: |
+        ### Cours individuels et hautement personnalisés pour enfants et adolescents
+
+        **Enfants** entre six et douze ans.
+
+        **Adolescents** entre treize et dix-sept ans.
+
+        **Langues :** Espagnol, français et anglais.
+
+        **Niveaux :** A1-débutant à C2-avancé.
+
+        **Emploi du temps :** Vous et votre enseignant définissez le jour et l'heure. Vos enfants peuvent prendre autant d'heures de cours par semaine qu'ils le souhaitent !
+
+        #### ✨ Avantages
+
+        Non seulement chaque cours est spécifiquement planifié pour vos enfants, mais il y a de nombreux autres avantages :
+
+        - Vos enfants apprendront à leur propre rythme tout en suivant un emploi du temps qui leur convient le mieux.
+        - Les cours sont dispensés dans la langue étrangère dès le premier jour et chaque activité est basée sur un objectif d'apprentissage spécifique et personnalisé à vos besoins.        - Nous nous assurerons que vous êtes apparié avec un enseignant expérimenté qui se spécialise dans l'enseignement aux étudiants de niveau et présentant des objectifs et des besoins similaires à ceux de vos enfants.
+        - Vous aurez accès aux meilleurs matériaux qui ont fonctionné pour des millions d'étudiants dans le monde entier.
+        - Vos enfants amélioreront leur prononciation et développeront des compétences exceptionnelles à l'oral grâce à une plateforme interactive comprenant des exercices audio, des jeux et des chansons.
+        - Vos enfants apprendront la géographie, l'histoire, les sciences, etc. - cela permettra à vos enfants d'apprendre la nouvelle langue dans un contexte important et utile et leur donnera un avantage considérable dans leur vie académique et professionnelle.
+        - L'Institut Macle supervisera les cours. Vos enfants recevront un rapport de progression avec leur niveau d'amélioration et des commentaires.
+        - Vos enfants recevront un certificat de fin de niveau.
+        - Vos enfants apprécieront nos cours car nos cours sont dynamiques et amusants.
+
+        #### 📚 Matériel
+
+        Après votre inscription aux cours et votre premier paiement, nous vous enverrons par COURRIER un ensemble de précieux matériaux d'apprentissage, comprenant :
+
+        - Des livres électroniques avec des leçons de grammaire, des dialogues, des textes à lire et des exercices pour apprendre du vocabulaire et permettre à vos enfants de s'engager efficacement dans des conversations.
+        - Des feuilles de travail qui donneront une meilleure compréhension des sujets de grammaire et du vocabulaire.
+        - Un cahier d'exercices pour revoir tout ce que vous apprenez.
+        - Des fichiers audio avec des locuteurs natifs pour améliorer les compétences d'écoute et apprendre rapidement la langue de votre choix.
+        - Des cartes mémoire pour un entraînement supplémentaire.
+
+        _* Le parent ou tuteur sera responsable de la transmision des supports d'étude à l'étudiant. transmission à l'enfant/l'adolescent._ 
+
+        #### ⭐ Encourager l'excellence
+
+        Des études ont montré qu'il est généralement plus facile pour les enfants et les adolescents d'apprendre une nouvelle langue que pour les adultes. Les personnes qui commencent à apprendre une nouvelle langue à un jeune âge sont plus susceptibles de :
+
+        - Atteindre la maîtrise et communiquer efficacement avec des personnes du monde entier.
+        - Obtenir des bourses pour fréquenter les meilleures universités du monde, participer à des programmes d'échange internationaux et obtenir des subventions et des bourses.
+        - Accéder au marché du travail international, ce qui conduit généralement à un salaire très élevé.
+        - Créer leur propre entreprise et étendre ses activités à travers le monde.
+
+faq:
+  title: FAQ
+  subtitle: "Voici quelques questions fréquemment posées sur nos cours en ligne :"
+  items:
+    - q: Qu'est-ce que Macle ?
+      a: |
+       Macle est un institut en ligne dédié à l'enseignement des langues – anglais, français et espagnol. Nous disposons d'enseignants bien formés et très expérimentés, ainsi que d'un coordinateur académique.\
+       &nbsp;\
+       Dans notre institut, vous apprendrez les langues en utilisant des méthodes d'enseignement très avancées qui vous aideront à obtenir une certification reconnue internationalement. Nous sommes l'un des rares instituts de langues à utiliser la méthodologie européenne pour enseigner ses cours.
+    - q: Comment puis-je m'inscrire à un cours ?
+      a: |
+        Pour vous inscrire, allez dans la section "Cours individuels en ligne" et cliquez sur "Commencer". Choisissez le nombre de cours que vous souhaitez acheter et procédez au paiement sur notre site web par carte de crédit ou de débit. Nous acceptons les paiements par la méthode Stripe.\
+        &nbsp;\
+        Une fois votre paiement effectué, vous devrez remplir un formulaire avec vos coordonnées, sélectionner la langue que vous souhaitez étudier et indiquer votre niveau souhaité.\
+        &nbsp;\
+        Après avoir soumis le formulaire, vous devez réserver votre première classe sur notre système de calendrier. Vous pouvez ajouter la classe à votre calendrier personnel et vous recevrez une invitation pour vous connecter avec votre enseignant via **Google Chat**. N'oubliez pas de télécharger l'**application Google Chat** et **Google Meet** pour rejoindre la classe le jour prévu.
+
+    - q: Les enseignants sont-ils des locuteurs natifs ?
+      a: |
+        Nous avons des enseignants dont la langue maternelle est celle qu'ils enseignent et qui sont tous certifiés. Tous nos enseignants passent par un processus d'embauche très approfondi et rigoureux qui comprend plusieurs étapes pour s'assurer qu'ils sont hautement qualifiés. Beaucoup de nos enseignants ont des diplômes de troisième cycle et plusieurs années d'expérience dans l'enseignement des langues.
+    - q: Dois-je acheter des matériaux ?
+      a: |
+        Non. Nous vous fournissons gratuitement tous les matériaux dont vous aurez besoin : un manuel, un cahier d'exercices et des fichiers audio.
+    - q: À quoi ressemblent les cours ?
+      a: |
+        Les leçons individuelles en ligne sont adaptées à 100% à vos objectifs et besoins, et peuvent être planifiées à un moment et un lieu qui vous conviennent.
+        Vous pouvez choisir n'importe quel jour et modifier votre emploi du temps, mais les changements doivent être effectués au moins 24 heures à l'avance.\
+        Dans nos cours d'anglais, de français et d'espagnol, nous utilisons divers matériaux, notamment des vidéos, des manuels, des cahiers d'exercices, des fichiers audio de dialogues, des jeux amusants, des cartes mémoire et d'autres activités dynamiques et hautement interactives pour pratiquer la parole.
+
+    - q: Quels matériaux utilisez-vous pour enseigner vos cours ?
+      a: |
+        Nos enseignants utilisent leur propre matériel et, pour soutenir leurs cours, ils utilisent :
+        - Dans les **cours d'anglais**, la plateforme Cambridge, qui a donné d'excellents résultats à des millions d'étudiants dans le monde.
+        - Pour les **cours de français**, ils suivent les méthodes de la Maison de Langues - une maison d'édition internationalement reconnue, qui a remporté plusieurs prix pour ses méthodes d'enseignement.
+        - Nos **enseignants d'espagnol** suivent les manuels numériques Campus Diffusion, qui leur donne accès aux matériaux publiés par l'Instituto Cervantes - une institution publique fondée en Espagne en 1991 pour promouvoir l'enseignement, l'étude et l'utilisation de l'espagnol et aider à éduquer les gens du monde entier sur les cultures hispaniques.
+
+    - q: Fournissez-vous une preuve d'étude ?
+      a: |
+       Oui. Nous vous donnons un rapport de progression avec des commentaires en format PDF à la fin de chaque unité, et un diplôme à la fin de chaque niveau.
+    - q: Pourrai-je obtenir une certification à la fin d'un niveau ?
+      a: |
+        Non. Nous ne sommes pas un centre d'examen autorisé, mais nous vous aiderons à vous préparer à tous les examens de certification reconnus internationalement.
+
+        - Pour l'**anglais**, nous vous préparons à obtenir une certification Cambridge.
+          Plus de 25 000 organisations dans 130 pays du monde reconnaissent les certifications Cambridge comme les examens de compétence en anglais les plus exigeants et prestigieux au monde. Une fois que vous avez réussi un examen de certification Cambridge à un niveau spécifique, vos résultats sont valables pour le reste de votre vie - vous n'aurez jamais à repasser l'examen.
+        - En **français**, nous vous préparons à obtenir le DELF et le DALF, qui sont les diplômes officiels de compétence en français décernés par France Éducation International au nom du ministère français de l'Éducation nationale.
+        - Pour l'**espagnol**, nous vous préparons à obtenir le DELE, qui est accordé par l'Instituto Cervantes au nom du ministère espagnol de l'Éducation, de la Culture et des Sports.
+
+mission:
+  title: Notre mission
+  description: |
+   À l'institut Macle, notre mission est d'aider nos étudiants à améliorer leurs compétences en expression orale, compréhension orale, lecture et écriture dans la langue de leur choix (anglais, français, espagnol ou allemand).
+    
+    **Nous y parvenons en nous assurant que nos enseignants utilisent les méthodes d'enseignement les plus avancées et efficaces préconisées par le Cadre européen commun de référence, y compris l'utilisation d'une approche communicative et orientée vers l'action pour préparer les étudiants à des situations réelles.**
+      
+      Nos étudiants réalisent des tâches et des activités en classe qui simulent des situations quotidiennes réelles - des situations qui se produiraient exactement comme si l'étudiant voyageait ou vivait à l'étranger pour le travail, les études ou les loisirs. De cette manière, nos étudiants sont en mesure de pratiquer leurs compétences linguistiques et d'appliquer ce qu'ils ont appris dans des contextes réels et significatifs, au lieu d'essayer d'apprendre en utilisant des méthodes d'enseignement passives, dépassées et inefficaces telles que faire des conférences aux étudiants, leur demander de mémoriser des listes de mots de vocabulaire et utiliser des exercices répétitifs.
+      
+      D'un autre côté, nous utilisons également des séquences pédagogiques - c'est-à-dire que chaque cours est lié au suivant. Nous pensons qu'il est très important que les étudiants maîtrisent chaque sujet avant de passer à des sujets plus avancés - nous y parvenons en révisant les sujets des cours précédents et en les incluant dans les cours futurs, car les études ont montré que la répétition est un outil d'apprentissage très puissant.
+    
+    De plus, les étudiants improvisent des dialogues sur leur vie, participent à des conversations et font des exercices de jeu de rôle avec leurs camarades de classe afin de pratiquer leurs compétences en expression et compréhension orales dans des situations réelles.
+
+  director:
+    name: Carolina Ojeda
+    title: Directrice académique
+    studies: Master en éducation et formation, DALF, PRO FLE, TKT
+    story:
+      catch: |
+       Apprendre une langue a été la meilleure décision de ma vie. Il y a plusieurs années, je suis allée en France, et j'ai appris le français et la culture française. J'ai voyagé dans toute l'Europe - j'ai mangé de délicieux plats et j'ai été payée en euros, ce qui m'a permis de rester en France pendant plusieurs années. J'ai rencontré de nouvelles personnes du monde entier, y compris mon mari. Pendant ce temps, j'ai décidé de réaliser mon rêve de créer un institut privé de langues pour offrir aux gens les mêmes opportunités et vivre les mêmes expériences que moi.
+      content: |
+        J'ai commencé ma carrière d'enseignante en 2013 - j'ai enseigné le français dans des universités publiques et privées au Mexique. Après avoir enseigné le français au Mexique pendant quelques années, j'ai décidé de postuler pour une bourse en tant qu'assistante en langue espagnole en France. Plus tard, j'ai obtenu un master en éducation et formation à Montpellier où j'ai travaillé comme enseignante d'espagnol dans un lycée public.
+        
+        La formidable éducation et les expériences incroyables que j'ai eues en France m'ont donné l'opportunité de partager les connaissances que j'ai acquises avec les étudiants et les collègues ici au Mexique - en particulier mes connaissances sur les méthodologies d'enseignement utilisées par le Conseil de l'Europe et mes compétences exceptionnelles en gestion.
+
+prices:
+  title: Cours en ligne
+  more: Plus d'informations
+  starting_at: À partir de
+  plans:
+    - id: individual-adults
+      cognito_id: 13
+      name: Adultes
+      price: 18 $USD / heure
+      languages:
+        - en
+        - fr
+        - es
+      students: Individuel
+
+    - id: individual
+      cognito_id: 14
+      name: Enfants et adolescents
+      price: 18 $USD / heure
+      languages:
+        - en
+        - fr
+        - es
+      students: Individuel
+  
+  footnote: <b>Pour plus d'informations</b>
+  contact_us: Contactez-nous
+
+quote:
+  author: Kirill Korshikov
+  content: "N'arrêtez jamais d'apprendre, car la vie n'arrête jamais de nous enseigner"
+
 slideshow:
   items:
-    - Devenez bilingue
-    - Gagnez un meilleur salaire dans votre pays ou à l'étranger
-    - Voyagez sans problèmes
-    - Rencontrez des personnes d'autres horizons
-    - Faites partie d'une organisation internationale
-    - Enseignez à d'autres étudiants
+    - Enseignants hautement qualifiés
+    - Cours personnalisés axés sur vos besoins
+    - Notre méthode est basée sur la conversation
+
+team:
+  title: "Des enseignants expérimentés dédiés à votre réussite"
+  footnote: |
+    Avez-vous une licence, un master ou un doctorat en langues étrangères ou dans un domaine connexe ? Avez-vous 4 ans d'expérience ou plus dans l'enseignement d'une langue ?
+  apply: Postuler
+  link: ~
+  teachers:
+    - name: Cecilia Carvallo
+      image: team_p4
+      studies: Doctorat en lettres modernes
+      story: |
+        Cecilia est une enseignante d'espagnol qui a enseigné l'espagnol dans un lycée avant de terminer son doctorat et d'enseigner la linguistique dans une université très prestigieuse au Mexique. Elle a également enseigné l'espagnol langue étrangère en ligne. Tous ses élèves adorent ses cours, et elle a aidé de nombreux étudiants à obtenir la certification DELE. Cecilia est passionnée par l'enseignement - surtout en ce qui concerne les nuances de la langue espagnole et la culture latino-américaine.
+    - name: Paul Henri Eche
+      image: team_p3
+      studies: Master en traduction espagnol-français et PRO FLE
+      story: |
+        Paul est un enseignant et interprète de français natif qui vit et enseigne au Mexique depuis plus de 20 ans, et il parle couramment l'espagnol et l'anglais. Paul a un grand sens de l'humour et un style d'enseignement très dynamique. Pendant ses cours, il expliquera la signification et l'origine de nombreux mots et expressions utiles. Il est passionné par la littérature et est un expert en histoire. Il a voyagé partout dans le monde et il aime apprendre de nouvelles langues, y compris le japonais. De plus, vous serez impressionné par ses compétences exceptionnelles en dessin lorsqu'il dessinera sur le tableau virtuel !
+    - name: Arturo Silva
+      image: team_p2
+      studies: Master en enseignement de l'anglais comme langue étrangère et TKT.
+      story: |
+        Arturo est un professeur d'anglais expérimenté qui a commencé sa carrière d'enseignant en 2012. Arturo est à 100 % dédié à l'enseignement, et il a réussi à passer avec succès à l'enseignement en ligne en utilisant des techniques spéciales pour faciliter les conversations et les activités de groupe pendant ses cours. Il aime enseigner la grammaire et le vocabulaire anglais dans le contexte de sujets intéressants tels que l'actualité, et il aime utiliser des supports authentiques, comme des articles de presse et des vidéos pour animer des discussions de groupe dynamiques et interactives. Il aime également jouer des chansons pendant ses cours pour enseigner la grammaire, le vocabulaire et la prononciation. Il vous expliquera également les différences culturelles qui existent entre le Mexique, les États-Unis et le Royaume-Uni, car il a vécu dans ces trois pays.
+
+    - name: Emmanuel Morales
+      image: team_p1
+      studies: Certificat d'enseignement des langues et d'ingénierie électronique.
+      story: |
+        Emmanuel est un professeur d'anglais et d'allemand avec 18 ans d'expérience qui possède des certifications dans les deux langues au niveau C1. Il a vécu en Allemagne pendant plusieurs années où il a étudié l'allemand. Il a travaillé comme assistant de traduction à l'ambassade d'Allemagne et a enseigné l'anglais et l'allemand dans différents lycées et universités. Il est l'enseignant idéal pour apprendre les langues du niveau débutant au niveau avancé dans un environnement d'apprentissage détendu mais structuré. Il peut même vous enseigner l'ingénierie, car il possède de nombreuses connaissances dans ce domaine.
+
+testimonials:
+  title: Témoignages de nos étudiants !
+
+payment:
+  title: ✅ Vos informations ont été enregistrées
+  subtitle: Veuillez sélectionner l'un des plans suivants
+  stripe_link_id: prctbl_1MlktNHYqBoU7age1PWDMyjl 
 
 form:
-  title: Merci pour votre paiement
-  subtitle: Veuillez completer le formulaire suivant
+  title: ✅ Merci pour votre paiement
+  subtitle: Veuillez remplir le formulaire suivant pour nous donner plus d'informations sur votre niveau
   cognito_id: 14
+
+confirmation:
+  title: ✅ Merci, vos informations ont été enregistrées
+  subtitle: Nous vous contacterons pour planifier votre première classe

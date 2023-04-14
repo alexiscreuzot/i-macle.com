@@ -123,61 +123,6 @@ courses:
         - Receive scholarships to attend the best universities in the world, participate in international exchange programs, and obtain grant money and fellowships.   
         - Gain access to the international job market, which usually leads to a very high salary.
         - Start their own company  and expand its operations around the world.
-    # - 
-    #   title: Academic Courses
-    #   content: |
-    #     **Do you want to speak fluently in a different language?**
-
-    #     If so, you’ve come to the right place! We have four languages to choose from: English, French, Spanish and German.
-    #     We offer academic courses for teenagers and adults from beginner to advanced levels (A1-C2).
-
-    #       - Six to eight students in each class.
-    #       - Lots of speaking practice during each class to improve your pronunciation, vocabulary and fluency.
-    #       - Experience total immersion by speaking to your teacher and classmates, watching videos, listening to audios, and reading.
-    #       - You will follow a study plan that will help you to improve and achieve a higher level.  
-    #       - You will have extra, specialized support to improve your grammar and writing skills.
-    #       - Dynamic learning environment that will include playing games and doing virtual exercises.
-    #       - You will receive a Macle Institute certificate of completion at the end of the course.
-    #       - Excellent opportunity to achieve complete mastery of the language of your choice and speak like a native speaker.
-          
-    #     If you do not know your current level of the language you want to learn, we will send you a free placement test.
-    # - 
-    #   title: Conversational Classes
-    #   content : |
-    #     **You want to improve your conversational skills by  talking to your teacher and students who have the same level as you?**
-
-    #     If so, we have the perfect classes for you. Four languages to choose from: English, French, Spanish and German, with classes available for teenagers and adults at levels A2, B1, and B2.
-
-    #       - Five to seven students in each class.
-    #       - Opportunity to discuss  interesting issues including current events, science, technology, history, art, business, education, entertainment, etc.
-    #       - You will also have a chance to teach your classmates about your home country and culture if you’d like.
-    #       - A teacher will attend each class to facilitate the conversations and answer questions. 
-    #       - In each class, you will analyze an article, video or podcast and answer some listening or reading comprehension questions, and afterwards, you will discuss your answers with your classmates.  
-    #       - You will be able to communicate in the language of your choice with confidence after having interesting and enjoyable conversations with your classmates.
-    #       - You will take a test to evaluate your speaking skills.
-    #       - You will be able to pass the speaking section of a certification exam more easily.
-    # - 
-    #   title: Courses for kids between the ages of six and twelve
-    #   zoho_link: https://forms.zohopublic.com/insitutomacle/form/NIOS/formperma/cK6kfm7uBiWwfeHBSMicccvb9jMUj61P-hossYKovWs
-    #   content: |
-    #     **Do you want your child to be multilingual and achieve more academic and professional success than other children?**
-
-    #     Studies have shown that it’s usually easier for young children to learn a new language than it is for teenagers and adults. Children who start learning a new language at a young age are more likely to:
-
-    #       - Achieve fluency and communicate effectively with people from all over the world.
-    #       - Receive scholarships to attend the best universities in the world, participate in international exchange programs, and obtain grant money and fellowships. 
-    #       - Gain access to the international job market, which usually leads to a very high salary.
-    #       - Start their own company  and expand its operations around the world.
-
-    #     **Your child will enjoy our classes much more than their classes at their elementary or middle school because our classes are much more dynamic and fun thanks to our unique teaching methods.**
-
-    #       - Six to eight students in each class.
-    #       - A teacher will be present at all times.
-    #       - Your child will improve their pronunciation and will develop  exceptional speaking skills by using an interactive platform which features audio exercises, games and songs. 
-    #       - Your child will learn about geography, history,science, etc. – this will allow your child to learn the new language in an important and useful context and give them a tremendous advantage during their academic and professional careers.
-    #       - Your child will receive a progress report at the end of each unit with their results, progress assessment and feedback.
-    #       - Your child will receive a coursebook and workbook at no additional cost, and they will do virtual exercises using a digital platform during class. 
-    #       - Each student will receive a Macle Institute certificate of completion at the end of the course.
 
 faq:
   title: FAQ
@@ -275,35 +220,7 @@ prices:
         - fr
         - es
       students: One-to-one
-    # - id: academic
-    #   cognito_id: 5
-    #   name: Academic Courses
-    #   price: $105 / month
-    #   languages:
-    #     - es
-    #     - fr
-    #     - de
-    #   students: 6 to 8 students
-    #   link: ~
-    # - id: conversational
-    #   cognito_id: 4
-    #   name: Conversational Classes
-    #   price: $96 / month
-    #   languages:
-    #     - es
-    #     - fr
-    #     - de
-    #   students: 5 to 7 students
-    #   link: ~
-    # - id: kids
-    #   cognito_id: 6
-    #   name: Courses for kids (6 to 12)
-    #   price: $105 / month
-    #   languages:
-    #     - es
-    #     - fr
-    #   students: 6 to 8 students
-    #   link: ~
+  
   footnote: <b>For more information</b>
   contact_us: Contact us
 
