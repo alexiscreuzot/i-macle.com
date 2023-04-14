@@ -410,6 +410,11 @@ form:
   subtitle: Por favor completa el siguiente formulario
   cognito_id: 9
 
+calendar:
+  title: ✅ Thank you, your information have been saved 
+  subtitle: Please select a time to schedule your first class
+  koalendar_url: https://koalendar.com/e/first-lesson-koaBL1qh?embed=true
+
 confirmation:
   title: ✅ Thank you, your information have been saved
   subtitle: We will contact you to schedule your first class

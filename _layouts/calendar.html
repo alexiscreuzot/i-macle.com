@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+    {% include head.html %}
+
+<body>
+
+  {% include banner.html %}
+
+  <div class="wrapper">
+    <div class="section">
+        
+        <div class="container">
+            <h4 id="confirmation" style="display: none;">{% t calendar.title %}</h4>
+            <h3>{% t calendar.subtitle %}</h3>
+            <iframe src="https://koalendar.com/e/first-lesson-koaBL1qh?embed=true" width="100%" style="min-height: 800px;" frameborder="0"></iframe>
+        </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+
+  {% include messenger_plugin.html %}
+
+  {% include scripts.html %}
+  
+</body>
+</html>

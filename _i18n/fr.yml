@@ -277,6 +277,11 @@ form:
   subtitle: Veuillez remplir le formulaire suivant pour nous donner plus d'informations sur votre niveau
   cognito_id: 14
 
+calendar:
+  title: ✅ Thank you, your information have been saved 
+  subtitle: Please select a time to schedule your first class
+  koalendar_url: https://koalendar.com/e/first-lesson-koaBL1qh?embed=true
+
 confirmation:
   title: ✅ Merci, vos informations ont été enregistrées
   subtitle: Nous vous contacterons pour planifier votre première classe
