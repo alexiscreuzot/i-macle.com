@@ -5,7 +5,7 @@
       <div class="column">
         <h4 class="title">{% t courses.title %}</h4>
         <ul>
-          {% for item in site.translations[site.lang].prices.plans %}
+          {% for item in site.translations[site.lang].pricing.plans %}
           <li><a href="{{ site.baseurl }}/course-{{ item['id'] }}">{{ item["name"] }}</a></li>
           {% endfor %}
         </ul>
