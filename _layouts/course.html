@@ -51,29 +51,24 @@
         </div>
       </div>
 
+
       <div style="clear:both;"></div>
       <br/>
 
     </div>
+
+    <div class="logos">
+      <ul>
+        <li><img src="{{ site.baseurl_root }}/assets/images/logo_cambridge.png"></li>  
+        <li><img src="{{ site.baseurl_root }}/assets/images/logo_mdf.png"></li> 
+        <li><img src="{{ site.baseurl_root }}/assets/images/logo_hueber.png"></li> 
+        <li><img src="{{ site.baseurl_root }}/assets/images/logo_cervantes.png"></li> 
+      </ul>
+    </div>
+
   </div>
 
-  <div id= "stripe" style="text-align: center; margin: 3rem 0 2rem;">
-    <h3>{% t payment.subtitle %}</h3>
-  </div>
-  
-  <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-  <stripe-pricing-table pricing-table-id="{% t payment.stripe_link_id %}"
-  publishable-key="pk_live_51MkA0fHYqBoU7agenJrdfC1qZNAUfcbO7DuHGwpA2YCj3gAsru5mLj499Ln5iK6d3h6eBIRLLigpqmK059nze6T400AiNP2wRj">
-  </stripe-pricing-table>
-
-  <div class="logos">
-    <ul>
-      <li><img src="{{ site.baseurl_root }}/assets/images/logo_cambridge.png"></li>  
-      <li><img src="{{ site.baseurl_root }}/assets/images/logo_mdf.png"></li> 
-      <li><img src="{{ site.baseurl_root }}/assets/images/logo_hueber.png"></li> 
-      <li><img src="{{ site.baseurl_root }}/assets/images/logo_cervantes.png"></li> 
-    </ul>
-  </div>
+  {% include stripe.html %}
 
   <br/>
 

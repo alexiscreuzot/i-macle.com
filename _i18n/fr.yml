@@ -214,7 +214,8 @@ pricing:
         - Accéder au marché du travail international, ce qui conduit généralement à un salaire très élevé.
         - Créer leur propre entreprise et étendre ses activités à travers le monde.
   
-  
+stripe: 
+  title: "Formules"
 
 quote:
   author: Kirill Korshikov

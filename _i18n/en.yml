@@ -224,6 +224,9 @@ slideshow:
     - Customized courses focused on your needs
     - Our method is conversation based
 
+stripe: 
+  title: "Plans"
+
 team:
   title: "Experienced teachers dedicated to your success"
   footnote: |

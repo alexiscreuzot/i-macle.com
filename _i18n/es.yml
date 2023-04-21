@@ -239,6 +239,9 @@ pricing:
           -Acceder al mercado laboral internacional, lo que suele dar lugar a un salario muy elevado.
           -Crear su propia empresa y expandir sus operaciones por todo el mundo.
 
+stripe: 
+  title: "Planes"
+
 quote:
   author: Martin Luther King
   content: |
