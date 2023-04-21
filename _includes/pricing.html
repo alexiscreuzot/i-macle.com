@@ -1,21 +1,21 @@
-{% if site.translations[site.lang].prices %}
-<div id="prices" class="section">
+{% if site.translations[site.lang].pricing %}
+<div id="pricing" class="section">
   <div class="container">
 
-    <h2><i class="icofont-globe"></i>&nbsp;&nbsp;{% t prices.title %}</h2>
+    <h2><i class="icofont-globe"></i>&nbsp;&nbsp;{% t pricing.title %}</h2>
     <br>
 
     <div class="columns-wrapper">
-    {% for plan in site.translations[site.lang].prices.plans %}
+    {% for plan in site.translations[site.lang].pricing.plans %}
     <a href="{{ site.baseurl }}/course-{{ plan['id'] }}" title="{{ plan['name'] }}">
     <div class="columns scale-up show-once">
       <div class="plan">
-        <div class="row header">{{ plan["name"] }}</div>
+        <div class="row header">{{ plan["title"] }}</div>
         <div class="row image {{ plan['id'] }}">
           <div class="price">
-            <small>{% t prices.starting_at %}</small>
+            <small>{% t pricing.starting_at %}</small>
             {{ plan["price"] }}
-            <div class="more">{% t prices.more %}</div>
+            <div class="more">{% t pricing.more %}</div>
           </div>
         </div>
         <div class="row">
@@ -40,8 +40,8 @@
        
     <!-- <div class="centered">
       <p>
-        <small>{% t prices.footnote %}</small><br/>
-        <a class="button contact" href="https://bit.ly/3GnoHCn" target="_blank">{% t prices.contact_us  %}&nbsp;&nbsp;<i class="icofont-whatsapp"></i></a>
+        <small>{% t pricing.footnote %}</small><br/>
+        <a class="button contact" href="https://bit.ly/3GnoHCn" target="_blank">{% t pricing.contact_us  %}&nbsp;&nbsp;<i class="icofont-whatsapp"></i></a>
       </p>
     </div> -->
 

@@ -7,23 +7,20 @@
 
   {% include banner.html %}
 
-  {% if site.translations[site.lang].courses %}
-  {% assign course = site.translations[site.lang].courses.items[page.index] %}
+  {% if site.translations[site.lang].pricing %}
+  {% assign plan = site.translations[site.lang].pricing.plans[page.index] %}
   <div id="courses" class="section">
     <div class="container">
 
-      <h2><i class="icofont-group-students"></i>&nbsp;&nbsp;{{ course.title }}</h2>
+      <h2><i class="icofont-group-students"></i>&nbsp;&nbsp;{{ plan.title }}</h2>
       
       <div class="course">
-        {{ course.content | markdownify }}
+        {{ plan.content | markdownify }}
       </div>
     </div>
   </div>
-  {% endif %}
 
-  {% if site.translations[site.lang].prices %}
-  {% assign plan = site.translations[site.lang].prices.plans[page.index] %}
-  <div id="prices" class="section">
+  <div id="pricing" class="section">
     <div class="container columns-wrapper">
 
       <div class="columns show-once scale-up" style="float:none;margin:auto">
@@ -31,7 +28,7 @@
           <div class="row header">{{ plan["name"] }}</div>
           <div class="row image {{ plan['id'] }}">
             <div class="price">
-              <small>{% t prices.starting_at %}</small>
+              <small>{% t pricing.starting_at %}</small>
               {{ plan["price"] }}
             </div>
           </div>
@@ -60,7 +57,6 @@
     </div>
   </div>
 
-  {% if site.translations[site.lang].prices %}
   <div id= "stripe" style="text-align: center; margin: 3rem 0 2rem;">
     <h3>{% t payment.subtitle %}</h3>
   </div>
@@ -80,7 +76,6 @@
   </div>
 
   <br/>
-  {% endif %}
 
   {% endif %}
 

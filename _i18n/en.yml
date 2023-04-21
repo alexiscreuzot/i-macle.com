@@ -41,89 +41,7 @@ benefits:
     - Methods in accordance with the Common European Framework
     - Assimilate different cultures and customs 
     - Communicate effectively and appropriately in any situation
-
-courses:
-  title: Online courses
-  footnote:
-  items:
-    -
-      title: Adults
-      content: |
-        ### Individual, highly-personalized classes for adults.
-
-        **Languages:** Spanish, French and English.
-
-        **Levels:** A1-basic to C2-advanced.
-
-        **Class schedule:** You and your teacher set the day and time. You can take as many hours of class per week as you want! 
-
-        #### ✨ Advantages
-        Individual classes have multiple advantages compared to group classes
-        - Each class is planned specifically for you.
-        - Learn at your own pace while following a schedule that suits you best.
-        - You will have access to the best materials that have worked for millions of students around the world.
-        - We will make sure to match you with an experienced teacher who specializes in teaching students who are at your level and have similar goals and needs. 
-        - Your lessons are conducted in the target language from day one and each activity focuses on a specific learning goal tailored to your needs.
-        - Macle Institut will supervise the classes and evaluate your progress. You will receive a progress report that will show your level of improvement, and you will receive a certificate of completion at the end of each level.
-        
-        #### 📚 Material
-        After you register for classes and make your first payment, we will send you a package of valuable learning materials by MAIL, including:
-        - Ebooks with grammar lessons, dialogues, reading passages, and exercises to learn vocabulary and enable you to effectively engage in conversations.
-        - Worksheets that will give you a better understanding of grammar topics and vocabulary.
-        - A workbook to review everything that you learn.
-        - Audio files featuring native speakers to improve your listening skills and quickly learn the language of your choice.
-        - Flashcards for additional practice.
-
-        _*Before sending you the study materials, we will verify your age and confirm your current level. This will ensure that we provide you with the best materials and teaching methods possible to help you achieve your specific goals._
-    -
-      title: Children and teenagers
-      content: |
-        ### Individual, highly-personalized classes for children and teenagers 
-
-        **Children** between the ages of six and twelve.
-
-        **Teenagers** between the ages of thirteen and seventeen.
-
-        **Languages:** Spanish, French and English.
-
-        **Levels:** A1-basic to C2-advanced.
-
-        **Class schedule:** You and your teacher set the day and time. Your children can take as many hours of class per week as they want! 
-
-        #### ✨ Advantages
-
-        Not only each class is planned specifically for your children, but there are many other benefits :
-
-        - Your children will learn at their own pace while following a schedule that suits them best.
-        - Classes are conducted in the foreign language from day one and each activity is based on a specific learning objective and personalised to your needs.        - We will make sure to match you with an experienced teacher who specializes in teaching students who are at your children level and have similar goals and needs. 
-        - You will have access to the best materials that have worked for millions of students around the world.
-        - Your children will improve their pronunciation and will develop exceptional speaking skills by using an interactive platform which features audio exercises, games and songs. 
-        - Your children will learn about geography, history, science, etc. – this will allow your children to learn the new language in an important and useful context and give them a tremendous advantage during their academic and professional careers.
-        - Macle Institut will supervise the classes. Your childreen will receive a progress report that will show their level of improvement and feedback.
-        - Your children will receive a certificate of completion at the end of each level.
-        - Your children will enjoy our classes because our classes are dynamic and fun.
-
-        #### 📚 Material
-
-        After you register for classes and make your first payment, we will send you a package of valuable learning materials by MAIL, including:
-
-        - Ebooks with grammar lessons, dialogues, reading passages, and exercises to learn vocabulary and enable you to effectively engage in conversations.
-        - Worksheets that will give you a better understanding of grammar topics and vocabulary.
-        - A workbook to review everything that you learn.
-        - Audio files featuring native speakers to improve your listening skills and quickly learn the language of your choice.
-        - Flashcards for additional practice.
-
-        _*The parent or guardian will be responsible for receiving the materials and passing it to the child/ children/ teenagers._ 
-
-        #### ⭐ Foster excellence
-
-        Studies have shown that it’s usually easier for children and teenagers to learn a new language than it is for adults. People who start learning a new language at a young age are more likely to: 
-
-        - Achieve fluency and communicate effectively with people from all over the world.
-        - Receive scholarships to attend the best universities in the world, participate in international exchange programs, and obtain grant money and fellowships.   
-        - Gain access to the international job market, which usually leads to a very high salary.
-        - Start their own company  and expand its operations around the world.
-
+      
 faq:
   title: FAQ
   subtitle: "Here are a few frequently asked questions about our online courses:"
@@ -196,33 +114,105 @@ mission:
         
         The great education and incredible experiences that I had in France has given me the opportunity to share the knowledge that I acquired with students and colleagues here in Mexico – especially my knowledge of the teaching methodologies used by the Council of Europe and my exceptional management skills.
 
-prices:
+pricing:
   title: Online classes
   more: More information
   starting_at: Starting at 
+  footnote: <b>For more information</b>
+  contact_us: Contact us
   plans:
     - id: individual-adults
       cognito_id: 13
-      name: Adults
+      title: Adults
       price: $USD 18 / hour
       languages:
         - en
         - fr
         - es
       students: One-to-one
+      content: |
+        ### Individual, highly-personalized classes for adults.
+
+        **Languages:** Spanish, French and English.
+
+        **Levels:** A1-basic to C2-advanced.
+
+        **Class schedule:** You and your teacher set the day and time. You can take as many hours of class per week as you want! 
+
+        #### ✨ Advantages
+        Individual classes have multiple advantages compared to group classes
+        - Each class is planned specifically for you.
+        - Learn at your own pace while following a schedule that suits you best.
+        - You will have access to the best materials that have worked for millions of students around the world.
+        - We will make sure to match you with an experienced teacher who specializes in teaching students who are at your level and have similar goals and needs. 
+        - Your lessons are conducted in the target language from day one and each activity focuses on a specific learning goal tailored to your needs.
+        - Macle Institut will supervise the classes and evaluate your progress. You will receive a progress report that will show your level of improvement, and you will receive a certificate of completion at the end of each level.
+        
+        #### 📚 Material
+        After you register for classes and make your first payment, we will send you a package of valuable learning materials by MAIL, including:
+        - Ebooks with grammar lessons, dialogues, reading passages, and exercises to learn vocabulary and enable you to effectively engage in conversations.
+        - Worksheets that will give you a better understanding of grammar topics and vocabulary.
+        - A workbook to review everything that you learn.
+        - Audio files featuring native speakers to improve your listening skills and quickly learn the language of your choice.
+        - Flashcards for additional practice.
+
+        _*Before sending you the study materials, we will verify your age and confirm your current level. This will ensure that we provide you with the best materials and teaching methods possible to help you achieve your specific goals._
 
     - id: individual
       cognito_id: 14
-      name: Children and teenagers
+      title: Children and teenagers
       price: $USD 18 / hour
       languages:
         - en
         - fr
         - es
       students: One-to-one
-  
-  footnote: <b>For more information</b>
-  contact_us: Contact us
+      content: |
+        ### Individual, highly-personalized classes for children and teenagers 
+
+        **Children** between the ages of six and twelve.
+
+        **Teenagers** between the ages of thirteen and seventeen.
+
+        **Languages:** Spanish, French and English.
+
+        **Levels:** A1-basic to C2-advanced.
+
+        **Class schedule:** You and your teacher set the day and time. Your children can take as many hours of class per week as they want! 
+
+        #### ✨ Advantages
+
+        Not only each class is planned specifically for your children, but there are many other benefits :
+
+        - Your children will learn at their own pace while following a schedule that suits them best.
+        - Classes are conducted in the foreign language from day one and each activity is based on a specific learning objective and personalised to your needs.        - We will make sure to match you with an experienced teacher who specializes in teaching students who are at your children level and have similar goals and needs. 
+        - You will have access to the best materials that have worked for millions of students around the world.
+        - Your children will improve their pronunciation and will develop exceptional speaking skills by using an interactive platform which features audio exercises, games and songs. 
+        - Your children will learn about geography, history, science, etc. – this will allow your children to learn the new language in an important and useful context and give them a tremendous advantage during their academic and professional careers.
+        - Macle Institut will supervise the classes. Your childreen will receive a progress report that will show their level of improvement and feedback.
+        - Your children will receive a certificate of completion at the end of each level.
+        - Your children will enjoy our classes because our classes are dynamic and fun.
+
+        #### 📚 Material
+
+        After you register for classes and make your first payment, we will send you a package of valuable learning materials by MAIL, including:
+
+        - Ebooks with grammar lessons, dialogues, reading passages, and exercises to learn vocabulary and enable you to effectively engage in conversations.
+        - Worksheets that will give you a better understanding of grammar topics and vocabulary.
+        - A workbook to review everything that you learn.
+        - Audio files featuring native speakers to improve your listening skills and quickly learn the language of your choice.
+        - Flashcards for additional practice.
+
+        _*The parent or guardian will be responsible for receiving the materials and passing it to the child/ children/ teenagers._ 
+
+        #### ⭐ Foster excellence
+
+        Studies have shown that it’s usually easier for children and teenagers to learn a new language than it is for adults. People who start learning a new language at a young age are more likely to: 
+
+        - Achieve fluency and communicate effectively with people from all over the world.
+        - Receive scholarships to attend the best universities in the world, participate in international exchange programs, and obtain grant money and fellowships.   
+        - Gain access to the international job market, which usually leads to a very high salary.
+        - Start their own company  and expand its operations around the world.
 
 quote:
   author: Kirill Korshikov
