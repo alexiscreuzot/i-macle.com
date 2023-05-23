@@ -26,6 +26,7 @@
 
   .plan {
     display: block;
+    max-width: 320px;
 
     .row {
       display: block;
@@ -85,7 +86,7 @@
   /* Style the list */
   .plan {
     overflow: hidden;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     transition: 0.3s;
     border-radius: 10px;
