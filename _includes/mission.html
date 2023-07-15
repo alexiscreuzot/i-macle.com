@@ -1,7 +1,7 @@
 {% if site.translations[site.lang].mission %}
 <div id="mission">
   <div class="container">
-    <h2><i class="icofont-dart"></i>&nbsp;&nbsp;{% t mission.title %}</h2>
+    <h2>{% t mission.title %}</h2>
 
     {% capture description %}{% t mission.description %}{% endcapture %}
     <p>{{ description | markdownify }}</p>
