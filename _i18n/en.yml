@@ -270,7 +270,10 @@ form:
 
 calendar:
   title: ✅ Thank you, your information have been saved 
-  subtitle: Please select a time to schedule your first class
+  subtitle: |
+   ✨ In this lesson, the teacher will analyze your language level. You will know the material with which you will work. Feel free to discuss problems (if any) related to the language you want to learn.<br/>
+   🔴 After taking this lesson, your teacher will provide you with a link to schedule your upcoming lessons.
+
   koalendar_url: https://koalendar.com/e/book-your-30-minutes-free-online-lesson?embed=true
 
 confirmation:

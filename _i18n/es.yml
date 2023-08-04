@@ -326,8 +326,10 @@ form:
   cognito_id: 9
 
 calendar:
-  title: ✅ Thank you, your information have been saved 
-  subtitle: Please select a time to schedule your first class
+  title: ✅ Tu información ha sido registrada
+  subtitle: |
+   ✨ En esta lección conocerás el material con el que vas a trabajar. El profesor analizará tu nivel del idioma y podrás comentarle sobre tus problemas (si los hay) relacionados con el idioma que quieres aprender.<br/>
+   🔴 Después de tomar esta lección, tu profesor te proporcionará un enlace de su calendario virtual para programar tus próximas lecciones.
   koalendar_url: https://koalendar.com/e/reserva-tu-clase-en-linea-gratuita-30-minutos?embed=true
 
 confirmation:

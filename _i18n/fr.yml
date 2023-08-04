@@ -262,16 +262,19 @@ testimonials:
 payment:
   title: ✅ Vos informations ont été enregistrées
   subtitle: Veuillez sélectionner l'un des plans suivants
-  stripe_link_id: prctbl_1MlktNHYqBoU7age1PWDMyjl 
+  stripe_link_id: prctbl_1Nb5qgHYqBoU7agePTte1PBL 
 
 form:
   title: ✅ Merci pour votre paiement
   subtitle: Veuillez remplir le formulaire suivant pour nous donner plus d'informations sur votre niveau
-  cognito_id: 14
+  cognito_id: 15
 
 calendar:
-  title: ✅ Thank you, your information have been saved 
-  subtitle: Please select a time to schedule your first class
+  title: ✅ Vos informations ont été enregistrées
+  subtitle: |
+   ✨ Pendant cette leçon, vous vous familiariserez avec le matériel que vous utiliserez. Le professeur évaluera votre niveau de langue, et vous aurez l'opportunité de discuter de vos besoins et objectifs concernant la langue que vous souhaitez apprendre.<br/>
+   🔴 Après cette leçon, votre professeur vous fournira le lien de son calendrier en ligne pour planifier vos prochaines leçons.
+
   koalendar_url: https://koalendar.com/e/premier-cours-macle?embed=true
 
 confirmation:
