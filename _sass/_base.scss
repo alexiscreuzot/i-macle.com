@@ -112,6 +112,13 @@ a {
   fill: $complement-color;
 }
 
+.curve.footer {
+  margin-top: -80px;
+  .shape-fill{
+    fill: darken($accent-color, 38%);
+  }
+}
+
 .button {
 
   background: $accent-color;  /* fallback for old browsers */
