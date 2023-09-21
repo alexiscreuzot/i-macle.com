@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+{% include head.html %}
+
+<body>
+
+  {% include banner.html %}
+
+  <div class="wrapper">
+    <div class="section">
+        <div class="container">
+            <h2 style="padding: 0px;">{% t checkout.title %}</h2>
+            <small style="opacity: 0.5;">{% t checkout.subtitle %}</small>
+            <br>
+            <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+            <div id="pricing-table" style="text-align: center;"></div>
+        </div>
+        <br/>
+    </div>
+  </div>
+  
+
+  {% include footer.html %}
+
+<script>
+    // Function to extract URL parameters
+    function getParameterByName(name, url) {
+        if (!url) url = window.location.href;
+        name = name.replace(/[\[\]]/g, "\\$&");
+        var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+
+    var pid = getParameterByName('pid');
+    var pricingTable = document.getElementById('pricing-table');
+    if (pid) {
+        // Replace the content of the pricing table with the "pid" value
+        pricingTable.innerHTML = `<stripe-pricing-table pricing-table-id="${pid}"
+        publishable-key="pk_live_51MkA0fHYqBoU7agenJrdfC1qZNAUfcbO7DuHGwpA2YCj3gAsru5mLj499Ln5iK6d3h6eBIRLLigpqmK059nze6T400AiNP2wRj">
+        </stripe-pricing-table>`;
+    } else {
+      pricingTable.innerHTML  = `<h3 style="color:red;">Price ID not found</h3>`;
+    }
+    
+</script>
+  
+</body>
+</html>

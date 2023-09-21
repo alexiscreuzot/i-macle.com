@@ -263,6 +263,10 @@ payment:
   subtitle: Please select one of the following plans
   stripe_link_id: prctbl_1MlktNHYqBoU7age1PWDMyjl 
 
+checkout:
+  title: Checkout
+  subtitle: Payment protected by Stripe
+
 form:
   title: ✅ Thank you for your payment
   subtitle: Please fill the following form to give us more information about your level

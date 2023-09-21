@@ -264,6 +264,10 @@ payment:
   subtitle: Veuillez sélectionner l'un des plans suivants
   stripe_link_id: prctbl_1Nb5qgHYqBoU7agePTte1PBL 
 
+  checkout:
+    title: Payer
+    subtitle: Paiement sécurisé par Stripe
+
 form:
   title: ✅ Merci pour votre paiement
   subtitle: Veuillez remplir le formulaire suivant pour nous donner plus d'informations sur votre niveau

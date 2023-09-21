@@ -320,6 +320,10 @@ payment:
   subtitle: Escoge una de las siguientes opciones
   stripe_link_id: prctbl_1MldNkHYqBoU7ageyJwJoOVP 
 
+checkout:
+  title: Pagar
+  subtitle: Pago protegido por Stripe
+  
 form:
   title: ✅ Gracias por tu pago
   subtitle: Por favor completa el siguiente formulario
